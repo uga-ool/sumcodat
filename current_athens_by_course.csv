@@ -1,180 +1,181 @@
 course,updated_date,course_long_title,college,actual_enrollment,maximum_enrollment,remaining_seats,waitlist,percent_full
-AAEC3910,2024-11-25,Internships,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-AAEC4970R,2024-11-25,Faculty-Mentored Undergraduate Research II,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-ACCT2101,2024-11-25,Principles of Accounting I,Terry College of Business,2,25,23,0,0.08
-ADPR5010,2024-11-25,Advertising Internship,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
-ADPR5011,2024-11-25,Public Relations Internship,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
-ADPR5990,2024-11-25,Seminar in Advertising and Public Relations,Grady College of Journalism and Mass Communication,0,35,35,0,0.0
-ADSC3910,2024-11-25,Internship in ADS I,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
-ADSC3920,2024-11-25,Animal Science Internship II,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
-ADSC4960R,2024-11-25,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,20,20,0,0.0
-AFAM4170,2024-11-25,Introduction to Black Psychology,Franklin College of Arts and Sciences,1,5,4,0,0.2
-AFAM4880,2024-11-25,Topics in African American Literature,Franklin College of Arts and Sciences,0,10,10,0,0.0
-ALDR3900S,2024-11-25,Leadership and Service,College of Agricultural and Environmental Sciences,5,25,20,0,0.2
-ARGD3010,2024-11-25,Foundations of Graphic Design,Franklin College of Arts and Sciences,0,18,18,0,0.0
-ARGD3080,2024-11-25,Internship in Graphic Design,Franklin College of Arts and Sciences,0,16,16,0,0.0
-ARGD4060,2024-11-25,Design Center,Franklin College of Arts and Sciences,7,18,11,0,0.3888888888888889
-ARID4010,2024-11-25,Interior Design Internship,Franklin College of Arts and Sciences,0,15,15,0,0.0
-ARST2100,2024-11-25,Introduction to Painting and Visuality,Franklin College of Arts and Sciences,8,20,12,0,0.4
-ARST2500,2024-11-25,Introduction to Ceramics,Franklin College of Arts and Sciences,7,16,9,0,0.4375
-ARST3140,2024-11-25,Painting Studio Concepts,Franklin College of Arts and Sciences,4,20,16,0,0.2
-ARST3500,2024-11-25,Intermediate Ceramics,Franklin College of Arts and Sciences,8,16,8,0,0.5
-ARST4315,2024-11-25,Introduction to Book Arts,Franklin College of Arts and Sciences,6,18,12,0,0.3333333333333333
-ARST4330,2024-11-25,Printmaking: Special Topics I,Franklin College of Arts and Sciences,0,20,20,0,0.0
-ARST4370,2024-11-25,Advanced Book Studio,Franklin College of Arts and Sciences,0,18,18,0,0.0
-ARST4915,2024-11-25,Thematic Inquiry in Contemporary Art,Franklin College of Arts and Sciences,9,20,11,0,0.45
-ARST4930,2024-11-25,Internship in Art,Franklin College of Arts and Sciences,0,10,10,0,0.0
-BCMB3100,2024-11-25,Introductory Biochemistry and Molecular Biology,Franklin College of Arts and Sciences,28,150,122,0,0.18666666666666668
-BIOL1107,2024-11-25,Principles of Biology I,Franklin College of Arts and Sciences,9,50,41,0,0.18
-BIOL1107L,2024-11-25,Principles of Biology I Laboratory,Franklin College of Arts and Sciences,10,30,20,0,0.3333333333333333
-BIOL1108,2024-11-25,Principles of Biology II,Franklin College of Arts and Sciences,21,50,29,0,0.42
-BIOL1108L,2024-11-25,Principles of Biology II Laboratory,Franklin College of Arts and Sciences,20,48,28,0,0.4166666666666667
-BIOL3110L,2024-11-25,Basic Skills in the Laboratory,Franklin College of Arts and Sciences,13,24,11,0,0.5416666666666666
-BIOS2010,2024-11-25,Elementary Biostatistics,College of Public Health,6,45,39,0,0.13333333333333333
-CBIO2200,2024-11-25,Anatomy and Physiology I,Franklin College of Arts and Sciences,21,40,19,0,0.525
-CBIO2200L,2024-11-25,Anatomy and Physiology I,Franklin College of Arts and Sciences,21,40,19,0,0.525
-CBIO2210,2024-11-25,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,0,1.0
-CBIO2210L,2024-11-25,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,0,1.0
-CBIO3200L,2024-11-25,Medical Anatomy,Franklin College of Arts and Sciences,0,20,20,0,0.0
-CBIO3400,2024-11-25,Cell Biology,Franklin College of Arts and Sciences,12,40,28,0,0.3
-CHEM1211,2024-11-25,General Chemistry I,Franklin College of Arts and Sciences,32,170,138,0,0.18823529411764706
-CHEM1211D,2024-11-25,General Chemistry I,Franklin College of Arts and Sciences,31,180,149,0,0.17222222222222222
-CHEM1211L,2024-11-25,General Chemistry Laboratory I,Franklin College of Arts and Sciences,19,72,53,0,0.2638888888888889
-CHEM1212,2024-11-25,General Chemistry II,Franklin College of Arts and Sciences,39,150,111,0,0.26
-CHEM1212D,2024-11-25,General Chemistry II,Franklin College of Arts and Sciences,39,70,31,0,0.5571428571428572
-CHEM1212L,2024-11-25,General Chemistry Laboratory II,Franklin College of Arts and Sciences,31,72,41,0,0.4305555555555556
-CHEM2211,2024-11-25,Modern Organic Chemistry I,Franklin College of Arts and Sciences,68,300,232,0,0.22666666666666666
-CHEM2211L,2024-11-25,Modern Organic Chemistry Laboratory I,Franklin College of Arts and Sciences,67,96,29,0,0.6979166666666666
-CHEM2212,2024-11-25,Modern Organic Chemistry II,Franklin College of Arts and Sciences,37,150,113,0,0.24666666666666667
-CHEM2212L,2024-11-25,Modern Organic Chemistry Laboratory II,Franklin College of Arts and Sciences,33,72,39,0,0.4583333333333333
-CHEM4300,2024-11-25,Special Topics in Analytical Chemistry,Franklin College of Arts and Sciences,5,10,5,0,0.5
-CLAS4220,2024-11-25,Classical Epic Poetry,Franklin College of Arts and Sciences,0,40,40,0,0.0
-CMLT2400,2024-11-25,Asian-American Literature,Franklin College of Arts and Sciences,6,30,24,0,0.2
-COMM1110,2024-11-25,Introduction to Public Speaking,Franklin College of Arts and Sciences,13,81,68,0,0.16049382716049382
-COMM1500,2024-11-25,Introduction to Interpersonal Communication,Franklin College of Arts and Sciences,0,30,30,0,0.0
-COMM3310,2024-11-25,Case Studies in Public Communication,Franklin College of Arts and Sciences,15,30,15,0,0.5
-COMM4910,2024-11-25,Internship in Communication,Franklin College of Arts and Sciences,0,12,12,0,0.0
-CRSS3910,2024-11-25,Crop Science Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-CRSS3920,2024-11-25,Environmental Soil Science Internship,College of Agricultural and Environmental Sciences,0,20,20,0,0.0
-CRSS3930,2024-11-25,Turfgrass Management Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-CSCI1302,2024-11-25,Software Development,Franklin College of Arts and Sciences,15,70,55,0,0.21428571428571427
-CSCI2720,2024-11-25,Data Structures,Franklin College of Arts and Sciences,23,48,25,0,0.4791666666666667
-CSCI4370,2024-11-25,Database Management,Franklin College of Arts and Sciences,20,20,0,7,1.0
-CSCI4470,2024-11-25,Algorithms,Franklin College of Arts and Sciences,22,30,8,0,0.7333333333333333
-CSCI4950,2024-11-25,Directed Study in Computer Science,Franklin College of Arts and Sciences,0,320,320,0,0.0
-CSCI4960,2024-11-25,Faculty Mentored Research in Computer Science,Franklin College of Arts and Sciences,0,300,300,0,0.0
-CSCI5007,2024-11-25,Internship in Computer Science Business/Industry,Franklin College of Arts and Sciences,2,15,13,0,0.13333333333333333
-DANC4000,2024-11-25,Independent Study in Dance,Franklin College of Arts and Sciences,0,20,20,0,0.0
-DMAN3100,2024-11-25,Disasters and Society,College of Public Health,2,25,23,0,0.08
-ECHD4170,2024-11-25,Introduction to Black Psychology,College of Education,0,5,5,0,0.0
-ECHD4660,2024-11-25,U.S. Latino/a Mental Health:  An Introduction,College of Education,2,15,13,0,0.13333333333333333
-ECON2105,2024-11-25,Principles of Macroeconomics,Terry College of Business,8,30,22,0,0.26666666666666666
-ECSE2170,2024-11-25,Fundamentals of Circuit Analysis,College of Engineering,9,46,37,0,0.1956521739130435
-ECSE2170L,2024-11-25,Fundamentals of Circuit Analysis,College of Engineering,9,46,37,0,0.1956521739130435
-EETH4010,2024-11-25,Undergraduate Research,College of Environment and Design,0,10,10,0,0.0
-EHSC3700,2024-11-25,Undergraduate Research in Environmental Health Science,College of Public Health,0,225,225,0,0.0
-EHSC3910,2024-11-25,Internship in Environmental Health Science,College of Public Health,2,150,148,0,0.013333333333333334
-EHSC3950,2024-11-25,Health and Safety Training for Hazardous Waste Workers,College of Public Health,11,15,4,0,0.7333333333333333
-EHSC4200,2024-11-25,Global Climate Change and Public Health,College of Public Health,0,30,30,0,0.0
-EHSC4960R,2024-11-25,Faculty-Mentored Undergraduate Research I,College of Public Health,0,80,80,0,0.0
-EMAT4650,2024-11-25,Historical and Cultural Foundations of Mathematics,College of Education,0,25,25,0,0.0
-EMST4230,2024-11-25,Directing for the Screen,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
-EMST5010,2024-11-25,Media Entertainment Industry Internship,Grady College of Journalism and Mass Communication,0,10,10,0,0.0
-ENGL1101,2024-11-25,English Composition I,Franklin College of Arts and Sciences,5,15,10,0,0.3333333333333333
-ENGL1102,2024-11-25,English Composition II,Franklin College of Arts and Sciences,15,30,15,0,0.5
-ENGL1102S,2024-11-25,English Composition II - Service Learning,Franklin College of Arts and Sciences,0,15,15,0,0.0
-ENGL4695,2024-11-25,Topics in Postcolonial Literature,Franklin College of Arts and Sciences,3,25,22,0,0.12
-ENGL4880,2024-11-25,Topics in African American Literature,Franklin College of Arts and Sciences,2,25,23,0,0.08
-ENGL4896,2024-11-25,Comics and Graphic Narratives,Franklin College of Arts and Sciences,4,25,21,0,0.16
-ENGL4899,2024-11-25,Topics in Science Fiction,Franklin College of Arts and Sciences,2,10,8,0,0.2
-ENGR2120,2024-11-25,Engineering Statics,College of Engineering,7,56,49,0,0.125
-ENGR3140,2024-11-25,Engineering Thermodynamics,College of Engineering,24,40,16,0,0.6
-ENGR3160,2024-11-25,Fluid Mechanics,College of Engineering,9,40,31,0,0.225
-ENGR3920,2024-11-25,Cooperative Work Experience II,College of Engineering,2,25,23,0,0.08
-ENVM3910,2024-11-25,Internships,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-EPSY4170,2024-11-25,Educational Psychology of Race and Racism,College of Education,1,15,14,0,0.06666666666666667
-EPSY4960R,2024-11-25,Faculty-Mentored Undergraduate Research I,College of Education,0,20,20,0,0.0
-EPSY4970R,2024-11-25,Faculty-Mentored Undergraduate Research II,College of Education,0,20,20,0,0.0
-FANR4950,2024-11-25,Directed Studies in Natural Resources,Warnell School of Forestry and Natural Resources,0,10,10,0,0.0
-FANR5950,2024-11-25,Special Topics in Forestry and Natural Resources,Warnell School of Forestry and Natural Resources,0,20,20,0,0.0
-FDST4800,2024-11-25,Special Problems in Food Science,College of Agricultural and Environmental Sciences,1,1,0,0,1.0
-FHCE5910,2024-11-25,"Financial Planning,  Housing and Consumer Economics Internship",College of Family and Consumer Sciences,0,5,5,0,0.0
-FINA3000,2024-11-25,Financial Management,Terry College of Business,3,15,12,0,0.2
-FINA3001,2024-11-25,Financial Management,Terry College of Business,9,15,6,0,0.6
-FINA4210,2024-11-25,Applied Corporate Finance,Terry College of Business,15,30,15,0,0.5
-GEOG1101,2024-11-25,"Human Geography: People, Places, and Cultures",Franklin College of Arts and Sciences,6,30,24,0,0.2
-GEOG1130,2024-11-25,Introduction to World Geography,Franklin College of Arts and Sciences,0,50,50,0,0.0
-HDFS5910,2024-11-25,Applied Community Internship in Human Development and Family Science,College of Family and Consumer Sciences,0,20,20,0,0.0
-HFIM3910,2024-11-25,Hospitality Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-HFIM3912,2024-11-25,Food and Beverage Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-HFIM3913,2024-11-25,Facilities Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-HFIM3914,2024-11-25,Hotel and Lodging Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-HIST2111,2024-11-25,American History to 1865,Franklin College of Arts and Sciences,13,30,17,0,0.43333333333333335
-HIST2112,2024-11-25,American History Since 1865,Franklin College of Arts and Sciences,7,60,53,0,0.11666666666666667
-HIST3340,2024-11-25,The Age of Renaissance and Reformation,Franklin College of Arts and Sciences,6,30,24,0,0.2
-HPRB3020S,2024-11-25,Foundations of Health Promotion Professional Practice and Service,College of Public Health,0,50,50,0,0.0
-HPRB4960R,2024-11-25,Faculty-Mentored Undergraduate Research I,College of Public Health,0,5,5,0,0.0
-HPRB4980R,2024-11-25,Faculty-Mentored Undergraduate Research III,College of Public Health,0,5,5,0,0.0
-INTL4720,2024-11-25,International Affairs Internship,School of Public and International Affairs,0,10,10,0,0.0
-INTL4721,2024-11-25,International Affairs Internship Research,School of Public and International Affairs,0,10,10,0,0.0
-INTL4722,2024-11-25,International Affairs Internship Analytical Essays,School of Public and International Affairs,0,10,10,0,0.0
-KINS3450S,2024-11-25,Practicum in Fitness and Conditioning,College of Education,4,9,5,0,0.4444444444444444
-KINS3480,2024-11-25,Practicum in Kinesiology Research,College of Education,0,90,90,0,0.0
-KINS4750S,2024-11-25,Service Learning in Kinesiology,College of Education,2,43,41,0,0.046511627906976744
-LAND1500,2024-11-25,Design and the Environment,College of Environment and Design,0,20,20,0,0.0
-LAND2020,2024-11-25,Landscape Architecture Design Studio II,College of Environment and Design,9,24,15,0,0.375
-LAND2220,2024-11-25,Design Communication II,College of Environment and Design,9,40,31,0,0.225
-LATN4050,2024-11-25,Roman Epistles,Franklin College of Arts and Sciences,0,15,15,0,0.0
-MATH1113,2024-11-25,Precalculus,Franklin College of Arts and Sciences,7,56,49,0,0.125
-MATH2250,2024-11-25,Calculus I for Science and Engineering,Franklin College of Arts and Sciences,22,28,6,0,0.7857142857142857
-MATH2260,2024-11-25,Calculus II for Science and Engineering,Franklin College of Arts and Sciences,20,36,16,0,0.5555555555555556
-MATH2500,2024-11-25,Accelerated Calculus III for Engineering Students,Franklin College of Arts and Sciences,12,36,24,0,0.3333333333333333
-MATH2700,2024-11-25,Elementary Differential Equations,Franklin College of Arts and Sciences,12,36,24,0,0.3333333333333333
-MATH3300,2024-11-25,Applied Linear Algebra,Franklin College of Arts and Sciences,12,32,20,0,0.375
-MIBO2500L,2024-11-25,Microbiology and Health Care Laboratory,Franklin College of Arts and Sciences,13,40,27,0,0.325
-MIBO3500L,2024-11-25,Introductory Microbiology Laboratory I,Franklin College of Arts and Sciences,27,40,13,0,0.675
-MIST4801,2024-11-25,Internship in Data Analytics,Terry College of Business,2,30,28,0,0.06666666666666667
-MIST4802,2024-11-25,Internship in Information Security,Terry College of Business,0,30,30,0,0.0
-NUTR5800,2024-11-25,Peer Nutrition Education,College of Family and Consumer Sciences,0,10,10,0,0.0
-NUTR5910,2024-11-25,Dietetics Practicum,College of Family and Consumer Sciences,0,12,12,0,0.0
-PATH3910,2024-11-25,Plant Pathology Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-PATH4960R,2024-11-25,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,4,4,0,0.0
-PBGG4960,2024-11-25,"Research Experience in Plant Breeding, Genetics, and Genomics",College of Agricultural and Environmental Sciences,0,3,3,0,0.0
-PBGG4960R,2024-11-25,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,6,6,0,0.0
-PEDB1010,2024-11-25,Adapted Physical Education,College of Education,0,50,50,0,0.0
-PEDB1120,2024-11-25,Beginning Golf,College of Education,37,78,41,0,0.47435897435897434
-PEDB1350,2024-11-25,Beginning Tennis,College of Education,15,72,57,0,0.20833333333333334
-PEDB1380,2024-11-25,Beginning Volleyball,College of Education,9,35,26,0,0.2571428571428571
-PEDB1400,2024-11-25,Introduction to Weight Training,College of Education,48,245,197,0,0.19591836734693877
-PEDB1920,2024-11-25,Fitness for Life Body Conditioning,College of Education,5,34,29,0,0.14705882352941177
-PEDB1950,2024-11-25,Fitness for Life Walking,College of Education,40,140,100,0,0.2857142857142857
-PEDB1990,2024-11-25,Directed Study,College of Education,0,30,30,0,0.0
-PHYS1111,2024-11-25,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,51,60,9,0,0.85
-PHYS1111L,2024-11-25,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,51,60,9,0,0.85
-PHYS1112,2024-11-25,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,54,60,6,0,0.9
-PHYS1112L,2024-11-25,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,54,60,6,0,0.9
-PHYS1211,2024-11-25,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,11,40,29,0,0.275
-PHYS1211L,2024-11-25,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,11,40,29,0,0.275
-PHYS1212,2024-11-25,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,24,40,16,0,0.6
-PHYS1212L,2024-11-25,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,24,40,16,0,0.6
-POLS1101,2024-11-25,American Government,School of Public and International Affairs,16,61,45,0,0.26229508196721313
-POLS5500,2024-11-25,Criminal Justice Internship,School of Public and International Affairs,0,20,20,0,0.0
-POLS5510,2024-11-25,Criminal Justice Internship,School of Public and International Affairs,0,20,20,0,0.0
-POLS5520,2024-11-25,Criminal Justice Internship,School of Public and International Affairs,0,20,20,0,0.0
-POPH5445,2024-11-25,Food Animal Practice,College of Veterinary Medicine,0,5,5,0,0.0
-POPH5900,2024-11-25,Studies in Population Health,College of Veterinary Medicine,0,1,1,0,0.0
-PSYC3980,2024-11-25,Research Design in Psychology,Franklin College of Arts and Sciences,10,50,40,0,0.2
-PSYC4120,2024-11-25,Sensation and Perception,Franklin College of Arts and Sciences,4,25,21,0,0.16
-PSYC4140,2024-11-25,Cognitive Neuroscience,Franklin College of Arts and Sciences,3,25,22,0,0.12
-PSYC4170,2024-11-25,Introduction to Black Psychology,Franklin College of Arts and Sciences,1,5,4,0,0.2
-SOCI3080,2024-11-25,Youth Subcultures,Franklin College of Arts and Sciences,16,50,34,0,0.32
-SOCI5500,2024-11-25,Criminal Justice Internship,Franklin College of Arts and Sciences,0,10,10,0,0.0
-SOCI5510,2024-11-25,Criminal Justice Internship,Franklin College of Arts and Sciences,0,10,10,0,0.0
-SOCI5520,2024-11-25,Criminal Justice Internship,Franklin College of Arts and Sciences,0,10,10,0,0.0
-STAT4220,2024-11-25,Applied Experimental Designs,Franklin College of Arts and Sciences,4,30,26,0,0.13333333333333333
-STAT4230,2024-11-25,Applied Regression Analysis,Franklin College of Arts and Sciences,7,20,13,0,0.35
-TXMI3910,2024-11-25,Practicum in Fashion Merchandising,College of Family and Consumer Sciences,0,10,10,0,0.0
-TXMI5720,2024-11-25,Social Entrepreneurship and Product Development in Ghana,College of Family and Consumer Sciences,0,10,10,0,0.0
-TXMI5910,2024-11-25,"Textiles, Merchandising and Interiors Internship",College of Family and Consumer Sciences,0,100,100,0,0.0
-WASR4700L,2024-11-25,"Hydrology, Geology, and Soils of Georgia",Warnell School of Forestry and Natural Resources,0,15,15,0,0.0
-WMST3270S,2024-11-25,Gendered Politics of Food,Franklin College of Arts and Sciences,2,12,10,0,0.16666666666666666
+AAEC3910,2024-12-02,Internships,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+AAEC4970R,2024-12-02,Faculty-Mentored Undergraduate Research II,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+ACCT2101,2024-12-02,Principles of Accounting I,Terry College of Business,2,25,23,0,0.08
+ADPR5010,2024-12-02,Advertising Internship,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
+ADPR5011,2024-12-02,Public Relations Internship,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
+ADPR5990,2024-12-02,Seminar in Advertising and Public Relations,Grady College of Journalism and Mass Communication,0,35,35,0,0.0
+ADSC3910,2024-12-02,Internship in ADS I,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
+ADSC3920,2024-12-02,Animal Science Internship II,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
+ADSC4960R,2024-12-02,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,20,20,0,0.0
+AFAM4170,2024-12-02,Introduction to Black Psychology,Franklin College of Arts and Sciences,1,5,4,0,0.2
+AFAM4880,2024-12-02,Topics in African American Literature,Franklin College of Arts and Sciences,0,10,10,0,0.0
+ALDR3900S,2024-12-02,Leadership and Service,College of Agricultural and Environmental Sciences,6,25,19,0,0.24
+ARGD3010,2024-12-02,Foundations of Graphic Design,Franklin College of Arts and Sciences,2,18,16,0,0.1111111111111111
+ARGD3080,2024-12-02,Internship in Graphic Design,Franklin College of Arts and Sciences,0,16,16,0,0.0
+ARGD4060,2024-12-02,Design Center,Franklin College of Arts and Sciences,7,18,11,0,0.3888888888888889
+ARID4010,2024-12-02,Interior Design Internship,Franklin College of Arts and Sciences,0,15,15,0,0.0
+ARST2100,2024-12-02,Introduction to Painting and Visuality,Franklin College of Arts and Sciences,8,20,12,0,0.4
+ARST2500,2024-12-02,Introduction to Ceramics,Franklin College of Arts and Sciences,8,16,8,0,0.5
+ARST3140,2024-12-02,Painting Studio Concepts,Franklin College of Arts and Sciences,4,20,16,0,0.2
+ARST3500,2024-12-02,Intermediate Ceramics,Franklin College of Arts and Sciences,8,16,8,0,0.5
+ARST4315,2024-12-02,Introduction to Book Arts,Franklin College of Arts and Sciences,8,18,10,0,0.4444444444444444
+ARST4330,2024-12-02,Printmaking: Special Topics I,Franklin College of Arts and Sciences,0,20,20,0,0.0
+ARST4370,2024-12-02,Advanced Book Studio,Franklin College of Arts and Sciences,0,18,18,0,0.0
+ARST4915,2024-12-02,Thematic Inquiry in Contemporary Art,Franklin College of Arts and Sciences,9,20,11,0,0.45
+ARST4930,2024-12-02,Internship in Art,Franklin College of Arts and Sciences,0,10,10,0,0.0
+BCMB3100,2024-12-02,Introductory Biochemistry and Molecular Biology,Franklin College of Arts and Sciences,29,150,121,0,0.19333333333333333
+BIOL1107,2024-12-02,Principles of Biology I,Franklin College of Arts and Sciences,10,50,40,0,0.2
+BIOL1107L,2024-12-02,Principles of Biology I Laboratory,Franklin College of Arts and Sciences,11,30,19,0,0.36666666666666664
+BIOL1108,2024-12-02,Principles of Biology II,Franklin College of Arts and Sciences,23,50,27,0,0.46
+BIOL1108L,2024-12-02,Principles of Biology II Laboratory,Franklin College of Arts and Sciences,22,48,26,0,0.4583333333333333
+BIOL3110L,2024-12-02,Basic Skills in the Laboratory,Franklin College of Arts and Sciences,13,24,11,0,0.5416666666666666
+BIOS2010,2024-12-02,Elementary Biostatistics,College of Public Health,6,45,39,0,0.13333333333333333
+CBIO2200,2024-12-02,Anatomy and Physiology I,Franklin College of Arts and Sciences,22,40,18,0,0.55
+CBIO2200L,2024-12-02,Anatomy and Physiology I,Franklin College of Arts and Sciences,22,40,18,0,0.55
+CBIO2210,2024-12-02,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,0,1.0
+CBIO2210L,2024-12-02,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,0,1.0
+CBIO3200L,2024-12-02,Medical Anatomy,Franklin College of Arts and Sciences,0,20,20,0,0.0
+CBIO3400,2024-12-02,Cell Biology,Franklin College of Arts and Sciences,13,40,27,0,0.325
+CHEM1211,2024-12-02,General Chemistry I,Franklin College of Arts and Sciences,34,170,136,0,0.2
+CHEM1211D,2024-12-02,General Chemistry I,Franklin College of Arts and Sciences,33,180,147,0,0.18333333333333332
+CHEM1211L,2024-12-02,General Chemistry Laboratory I,Franklin College of Arts and Sciences,21,72,51,0,0.2916666666666667
+CHEM1212,2024-12-02,General Chemistry II,Franklin College of Arts and Sciences,41,150,109,0,0.2733333333333333
+CHEM1212D,2024-12-02,General Chemistry II,Franklin College of Arts and Sciences,41,70,29,0,0.5857142857142857
+CHEM1212L,2024-12-02,General Chemistry Laboratory II,Franklin College of Arts and Sciences,32,72,40,0,0.4444444444444444
+CHEM2211,2024-12-02,Modern Organic Chemistry I,Franklin College of Arts and Sciences,70,300,230,0,0.23333333333333334
+CHEM2211L,2024-12-02,Modern Organic Chemistry Laboratory I,Franklin College of Arts and Sciences,69,96,27,0,0.71875
+CHEM2212,2024-12-02,Modern Organic Chemistry II,Franklin College of Arts and Sciences,39,150,111,0,0.26
+CHEM2212L,2024-12-02,Modern Organic Chemistry Laboratory II,Franklin College of Arts and Sciences,35,72,37,0,0.4861111111111111
+CHEM4300,2024-12-02,Special Topics in Analytical Chemistry,Franklin College of Arts and Sciences,6,10,4,0,0.6
+CLAS4220,2024-12-02,Classical Epic Poetry,Franklin College of Arts and Sciences,0,40,40,0,0.0
+CMLT2400,2024-12-02,Asian-American Literature,Franklin College of Arts and Sciences,7,30,23,0,0.23333333333333334
+COMM1110,2024-12-02,Introduction to Public Speaking,Franklin College of Arts and Sciences,14,81,67,0,0.1728395061728395
+COMM1500,2024-12-02,Introduction to Interpersonal Communication,Franklin College of Arts and Sciences,0,30,30,0,0.0
+COMM3310,2024-12-02,Case Studies in Public Communication,Franklin College of Arts and Sciences,16,30,14,0,0.5333333333333333
+COMM4910,2024-12-02,Internship in Communication,Franklin College of Arts and Sciences,0,12,12,0,0.0
+CRSS3910,2024-12-02,Crop Science Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+CRSS3920,2024-12-02,Environmental Soil Science Internship,College of Agricultural and Environmental Sciences,0,20,20,0,0.0
+CRSS3930,2024-12-02,Turfgrass Management Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+CSCI1302,2024-12-02,Software Development,Franklin College of Arts and Sciences,19,70,51,0,0.2714285714285714
+CSCI2720,2024-12-02,Data Structures,Franklin College of Arts and Sciences,24,48,24,0,0.5
+CSCI4370,2024-12-02,Database Management,Franklin College of Arts and Sciences,19,20,1,7,0.95
+CSCI4470,2024-12-02,Algorithms,Franklin College of Arts and Sciences,23,30,7,0,0.7666666666666667
+CSCI4950,2024-12-02,Directed Study in Computer Science,Franklin College of Arts and Sciences,0,320,320,0,0.0
+CSCI4960,2024-12-02,Faculty Mentored Research in Computer Science,Franklin College of Arts and Sciences,0,300,300,0,0.0
+CSCI5007,2024-12-02,Internship in Computer Science Business/Industry,Franklin College of Arts and Sciences,3,15,12,0,0.2
+DANC4000,2024-12-02,Independent Study in Dance,Franklin College of Arts and Sciences,0,20,20,0,0.0
+DMAN3100,2024-12-02,Disasters and Society,College of Public Health,2,25,23,0,0.08
+ECHD4170,2024-12-02,Introduction to Black Psychology,College of Education,0,5,5,0,0.0
+ECHD4660,2024-12-02,U.S. Latino/a Mental Health:  An Introduction,College of Education,1,15,14,0,0.06666666666666667
+ECON2105,2024-12-02,Principles of Macroeconomics,Terry College of Business,8,30,22,0,0.26666666666666666
+ECSE2170,2024-12-02,Fundamentals of Circuit Analysis,College of Engineering,9,46,37,0,0.1956521739130435
+ECSE2170L,2024-12-02,Fundamentals of Circuit Analysis,College of Engineering,9,46,37,0,0.1956521739130435
+EETH4010,2024-12-02,Undergraduate Research,College of Environment and Design,0,10,10,0,0.0
+EHSC3700,2024-12-02,Undergraduate Research in Environmental Health Science,College of Public Health,0,225,225,0,0.0
+EHSC3910,2024-12-02,Internship in Environmental Health Science,College of Public Health,2,150,148,0,0.013333333333333334
+EHSC3950,2024-12-02,Health and Safety Training for Hazardous Waste Workers,College of Public Health,11,15,4,0,0.7333333333333333
+EHSC4200,2024-12-02,Global Climate Change and Public Health,College of Public Health,0,30,30,0,0.0
+EHSC4960R,2024-12-02,Faculty-Mentored Undergraduate Research I,College of Public Health,0,80,80,0,0.0
+EMAT4650,2024-12-02,Historical and Cultural Foundations of Mathematics,College of Education,0,25,25,0,0.0
+EMST4230,2024-12-02,Directing for the Screen,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
+EMST5010,2024-12-02,Media Entertainment Industry Internship,Grady College of Journalism and Mass Communication,0,10,10,0,0.0
+ENGL1101,2024-12-02,English Composition I,Franklin College of Arts and Sciences,5,15,10,0,0.3333333333333333
+ENGL1102,2024-12-02,English Composition II,Franklin College of Arts and Sciences,15,30,15,1,0.5
+ENGL1102S,2024-12-02,English Composition II - Service Learning,Franklin College of Arts and Sciences,0,15,15,0,0.0
+ENGL4695,2024-12-02,Topics in Postcolonial Literature,Franklin College of Arts and Sciences,5,25,20,0,0.2
+ENGL4880,2024-12-02,Topics in African American Literature,Franklin College of Arts and Sciences,2,25,23,0,0.08
+ENGL4896,2024-12-02,Comics and Graphic Narratives,Franklin College of Arts and Sciences,3,25,22,0,0.12
+ENGL4899,2024-12-02,Topics in Science Fiction,Franklin College of Arts and Sciences,3,10,7,0,0.3
+ENGR2120,2024-12-02,Engineering Statics,College of Engineering,7,56,49,0,0.125
+ENGR3140,2024-12-02,Engineering Thermodynamics,College of Engineering,24,40,16,0,0.6
+ENGR3160,2024-12-02,Fluid Mechanics,College of Engineering,8,40,32,0,0.2
+ENGR3920,2024-12-02,Cooperative Work Experience II,College of Engineering,2,25,23,0,0.08
+ENVM3910,2024-12-02,Internships,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+EPSY4170,2024-12-02,Educational Psychology of Race and Racism,College of Education,1,15,14,0,0.06666666666666667
+EPSY4960R,2024-12-02,Faculty-Mentored Undergraduate Research I,College of Education,0,20,20,0,0.0
+EPSY4970R,2024-12-02,Faculty-Mentored Undergraduate Research II,College of Education,0,20,20,0,0.0
+FANR4950,2024-12-02,Directed Studies in Natural Resources,Warnell School of Forestry and Natural Resources,0,10,10,0,0.0
+FANR5950,2024-12-02,Special Topics in Forestry and Natural Resources,Warnell School of Forestry and Natural Resources,0,20,20,0,0.0
+FDST4800,2024-12-02,Special Problems in Food Science,College of Agricultural and Environmental Sciences,1,1,0,0,1.0
+FHCE5910,2024-12-02,"Financial Planning,  Housing and Consumer Economics Internship",College of Family and Consumer Sciences,0,5,5,0,0.0
+FINA3000,2024-12-02,Financial Management,Terry College of Business,3,15,12,0,0.2
+FINA3001,2024-12-02,Financial Management,Terry College of Business,11,15,4,0,0.7333333333333333
+FINA4210,2024-12-02,Applied Corporate Finance,Terry College of Business,15,30,15,0,0.5
+GEOG1101,2024-12-02,"Human Geography: People, Places, and Cultures",Franklin College of Arts and Sciences,7,30,23,0,0.23333333333333334
+GEOG1130,2024-12-02,Introduction to World Geography,Franklin College of Arts and Sciences,0,50,50,0,0.0
+HDFS5910,2024-12-02,Applied Community Internship in Human Development and Family Science,College of Family and Consumer Sciences,0,20,20,0,0.0
+HFIM3910,2024-12-02,Hospitality Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+HFIM3912,2024-12-02,Food and Beverage Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+HFIM3913,2024-12-02,Facilities Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+HFIM3914,2024-12-02,Hotel and Lodging Management Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+HIST2111,2024-12-02,American History to 1865,Franklin College of Arts and Sciences,14,30,16,0,0.4666666666666667
+HIST2112,2024-12-02,American History Since 1865,Franklin College of Arts and Sciences,7,60,53,0,0.11666666666666667
+HIST3340,2024-12-02,The Age of Renaissance and Reformation,Franklin College of Arts and Sciences,8,30,22,0,0.26666666666666666
+HORT3920,2024-12-02,UGArden Internship,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
+HPRB3020S,2024-12-02,Foundations of Health Promotion Professional Practice and Service,College of Public Health,0,50,50,0,0.0
+HPRB4960R,2024-12-02,Faculty-Mentored Undergraduate Research I,College of Public Health,0,5,5,0,0.0
+HPRB4980R,2024-12-02,Faculty-Mentored Undergraduate Research III,College of Public Health,0,5,5,0,0.0
+INTL4720,2024-12-02,International Affairs Internship,School of Public and International Affairs,0,10,10,0,0.0
+INTL4721,2024-12-02,International Affairs Internship Research,School of Public and International Affairs,0,10,10,0,0.0
+INTL4722,2024-12-02,International Affairs Internship Analytical Essays,School of Public and International Affairs,0,10,10,0,0.0
+KINS3450S,2024-12-02,Practicum in Fitness and Conditioning,College of Education,5,9,4,0,0.5555555555555556
+KINS3480,2024-12-02,Practicum in Kinesiology Research,College of Education,0,90,90,0,0.0
+KINS4750S,2024-12-02,Service Learning in Kinesiology,College of Education,2,43,41,0,0.046511627906976744
+LAND1500,2024-12-02,Design and the Environment,College of Environment and Design,0,20,20,0,0.0
+LAND2020,2024-12-02,Landscape Architecture Design Studio II,College of Environment and Design,9,24,15,0,0.375
+LAND2220,2024-12-02,Design Communication II,College of Environment and Design,9,40,31,0,0.225
+LATN4050,2024-12-02,Roman Epistles,Franklin College of Arts and Sciences,0,15,15,0,0.0
+MATH1113,2024-12-02,Precalculus,Franklin College of Arts and Sciences,7,56,49,0,0.125
+MATH2250,2024-12-02,Calculus I for Science and Engineering,Franklin College of Arts and Sciences,21,28,7,0,0.75
+MATH2260,2024-12-02,Calculus II for Science and Engineering,Franklin College of Arts and Sciences,21,36,15,0,0.5833333333333334
+MATH2500,2024-12-02,Accelerated Calculus III for Engineering Students,Franklin College of Arts and Sciences,12,36,24,0,0.3333333333333333
+MATH2700,2024-12-02,Elementary Differential Equations,Franklin College of Arts and Sciences,12,36,24,0,0.3333333333333333
+MATH3300,2024-12-02,Applied Linear Algebra,Franklin College of Arts and Sciences,9,32,23,0,0.28125
+MIBO2500L,2024-12-02,Microbiology and Health Care Laboratory,Franklin College of Arts and Sciences,14,40,26,0,0.35
+MIBO3500L,2024-12-02,Introductory Microbiology Laboratory I,Franklin College of Arts and Sciences,27,40,13,0,0.675
+MIST4801,2024-12-02,Internship in Data Analytics,Terry College of Business,2,30,28,0,0.06666666666666667
+MIST4802,2024-12-02,Internship in Information Security,Terry College of Business,0,30,30,0,0.0
+NUTR5800,2024-12-02,Peer Nutrition Education,College of Family and Consumer Sciences,0,10,10,0,0.0
+NUTR5910,2024-12-02,Dietetics Practicum,College of Family and Consumer Sciences,0,12,12,0,0.0
+PATH3910,2024-12-02,Plant Pathology Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+PATH4960R,2024-12-02,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,4,4,0,0.0
+PBGG4960,2024-12-02,"Research Experience in Plant Breeding, Genetics, and Genomics",College of Agricultural and Environmental Sciences,0,3,3,0,0.0
+PBGG4960R,2024-12-02,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,6,6,0,0.0
+PEDB1010,2024-12-02,Adapted Physical Education,College of Education,0,50,50,0,0.0
+PEDB1120,2024-12-02,Beginning Golf,College of Education,38,78,40,0,0.48717948717948717
+PEDB1350,2024-12-02,Beginning Tennis,College of Education,15,72,57,0,0.20833333333333334
+PEDB1380,2024-12-02,Beginning Volleyball,College of Education,10,35,25,0,0.2857142857142857
+PEDB1400,2024-12-02,Introduction to Weight Training,College of Education,51,245,194,0,0.20816326530612245
+PEDB1920,2024-12-02,Fitness for Life Body Conditioning,College of Education,5,34,29,0,0.14705882352941177
+PEDB1950,2024-12-02,Fitness for Life Walking,College of Education,40,140,100,0,0.2857142857142857
+PEDB1990,2024-12-02,Directed Study,College of Education,0,30,30,0,0.0
+PHYS1111,2024-12-02,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,53,60,7,0,0.8833333333333333
+PHYS1111L,2024-12-02,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,53,60,7,0,0.8833333333333333
+PHYS1112,2024-12-02,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,53,60,7,0,0.8833333333333333
+PHYS1112L,2024-12-02,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,53,60,7,0,0.8833333333333333
+PHYS1211,2024-12-02,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,13,40,27,0,0.325
+PHYS1211L,2024-12-02,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,13,40,27,0,0.325
+PHYS1212,2024-12-02,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,25,40,15,0,0.625
+PHYS1212L,2024-12-02,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,25,40,15,0,0.625
+POLS1101,2024-12-02,American Government,School of Public and International Affairs,15,61,46,0,0.2459016393442623
+POLS5500,2024-12-02,Criminal Justice Internship,School of Public and International Affairs,0,20,20,0,0.0
+POLS5510,2024-12-02,Criminal Justice Internship,School of Public and International Affairs,0,20,20,0,0.0
+POLS5520,2024-12-02,Criminal Justice Internship,School of Public and International Affairs,0,20,20,0,0.0
+POPH5445,2024-12-02,Food Animal Practice,College of Veterinary Medicine,0,5,5,0,0.0
+POPH5900,2024-12-02,Studies in Population Health,College of Veterinary Medicine,0,1,1,0,0.0
+PSYC3980,2024-12-02,Research Design in Psychology,Franklin College of Arts and Sciences,11,50,39,0,0.22
+PSYC4120,2024-12-02,Sensation and Perception,Franklin College of Arts and Sciences,4,25,21,0,0.16
+PSYC4140,2024-12-02,Cognitive Neuroscience,Franklin College of Arts and Sciences,2,25,23,0,0.08
+PSYC4170,2024-12-02,Introduction to Black Psychology,Franklin College of Arts and Sciences,1,5,4,0,0.2
+SOCI3080,2024-12-02,Youth Subcultures,Franklin College of Arts and Sciences,17,50,33,0,0.34
+SOCI5500,2024-12-02,Criminal Justice Internship,Franklin College of Arts and Sciences,0,10,10,0,0.0
+SOCI5510,2024-12-02,Criminal Justice Internship,Franklin College of Arts and Sciences,0,10,10,0,0.0
+SOCI5520,2024-12-02,Criminal Justice Internship,Franklin College of Arts and Sciences,0,10,10,0,0.0
+STAT4220,2024-12-02,Applied Experimental Designs,Franklin College of Arts and Sciences,4,30,26,0,0.13333333333333333
+STAT4230,2024-12-02,Applied Regression Analysis,Franklin College of Arts and Sciences,7,20,13,0,0.35
+TXMI3910,2024-12-02,Practicum in Fashion Merchandising,College of Family and Consumer Sciences,0,10,10,0,0.0
+TXMI5720,2024-12-02,Social Entrepreneurship and Product Development in Ghana,College of Family and Consumer Sciences,0,10,10,0,0.0
+TXMI5910,2024-12-02,"Textiles, Merchandising and Interiors Internship",College of Family and Consumer Sciences,0,100,100,0,0.0
+WASR4700L,2024-12-02,"Hydrology, Geology, and Soils of Georgia",Warnell School of Forestry and Natural Resources,0,15,15,0,0.0
+WMST3270S,2024-12-02,Gendered Politics of Food,Franklin College of Arts and Sciences,3,12,9,0,0.25
