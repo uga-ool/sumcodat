@@ -1,7 +1,7 @@
 course,updated_date,course_long_title,college,actual_enrollment,maximum_enrollment,remaining_seats,waitlist,percent_full
-AAEC2580E,2025-01-06,Applied Microeconomic Principles,College of Agricultural and Environmental Sciences,5,0,-5,1,inf
-AAEC3020E,2025-01-06,Analytical and Computational Tools for Applied Economics,College of Agricultural and Environmental Sciences,12,0,-12,0,inf
-AAEC3980E,2025-01-06,Introduction to Agribusiness Management,College of Agricultural and Environmental Sciences,4,0,-4,0,inf
+AAEC2580E,2025-01-06,Applied Microeconomic Principles,College of Agricultural and Environmental Sciences,5,0,-5,1,0.0
+AAEC3020E,2025-01-06,Analytical and Computational Tools for Applied Economics,College of Agricultural and Environmental Sciences,12,0,-12,0,0.0
+AAEC3980E,2025-01-06,Introduction to Agribusiness Management,College of Agricultural and Environmental Sciences,4,0,-4,0,0.0
 ACCT1160E,2025-01-06,Survey of Accounting,Terry College of Business,67,90,23,0,0.7444444444444445
 ACCT2101E,2025-01-06,Principles of Accounting I,Terry College of Business,59,80,21,0,0.7375
 ACCT2102E,2025-01-06,Principles of Accounting II,Terry College of Business,58,80,22,0,0.725
@@ -190,7 +190,7 @@ HPRB3850E,2025-01-06,Chronic Disease Prevention,College of Public Health,16,60,4
 HPRB5060E,2025-01-06,Educational Strategies in Human Sexuality,College of Public Health,11,25,14,0,0.44
 HPRB5210E,2025-01-06,The Effects of Drug Use and Abuse,College of Public Health,4,20,16,0,0.2
 HPRB5410E,2025-01-06,Professional Writing for Health Promotion,College of Public Health,2,30,28,0,0.06666666666666667
-INFO3000E,2025-01-06,Experiential Data Science Specialization – Intermediate Level,Franklin College of Arts and Sciences,12,0,-12,0,inf
+INFO3000E,2025-01-06,Experiential Data Science Specialization – Intermediate Level,Franklin College of Arts and Sciences,12,0,-12,0,0.0
 INTL1100E,2025-01-06,Introduction to Global Issues,School of Public and International Affairs,13,45,32,0,0.28888888888888886
 INTL3200E,2025-01-06,Introduction to International Relations,School of Public and International Affairs,26,90,64,0,0.28888888888888886
 INTL4004E,2025-01-06,Data Analytics for International Policy,School of Public and International Affairs,16,45,29,0,0.35555555555555557
