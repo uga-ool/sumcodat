@@ -1,364 +1,364 @@
 course,updated_date,course_long_title,college,actual_enrollment,maximum_enrollment,remaining_seats,waitlist,percent_full
-AAEC2580E,2025-02-17,Applied Microeconomic Principles,College of Agricultural and Environmental Sciences,13,25,12,0,0.52
-AAEC3020E,2025-02-17,Analytical and Computational Tools for Applied Economics,College of Agricultural and Environmental Sciences,14,25,11,0,0.56
-AAEC3980E,2025-02-17,Introduction to Agribusiness Management,College of Agricultural and Environmental Sciences,7,15,8,0,0.4666666666666667
-ACCT1160E,2025-02-17,Survey of Accounting,Terry College of Business,90,90,0,2,1.0
-ACCT2101E,2025-02-17,Principles of Accounting I,Terry College of Business,105,145,40,0,0.7241379310344828
-ACCT2102E,2025-02-17,Principles of Accounting II,Terry College of Business,80,80,0,2,1.0
-ADPR3100E,2025-02-17,Principles of Advertising,Grady College of Journalism and Mass Communication,39,40,1,0,0.975
-ADPR3550E,2025-02-17,Social Media Content and Production,Grady College of Journalism and Mass Communication,20,20,0,1,1.0
-ADPR3850E,2025-02-17,Public Relations,Grady College of Journalism and Mass Communication,36,40,4,0,0.9
-ADPR5930E,2025-02-17,"PR Ethics, Diverse Cultures, and Cross-Cultural Leadership",Grady College of Journalism and Mass Communication,8,10,2,0,0.8
-ADSC4350E,2025-02-17,Grazing Animal Production and Management,College of Agricultural and Environmental Sciences,15,20,5,0,0.75
-AFST2100E,2025-02-17,Introduction to Africa,Franklin College of Arts and Sciences,52,95,43,0,0.5473684210526316
-AFST3001E,2025-02-17,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,5,70,65,0,0.07142857142857142
-ALDR3820E,2025-02-17,Reflections on Fighting Hunger,College of Agricultural and Environmental Sciences,15,20,5,0,0.75
-ALDR4710E,2025-02-17,International Agricultural Development,College of Agricultural and Environmental Sciences,3,10,7,0,0.3
-ALDR4800E,2025-02-17,Grantseeking,College of Agricultural and Environmental Sciences,5,20,15,0,0.25
-AMSL1010E,2025-02-17,American Sign Language I,College of Education,75,75,0,19,1.0
-AMSL1020E,2025-02-17,American Sign Language II,College of Education,50,50,0,2,1.0
-AMSL2010E,2025-02-17,American Sign Language III,College of Education,52,50,-2,4,1.04
-ANTH1102E,2025-02-17,Introduction to Anthropology,Franklin College of Arts and Sciences,60,100,40,0,0.6
-ANTH3001E,2025-02-17,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,6,70,64,0,0.08571428571428572
-ANTH3150E,2025-02-17,Water Worlds,Franklin College of Arts and Sciences,13,37,24,0,0.35135135135135137
-ANTH3410E,2025-02-17,Contemporary Native America,Franklin College of Arts and Sciences,18,60,42,0,0.3
-ARGD2030E,2025-02-17,Introduction to Typography in Visual Communication,Franklin College of Arts and Sciences,27,45,18,0,0.6
-ARHI2300E,2025-02-17,Introduction to Art History: Prehistory to Renaissance,Franklin College of Arts and Sciences,54,75,21,0,0.72
-ARHI2400E,2025-02-17,Introduction to Art History: Renaissance to Contemporary,Franklin College of Arts and Sciences,30,75,45,0,0.4
-ARST3660E,2025-02-17,CAD/CAM for Objects and Jewelry,Franklin College of Arts and Sciences,20,20,0,6,1.0
-ARTI3550E,2025-02-17,Introduction to Cognitive Science,Franklin College of Arts and Sciences,16,40,24,0,0.4
-ARTS2000E,2025-02-17,Art Appreciation,Franklin College of Arts and Sciences,59,75,16,0,0.7866666666666666
-ARTS2050E,2025-02-17,Cultural Diversity in American Art,Franklin College of Arts and Sciences,75,75,0,2,1.0
-ARTS2100E,2025-02-17,Strategic Visual Thinking,Franklin College of Arts and Sciences,51,75,24,0,0.68
-ASTR1420E,2025-02-17,Life in the Universe,Franklin College of Arts and Sciences,11,45,34,0,0.24444444444444444
-ATSC1112E,2025-02-17,Introduction to Weather and Climate,Franklin College of Arts and Sciences,5,5,0,0,1.0
-ATSC4130E,2025-02-17,Tropical Meteorology and Climatology,Franklin College of Arts and Sciences,3,22,19,0,0.13636363636363635
-BCMB3100E,2025-02-17,Introductory Biochemistry and Molecular Biology,Franklin College of Arts and Sciences,187,221,34,8,0.8461538461538461
-BIOL1103E,2025-02-17,Concepts in Biology,Franklin College of Arts and Sciences,96,96,0,0,1.0
-BIOL1113E,2025-02-17,Concepts in Biology Laboratory – Online,Franklin College of Arts and Sciences,21,20,-1,5,1.05
-BIOS2010E,2025-02-17,Elementary Biostatistics,College of Public Health,143,160,17,0,0.89375
-BIOS3000E,2025-02-17,Intermediate Biostatistics for Public Health Sciences,College of Public Health,39,40,1,1,0.975
-BUSN3000E,2025-02-17,Applied Statistics and Data Analysis for Business,Terry College of Business,60,60,0,11,1.0
-BUSN3020E,2025-02-17,Structured Query Language (SQL) Skills for Business Analytics,Terry College of Business,11,50,39,0,0.22
-BUSN3030E,2025-02-17,Python Programming Skills for Business Analytics I,Terry College of Business,29,50,21,0,0.58
-BUSN3040E,2025-02-17,R Programming Skills for Business Analytics I,Terry College of Business,25,50,25,0,0.5
-BUSN4000E,2025-02-17,Predictive Modeling and Optimization,Terry College of Business,175,185,10,3,0.9459459459459459
-BUSN4030E,2025-02-17,Python Programming Skills for Business Analytics II,Terry College of Business,7,50,43,0,0.14
-BUSN4040E,2025-02-17,R Programming Skills for Business Analytics II,Terry College of Business,14,50,36,0,0.28
-BUSN4910E,2025-02-17,Business Writing,Terry College of Business,11,20,9,0,0.55
-BUSN5000E,2025-02-17,Introduction to Data Science for Business and Economics,Terry College of Business,24,30,6,0,0.8
-CBIO3050E,2025-02-17,Medical Histology,Franklin College of Arts and Sciences,40,40,0,13,1.0
-CBIO3600E,2025-02-17,Developmental Biology,Franklin College of Arts and Sciences,45,80,35,0,0.5625
-CHEM1210E,2025-02-17,Basics of Chemistry,Franklin College of Arts and Sciences,32,120,88,0,0.26666666666666666
-CLAS1020E,2025-02-17,Classical Mythology,Franklin College of Arts and Sciences,99,130,31,0,0.7615384615384615
-CLAS1030E,2025-02-17,Medical Terminology,Franklin College of Arts and Sciences,220,280,60,0,0.7857142857142857
-CMLT3001E,2025-02-17,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,16,70,54,0,0.22857142857142856
-CMLT3210E,2025-02-17,Ecocriticism,Franklin College of Arts and Sciences,35,35,0,4,1.0
-CMLT3250E,2025-02-17,Children's Literature,Franklin College of Arts and Sciences,70,70,0,7,1.0
-CMSD5010E,2025-02-17,Clinical Observations in Speech-Language Pathology,College of Education,23,40,17,0,0.575
-COMM1500E,2025-02-17,Introduction to Interpersonal Communication,Franklin College of Arts and Sciences,150,150,0,5,1.0
-COMM2520E,2025-02-17,Introduction to Interviewing,Franklin College of Arts and Sciences,25,25,0,0,1.0
-COMM2600E,2025-02-17,Communicating and Relationships,Franklin College of Arts and Sciences,25,25,0,1,1.0
-COMM2700E,2025-02-17,Communicating in Digital Environments,Franklin College of Arts and Sciences,25,25,0,1,1.0
-COMM3200E,2025-02-17,Business and Professional Communication,Franklin College of Arts and Sciences,98,110,12,2,0.8909090909090909
-COMM3300E,2025-02-17,Introduction to Rhetorical Criticism,Franklin College of Arts and Sciences,25,25,0,6,1.0
-COMM3320E,2025-02-17,Environmental Communication,Franklin College of Arts and Sciences,40,40,0,17,1.0
-CSCI1301E,2025-02-17,Introduction to Computing and Programming,Franklin College of Arts and Sciences,59,90,31,0,0.6555555555555556
-CSCI1730E,2025-02-17,Systems Programming,Franklin College of Arts and Sciences,140,140,0,14,1.0
-CSCI2610E,2025-02-17,Discrete Mathematics for Computer Science,Franklin College of Arts and Sciences,61,120,59,0,0.5083333333333333
-CSCI2670E,2025-02-17,Introduction to Theory of Computing,Franklin College of Arts and Sciences,38,60,22,0,0.6333333333333333
-CSCI3030E,2025-02-17,"Computing, Ethics, and Society",Franklin College of Arts and Sciences,225,240,15,0,0.9375
-CSCI3360E,2025-02-17,Data Science I,Franklin College of Arts and Sciences,60,60,0,5,1.0
-CSCI4050E,2025-02-17,Software Engineering,Franklin College of Arts and Sciences,75,91,16,17,0.8241758241758241
-CSCI4720E,2025-02-17,Computer Architecture and Organization,Franklin College of Arts and Sciences,160,160,0,11,1.0
-CSCI4760E,2025-02-17,Computer Networks,Franklin College of Arts and Sciences,120,120,0,22,1.0
-DANC2010E,2025-02-17,Dance Appreciation,Franklin College of Arts and Sciences,30,30,0,3,1.0
-EBUS5760E,2025-02-17,Consumer Financial Planning,Terry College of Business,4,5,1,0,0.8
-ECHD3020E,2025-02-17,Introduction to Counseling and Human Development Services,College of Education,28,30,2,0,0.9333333333333333
-ECHD3050E,2025-02-17,Career and Life Planning,College of Education,44,80,36,1,0.55
-ECHD3170E,2025-02-17,Drug and Alcohol Abuse Issues,College of Education,69,80,11,0,0.8625
-ECHD4020E,2025-02-17,Interpersonal Relationships,College of Education,22,30,8,0,0.7333333333333333
-ECOL1000E,2025-02-17,Ecological Basis of Environmental Issues,Odum School of Ecology,44,120,76,0,0.36666666666666664
-ECOL1100E,2025-02-17,Ecological Basis of Environmental Issues Laboratory,Odum School of Ecology,35,48,13,0,0.7291666666666666
-ECOL3530E,2025-02-17,Conservation Biology,Odum School of Ecology,21,35,14,0,0.6
-ECOL4540E,2025-02-17,Behavioral Ecology,Odum School of Ecology,13,35,22,0,0.37142857142857144
-ECON2105E,2025-02-17,Principles of Macroeconomics,Terry College of Business,166,200,34,0,0.83
-ECON2106E,2025-02-17,Principles of Microeconomics,Terry College of Business,107,200,93,0,0.535
-ECON2200E,2025-02-17,Economic Development of the United States,Terry College of Business,325,325,0,1,1.0
-ECON4020E,2025-02-17,Intermediate Macroeconomics,Terry College of Business,24,33,9,0,0.7272727272727273
-ECSE1100E,2025-02-17,Introduction to Electrical and Computer Systems Engineering,College of Engineering,37,45,8,0,0.8222222222222222
-EDES4280E,2025-02-17,Environmental Design Uses of Geographic Information Systems,College of Environment and Design,4,11,7,0,0.36363636363636365
-EDIT2000E,2025-02-17,Teaching and Learning with Technology,College of Education,25,40,15,0,0.625
-EDIT4170E,2025-02-17,Introduction to Instructional Design,College of Education,5,5,0,0,1.0
-EDIT5100E,2025-02-17,Assistive and Learning Technologies,College of Education,44,60,16,0,0.7333333333333333
-EDSE2000E,2025-02-17,Survey of Special Education,College of Education,17,35,18,0,0.4857142857142857
-EDSE3050E,2025-02-17,Classroom and Behavior Management for Individuals with Disabilities,College of Education,4,5,1,0,0.8
-EDSE4020E,2025-02-17,Inclusion of Students with Special Needs: PreK-Grade 5,College of Education,2,5,3,0,0.4
-EDSE4030E,2025-02-17,Inclusion of Students with Special Needs: Grades 6-12,College of Education,17,32,15,0,0.53125
-EDSE5020E,2025-02-17,Assessment of Students with Dyslexia and Other Learning Disabilities,College of Education,6,10,4,0,0.6
-EDSE5120E,2025-02-17,Dyslexia and Other Learning Disabilities,College of Education,4,5,1,0,0.8
-EDSE5250E,2025-02-17,Teaching Writing to Students with Disabilities,College of Education,9,20,11,0,0.45
-EDSE5400E,2025-02-17,Collaboration Among Families and Professionals,College of Education,4,10,6,0,0.4
-EDSE5770E,2025-02-17,Practicum in Intensive Reading Intervention,College of Education,16,20,4,0,0.8
-EDUC2110E,2025-02-17,Investigating Critical and Contemporary Issues in Education,College of Education,15,30,15,0,0.5
-EDUC2120E,2025-02-17,Exploring Socio-Cultural Perspectives on Diversity,College of Education,15,60,45,0,0.25
-EDUC2140E,2025-02-17,Foundations of Reading,College of Education,26,50,24,0,0.52
-EHSC3060E,2025-02-17,Introduction to Environmental Health Science,College of Public Health,48,50,2,3,0.96
-ELEE4230E,2025-02-17,Sensors and Transducers,College of Engineering,37,44,7,0,0.8409090909090909
-EMAT5001E,2025-02-17,Arithmetic and Problem Solving,College of Education,4,25,21,0,0.16
-EMST3012E,2025-02-17,The Peabody Archive and Genre Television,Grady College of Journalism and Mass Communication,22,25,3,0,0.88
-ENGL1101E,2025-02-17,English Composition I,Franklin College of Arts and Sciences,40,40,0,6,1.0
-ENGL1102E,2025-02-17,English Composition II,Franklin College of Arts and Sciences,317,340,23,12,0.9323529411764706
-ENGL2310E,2025-02-17,English Literature from the Beginnings to 1700,Franklin College of Arts and Sciences,25,25,0,3,1.0
-ENGL4837E,2025-02-17,Digital Storytelling,Franklin College of Arts and Sciences,25,25,0,3,1.0
-ENGR1120E,2025-02-17,Engineering Graphics and Design,College of Engineering,9,32,23,0,0.28125
-ENGR2090E,2025-02-17,Probability and Statistics for Engineers,College of Engineering,20,20,0,2,1.0
-ENGR2120E,2025-02-17,Engineering Statics,College of Engineering,42,50,8,0,0.84
-ENGR2130E,2025-02-17,Dynamics,College of Engineering,50,50,0,4,1.0
-ENGR2140E,2025-02-17,Strength of Materials,College of Engineering,50,50,0,24,1.0
-ENGR2170E,2025-02-17,Applied Circuit Analysis,College of Engineering,130,130,0,26,1.0
-ENGR3150E,2025-02-17,Heat Transfer,College of Engineering,50,50,0,10,1.0
-ENGR3160E,2025-02-17,Fluid Mechanics,College of Engineering,40,50,10,0,0.8
-ENGR4490E,2025-02-17,Renewable Energy Engineering,College of Engineering,12,40,28,0,0.3
-ENTO2010E,2025-02-17,Insects and the Environment,College of Agricultural and Environmental Sciences,30,50,20,0,0.6
-ENTO4770E,2025-02-17,Discover the Wonderful World of Plants and Pollinators and Your Place in It - Service Learning,College of Agricultural and Environmental Sciences,12,30,18,0,0.4
-ENTR5500E,2025-02-17,Introduction to Entrepreneurship,Terry College of Business,20,20,0,0,1.0
-ENVM3060E,2025-02-17,Principles of Resource Economics,College of Agricultural and Environmental Sciences,23,50,27,0,0.46
-EPID4070E,2025-02-17,Fundamentals of Epidemiology,College of Education,0,50,50,0,0.0
-EPSY2130E,2025-02-17,Exploring Learning and Teaching,College of Education,27,75,48,0,0.36
-EPSY4011E,2025-02-17,Foundations of Human Development for Education,College of Education,8,15,7,0,0.5333333333333333
-EPSY4061E,2025-02-17,Motivational Foundations for Education,College of Education,0,25,25,0,0.0
-EPSY4240E,2025-02-17,Abnormal Child Psychology,College of Education,24,50,26,0,0.48
-ESOC5020E,2025-02-17,Teaching History,College of Education,2,25,23,0,0.08
-ETAP5700E,2025-02-17,Sustainability Education: Promising Practices,College of Education,0,10,10,0,0.0
-FACS2000E,2025-02-17,Introduction to Family and Consumer Sciences,College of Family and Consumer Sciences,32,100,68,0,0.32
-FANR1100E,2025-02-17,Natural Resources Conservation,Warnell School of Forestry and Natural Resources,17,100,83,0,0.17
-FANR5620E,2025-02-17,GIS Applications in Natural Resources and Ecology,Warnell School of Forestry and Natural Resources,0,12,12,0,0.0
-FHCE2100E,2025-02-17,Introduction to Consumer Economics,College of Family and Consumer Sciences,66,100,34,0,0.66
-FHCE3100E,2025-02-17,Consumer Decision Making,College of Family and Consumer Sciences,85,100,15,0,0.85
-FHCE3150E,2025-02-17,Consumer Economics Theory,College of Family and Consumer Sciences,61,100,39,0,0.61
-FHCE3200E,2025-02-17,Introduction to Personal Finance,College of Family and Consumer Sciences,128,300,172,0,0.4266666666666667
-FHCE3300E,2025-02-17,Housing in Contemporary Society,College of Family and Consumer Sciences,86,100,14,0,0.86
-FHCE4270E,2025-02-17,Behavioral Economics and Financial Planning for Families,College of Family and Consumer Sciences,32,50,18,0,0.64
-FHCE4360E,2025-02-17,Rural Housing and Economic Development,College of Family and Consumer Sciences,19,40,21,0,0.475
-FHCE4900E,2025-02-17,"Seminar in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,22,50,28,0,0.44
-FHCE5175E,2025-02-17,Poverty in America,College of Family and Consumer Sciences,64,100,36,0,0.64
-FHCE5250E,2025-02-17,Capstone in Financial Planning,College of Family and Consumer Sciences,18,25,7,0,0.72
-FINA3000E,2025-02-17,Financial Management,Terry College of Business,50,50,0,0,1.0
-FINA3001E,2025-02-17,Financial Management,Terry College of Business,60,60,0,26,1.0
-FINA4000E,2025-02-17,Financial Institutions and Markets,Terry College of Business,50,50,0,2,1.0
-FINA4050E,2025-02-17,Capitalism,Terry College of Business,30,30,0,16,1.0
-FINA4200E,2025-02-17,Corporate Finance Theory,Terry College of Business,12,25,13,0,0.48
-FINA4310E,2025-02-17,Survey of Investments,Terry College of Business,50,50,0,6,1.0
-FINA4920E,2025-02-17,Financial Modeling,Terry College of Business,33,50,17,0,0.66
-FORS5100E,2025-02-17,Forest Ecology,Warnell School of Forestry and Natural Resources,1,24,23,0,0.041666666666666664
-FREN2001E,2025-02-17,Intermediate French,Franklin College of Arts and Sciences,51,56,5,5,0.9107142857142857
-GENE3000E,2025-02-17,Evolutionary Biology,Franklin College of Arts and Sciences,43,50,7,0,0.86
-GENE3200E,2025-02-17,Genetics,Franklin College of Arts and Sciences,139,140,1,6,0.9928571428571429
-GEOG1101E,2025-02-17,"Human Geography: People, Places, and Cultures",Franklin College of Arts and Sciences,215,215,0,9,1.0
-GEOG1112E,2025-02-17,Introduction to Weather and Climate,Franklin College of Arts and Sciences,25,25,0,0,1.0
-GEOG1113E,2025-02-17,Exploring Earth's Surface:  Landforms and Environments,Franklin College of Arts and Sciences,29,50,21,0,0.58
-GEOG1125E,2025-02-17,"Resources, Society, and the Environment",Franklin College of Arts and Sciences,18,60,42,0,0.3
-GEOG4130E,2025-02-17,Tropical Meteorology and Climatology,Franklin College of Arts and Sciences,2,3,1,0,0.6666666666666666
-GEOG4370E,2025-02-17,Introduction to Geographic Information Science,Franklin College of Arts and Sciences,21,40,19,0,0.525
-GEOL1120E,2025-02-17,Environmental Geoscience,Franklin College of Arts and Sciences,10,125,115,0,0.08
-GEOL1121E,2025-02-17,Earth Processes and Environments,Franklin College of Arts and Sciences,18,175,157,0,0.10285714285714286
-GLOB3100E,2025-02-17,Introduction to Global Health,College of Public Health,25,25,0,7,1.0
-GLOB3200E,2025-02-17,"Global Health and the Links Among Food, Culture, and Disease",College of Public Health,19,25,6,0,0.76
-GRNT3000E,2025-02-17,Aspects of Aging,College of Public Health,25,25,0,1,1.0
-GRNT3400E,2025-02-17,Cognition and the Aging Brain,College of Public Health,25,25,0,2,1.0
-GRNT3700E,2025-02-17,Exploring Aging Through Film,College of Public Health,19,25,6,0,0.76
-HDFS2100E,2025-02-17,"Dating, Mating, Communicating: Relationships and Families",College of Family and Consumer Sciences,66,75,9,0,0.88
-HDFS2200E,2025-02-17,Introduction to Life Span Development,College of Family and Consumer Sciences,69,100,31,0,0.69
-HDFS2950E,2025-02-17,Introduction to Child Development,College of Family and Consumer Sciences,26,45,19,0,0.5777777777777777
-HDFS3700E,2025-02-17,Adolescent Development - Service Learning,College of Family and Consumer Sciences,20,20,0,5,1.0
-HDFS3701E,2025-02-17,Adolescent Development,College of Family and Consumer Sciences,47,50,3,0,0.94
-HDFS3930E,2025-02-17,It’s Complicated: 21st-Century Intimate Relationships,College of Family and Consumer Sciences,36,65,29,0,0.5538461538461539
-HDFS4140E,2025-02-17,Medical Terminology for the Child Life Profession,College of Family and Consumer Sciences,6,10,4,0,0.6
-HDFS4830E,2025-02-17,"Grief, Loss, and Bereavement",College of Family and Consumer Sciences,16,35,19,0,0.45714285714285713
-HIST2111E,2025-02-17,American History to 1865,Franklin College of Arts and Sciences,180,180,0,52,1.0
-HIST2112E,2025-02-17,American History Since 1865,Franklin College of Arts and Sciences,660,660,0,48,1.0
-HORT2000E,2025-02-17,Horticulture Science Perspectives of Sustainable Plant Production,College of Agricultural and Environmental Sciences,49,100,51,0,0.49
-HORT3300E,2025-02-17,Organic Gardening,College of Agricultural and Environmental Sciences,34,75,41,0,0.4533333333333333
-HORT4770E,2025-02-17,Discover the Wonderful World of Plants and Pollinators and Your Place in It - Service Learning,College of Agricultural and Environmental Sciences,7,40,33,0,0.175
-HPAM3500E,2025-02-17,Introduction to Healthcare Management,College of Public Health,10,25,15,0,0.4
-HPAM3600E,2025-02-17,Introduction to Health Policy,College of Public Health,50,50,0,10,1.0
-HPAM3650E,2025-02-17,Comparative Healthcare Systems,College of Public Health,13,25,12,0,0.52
-HPAM4300E,2025-02-17,Essentials of Health Care Administration,College of Public Health,3,25,22,0,0.12
-HPRB3750E,2025-02-17,Foundations of Injury Prevention,College of Public Health,14,30,16,0,0.4666666666666667
-HPRB3850E,2025-02-17,Chronic Disease Prevention,College of Public Health,18,60,42,0,0.3
-HPRB5060E,2025-02-17,Educational Strategies in Human Sexuality,College of Public Health,12,25,13,0,0.48
-HPRB5210E,2025-02-17,The Effects of Drug Use and Abuse,College of Public Health,5,20,15,0,0.25
-HPRB5410E,2025-02-17,Professional Writing for Health Promotion,College of Public Health,2,30,28,0,0.06666666666666667
-INFO3000E,2025-02-17,Experiential Data Science Specialization – Intermediate Level,Franklin College of Arts and Sciences,14,20,6,0,0.7
-INTL1100E,2025-02-17,Introduction to Global Issues,School of Public and International Affairs,21,45,24,0,0.4666666666666667
-INTL3200E,2025-02-17,Introduction to International Relations,School of Public and International Affairs,37,90,53,0,0.4111111111111111
-INTL4004E,2025-02-17,Data Analytics for International Policy,School of Public and International Affairs,19,45,26,0,0.4222222222222222
-INTL4215E,2025-02-17,International Humanitarian Law,School of Public and International Affairs,45,45,0,3,1.0
-INTL4455E,2025-02-17,Violent Political Conflict,School of Public and International Affairs,25,45,20,0,0.5555555555555556
-INTL4666E,2025-02-17,The Politics of Cyber Security,School of Public and International Affairs,24,45,21,0,0.5333333333333333
-INTL4675E,2025-02-17,Music and Politics Around the World,School of Public and International Affairs,27,45,18,0,0.6
-ITAL2001E,2025-02-17,Intermediate Italian,Franklin College of Arts and Sciences,41,56,15,0,0.7321428571428571
-ITAL2002E,2025-02-17,Intermediate Italian,Franklin College of Arts and Sciences,2,28,26,0,0.07142857142857142
-ITAL2500E,2025-02-17,Italian Culture,Franklin College of Arts and Sciences,30,56,26,0,0.5357142857142857
-JOUR3030E,2025-02-17,"Media, News, and Consumers",Grady College of Journalism and Mass Communication,8,50,42,0,0.16
-JOUR5320E,2025-02-17,Journalism Ethics and Diversity,Grady College of Journalism and Mass Communication,19,20,1,0,0.95
-JOUR5380E,2025-02-17,Data Gathering and Visualization,Grady College of Journalism and Mass Communication,6,20,14,0,0.3
-JRLC3600E,2025-02-17,Media Savvy Becoming Digitally Literate,Grady College of Journalism and Mass Communication,27,27,0,5,1.0
-JRLC3700E,2025-02-17,Photography and Storytelling: Communicating Visually,Grady College of Journalism and Mass Communication,7,25,18,0,0.28
-JRLC5040E,2025-02-17,Law of Mass Communication,Grady College of Journalism and Mass Communication,16,20,4,0,0.8
-KINS2010E,2025-02-17,Introduction to Kinesiology,College of Education,15,40,25,0,0.375
-KINS2500E,2025-02-17,Exercise is Medicine,College of Education,24,24,0,0,1.0
-KINS2501E,2025-02-17,Exercise is Medicine Lab Online,College of Education,24,24,0,1,1.0
-KINS3115E,2025-02-17,Structural Kinesiology,College of Education,24,24,0,16,1.0
-KINS3415E,2025-02-17,Philosophy and Ethics in Sport,College of Education,19,30,11,0,0.6333333333333333
-KINS3420E,2025-02-17,Managing the Legal Aspects of Sport,College of Education,29,30,1,0,0.9666666666666667
-KINS3430E,2025-02-17,Introduction to Sport Management,College of Education,105,120,15,2,0.875
-KINS3700E,2025-02-17,Applied Exercise Physiology,College of Education,19,50,31,0,0.38
-KINS3830E,2025-02-17,Study Design and Statistics in Kinesiology,College of Education,9,30,21,0,0.3
-KINS4250E,2025-02-17,Introduction to Sports Analytics,College of Education,45,60,15,0,0.75
-KINS4300E,2025-02-17,Exercise Epidemiology,College of Education,21,20,-1,0,1.05
-KINS4310E,2025-02-17,Exercise Prescription for Special Populations,College of Education,20,30,10,0,0.6666666666666666
-KINS4450E,2025-02-17,"Initiating Motivation for Change in Health, Exercise, and Sport",College of Education,26,35,9,0,0.7428571428571429
-KINS4520E,2025-02-17,Sport Finance,College of Education,21,25,4,0,0.84
-KINS4810E,2025-02-17,Sport Marketing,College of Education,43,55,12,0,0.7818181818181819
-KINS4820E,2025-02-17,Social Aspects of Sport,College of Education,36,60,24,0,0.6
-KINS4830E,2025-02-17,Sport Policy and Governance,College of Education,21,70,49,0,0.3
-KINS4840E,2025-02-17,Sport Event Management,College of Education,37,60,23,1,0.6166666666666667
-KINS4850E,2025-02-17,"Sport Sales, Fundraising, and Revenue Generation",College of Education,10,30,20,0,0.3333333333333333
-KINS5560E,2025-02-17,Economic and Policy Analysis in Sport,College of Education,25,25,0,0,1.0
-KINS5930E,2025-02-17,Research Literature in Sport Coaching and Coaching Education,College of Education,8,18,10,0,0.4444444444444444
-LACS1000E,2025-02-17,Introduction to Latin America and the Caribbean,Latin and Caribbean Studies - Various,26,60,34,0,0.43333333333333335
-LAND1500E,2025-02-17,Design and the Environment,College of Environment and Design,18,180,162,0,0.1
-LAND2510E,2025-02-17,History of the Built Environment I: Landscape,College of Environment and Design,50,50,0,11,1.0
-LAND2520E,2025-02-17,History of the Built Environment II: Architecture,College of Environment and Design,11,30,19,0,0.36666666666666664
-LAND4580E,2025-02-17,"Landscapes in Literature, the Arts, and Popular Culture",College of Environment and Design,8,30,22,0,0.26666666666666666
-LATN2050E,2025-02-17,Intensive Elementary Latin I,Franklin College of Arts and Sciences,6,50,44,0,0.12
-LATN2060E,2025-02-17,Intensive Elementary Latin II,Franklin College of Arts and Sciences,3,50,47,0,0.06
-LEGL2700E,2025-02-17,Legal and Regulatory Environment of Business,Terry College of Business,80,80,0,28,1.0
-LING2100E,2025-02-17,The Study of Language,Franklin College of Arts and Sciences,75,176,101,0,0.42613636363636365
-LLED4410E,2025-02-17,Adolescent Literature,College of Education,15,20,5,0,0.75
-LLED5040E,2025-02-17,Language and Culture in the Classroom,College of Education,14,30,16,0,0.4666666666666667
-LLED5530E,2025-02-17,Introduction to Language Teaching,College of Education,4,12,8,0,0.3333333333333333
-LLED5630E,2025-02-17,"ESOL, Grades P-12",College of Education,7,10,3,0,0.7
-LLED5730E,2025-02-17,First and Second Language Acquisition and Development,College of Education,15,30,15,0,0.5
-MARK3000E,2025-02-17,Principles of Marketing,Terry College of Business,32,120,88,0,0.26666666666666666
-MARK3001E,2025-02-17,Principles of Marketing,Terry College of Business,65,65,0,7,1.0
-MARK4000E,2025-02-17,Marketing Research for Business Decisions,Terry College of Business,40,40,0,0,1.0
-MARK4100E,2025-02-17,Consumer Buyer Behavior,Terry College of Business,22,45,23,0,0.4888888888888889
-MARK4210E,2025-02-17,Professional Selling and Customer Relationship Management,Terry College of Business,11,25,14,0,0.44
-MARK4450E,2025-02-17,Social Media Marketing Strategy,Terry College of Business,21,25,4,0,0.84
-MARK4500E,2025-02-17,Services Marketing,Terry College of Business,17,30,13,0,0.5666666666666667
-MARK4600E,2025-02-17,Integrated Marketing and Brand Communication,Terry College of Business,20,35,15,0,0.5714285714285714
-MARK4650E,2025-02-17,Digital Marketing Analytics,Terry College of Business,10,30,20,0,0.3333333333333333
-MARK4700E,2025-02-17,International Marketing,Terry College of Business,13,30,17,0,0.43333333333333335
-MARK4780E,2025-02-17,Consumer Marketing and Brand Management,Terry College of Business,11,30,19,0,0.36666666666666664
-MARS1011E,2025-02-17,Introduction to the Marine Environment,Franklin College of Arts and Sciences,60,60,0,1,1.0
-MATH1113E,2025-02-17,Precalculus,Franklin College of Arts and Sciences,171,208,37,18,0.8221153846153846
-MATH2250E,2025-02-17,Calculus I for Science and Engineering,Franklin College of Arts and Sciences,191,216,25,9,0.8842592592592593
-MATH2260E,2025-02-17,Calculus II for Science and Engineering,Franklin College of Arts and Sciences,86,108,22,12,0.7962962962962963
-MCHE3300E,2025-02-17,Machine Design I,College of Engineering,38,50,12,0,0.76
-MGMT3000E,2025-02-17,Principles of Management,Terry College of Business,38,90,52,0,0.4222222222222222
-MGMT3001E,2025-02-17,Principles of Management,Terry College of Business,80,80,0,0,1.0
-MGMT4000E,2025-02-17,Operations Management,Terry College of Business,47,60,13,0,0.7833333333333333
-MGMT5440E,2025-02-17,Business Ethics,Terry College of Business,40,50,10,0,0.8
-MGMT5970,2025-02-17,Organizational Change and Innovation Management,Terry College of Business,0,20,20,0,0.0
-MIBO2500E,2025-02-17,Microbiology and Health Care,Franklin College of Arts and Sciences,75,75,0,2,1.0
-MIBO3500E,2025-02-17,Introductory Microbiology,Franklin College of Arts and Sciences,185,185,0,9,1.0
-MIST2090E,2025-02-17,Introduction to Information Systems in Business,Terry College of Business,60,60,0,9,1.0
-MIST4600E,2025-02-17,Computer Programming in Business,Terry College of Business,33,33,0,27,1.0
-MIST4610E,2025-02-17,Data Management and Analytics,Terry College of Business,60,60,0,6,1.0
-MIST4620E,2025-02-17,Systems Analysis and Design,Terry College of Business,21,25,4,0,0.84
-MIST5750E,2025-02-17,Business Process Management,Terry College of Business,30,30,0,24,1.0
-MNML5237E,2025-02-17,Theory and Management of Nonprofit Organizations,School of Social Work,2,15,13,0,0.13333333333333333
-MNML5957E,2025-02-17,Grant Proposal Writing for Nonprofit Organizations,School of Social Work,1,15,14,0,0.06666666666666667
-MUSI2020E,2025-02-17,Introduction to Music,Franklin College of Arts and Sciences,12,60,48,0,0.2
-MUSI2040E,2025-02-17,History of Popular Music,Franklin College of Arts and Sciences,35,90,55,0,0.3888888888888889
-MUSI2080E,2025-02-17,African American Music,Franklin College of Arts and Sciences,11,60,49,0,0.18333333333333332
-NMIX2010E,2025-02-17,Introduction to New Media,Grady College of Journalism and Mass Communication,26,100,74,0,0.26
-NMIX4010E,2025-02-17,Web Development,Grady College of Journalism and Mass Communication,0,40,40,0,0.0
-NMIX4011E,2025-02-17,New Media Design,Grady College of Journalism and Mass Communication,0,40,40,0,0.0
-NMIX4012E,2025-02-17,New Media Topics,Grady College of Journalism and Mass Communication,0,15,15,0,0.0
-NUTR2100E,2025-02-17,Fundamentals of Human Nutrition,College of Family and Consumer Sciences,59,150,91,0,0.3933333333333333
-NUTR4050E,2025-02-17,Optimal Nutrition for the Life Span,College of Family and Consumer Sciences,20,20,0,0,1.0
-PATH3020E,2025-02-17,Viruses: Biology and Impact,College of Agricultural and Environmental Sciences,25,25,0,13,1.0
-PBHL3100E,2025-02-17,Introduction to Public Health,College of Public Health,54,90,36,0,0.6
-PEDB1950E,2025-02-17,Fitness for Life Walking,College of Education,33,60,27,0,0.55
-PHIL2010E,2025-02-17,Introduction to Philosophy,Franklin College of Arts and Sciences,18,80,62,0,0.225
-PHIL2020E,2025-02-17,Logic and Critical Thinking,Franklin College of Arts and Sciences,28,40,12,0,0.7
-PHIL2030E,2025-02-17,Introduction to Ethics,Franklin College of Arts and Sciences,39,40,1,0,0.975
-PHIL2500E,2025-02-17,Symbolic Logic,Franklin College of Arts and Sciences,20,40,20,0,0.5
-PHIL3550E,2025-02-17,Introduction to Cognitive Science,Franklin College of Arts and Sciences,8,40,32,0,0.2
-PMCY2000E,2025-02-17,Emergency Preparedness: Will I Survive?,College of Pharmacy,1,50,49,0,0.02
-PMCY3000E,2025-02-17,Human Physiology,College of Pharmacy,49,100,51,0,0.49
-POLS1101E,2025-02-17,American Government,School of Public and International Affairs,798,1005,207,44,0.7940298507462686
-POLS3000E,2025-02-17,Introduction to Political Theory,School of Public and International Affairs,68,75,7,0,0.9066666666666666
-POLS3600E,2025-02-17,Criminal Justice Administration,School of Public and International Affairs,26,45,19,0,0.5777777777777777
-POLS4020E,2025-02-17,Political Philosophy: Hobbes to Nietzsche,School of Public and International Affairs,45,45,0,0,1.0
-POLS4071E,2025-02-17,Social Choice and Elections,School of Public and International Affairs,21,45,24,0,0.4666666666666667
-POLS4156E,2025-02-17,Online Political Research and Analysis,School of Public and International Affairs,20,45,25,0,0.4444444444444444
-POLS4400E,2025-02-17,Political Psychology,School of Public and International Affairs,41,45,4,0,0.9111111111111111
-POLS4420E,2025-02-17,Politics and Technology,School of Public and International Affairs,10,45,35,0,0.2222222222222222
-POLS4551E,2025-02-17,Political Propaganda and American Politics,School of Public and International Affairs,45,45,0,3,1.0
-POLS4620E,2025-02-17,The United States Congress: Process and Policy-Making,School of Public and International Affairs,22,45,23,0,0.4888888888888889
-POLS4645E,2025-02-17,Applied Civic Engagement,School of Public and International Affairs,36,60,24,0,0.6
-POLS4690E,2025-02-17,Religion and American Politics,School of Public and International Affairs,29,45,16,0,0.6444444444444445
-POLS4710E,2025-02-17,Constitutional Law: Rights and Liberties,School of Public and International Affairs,25,45,20,0,0.5555555555555556
-POLS4720E,2025-02-17,Criminal Procedure,School of Public and International Affairs,44,45,1,0,0.9777777777777777
-POUL1010E,2025-02-17,Birds in Our Lives,College of Agricultural and Environmental Sciences,1,100,99,0,0.01
-PRTM1100E,2025-02-17,Introduction to Travel and Tourism,Warnell School of Forestry and Natural Resources,25,100,75,0,0.25
-PSYC1101E,2025-02-17,Elementary Psychology,Franklin College of Arts and Sciences,109,120,11,3,0.9083333333333333
-PSYC3230E,2025-02-17,Psychopathology,Franklin College of Arts and Sciences,113,120,7,3,0.9416666666666667
-PSYC3260E,2025-02-17,Human Sexuality,Franklin College of Arts and Sciences,46,50,4,0,0.92
-PSYC3550E,2025-02-17,Introduction to Cognitive Science,Franklin College of Arts and Sciences,16,40,24,0,0.4
-PSYC3810E,2025-02-17,Psychology of Health,Franklin College of Arts and Sciences,40,40,0,2,1.0
-PSYC3980E,2025-02-17,Research Design in Psychology,Franklin College of Arts and Sciences,30,30,0,5,1.0
-PSYC4100E,2025-02-17,Cognitive Psychology,Franklin College of Arts and Sciences,76,100,24,0,0.76
-PSYC4120E,2025-02-17,Sensation and Perception,Franklin College of Arts and Sciences,40,40,0,0,1.0
-PSYC4130E,2025-02-17,Physiological and Comparative Psychology,Franklin College of Arts and Sciences,59,60,1,1,0.9833333333333333
-PSYC4140E,2025-02-17,Cognitive Neuroscience,Franklin College of Arts and Sciences,7,25,18,0,0.28
-PSYC4200E,2025-02-17,Social Psychology,Franklin College of Arts and Sciences,24,25,1,0,0.96
-PSYC4220E,2025-02-17,Developmental Psychology,Franklin College of Arts and Sciences,74,75,1,2,0.9866666666666667
-PSYC4230E,2025-02-17,Psychology of the Workplace,Franklin College of Arts and Sciences,19,50,31,0,0.38
-REAL4000E,2025-02-17,Real Estate,Terry College of Business,50,50,0,2,1.0
-RELI1001E,2025-02-17,"Introduction to Judaism, Christianity, and Islam",Franklin College of Arts and Sciences,166,225,59,1,0.7377777777777778
-RELI1003E,2025-02-17,Introduction to Religious Thought,Franklin College of Arts and Sciences,40,45,5,0,0.8888888888888888
-RELI1006E,2025-02-17,Religions of the World,Franklin College of Arts and Sciences,45,45,0,3,1.0
-RELI1007E,2025-02-17,Reading the Old Testament/Hebrew Bible,Franklin College of Arts and Sciences,12,45,33,0,0.26666666666666666
-RELI1009E,2025-02-17,Introduction to Indigenous Religions,Franklin College of Arts and Sciences,5,45,40,0,0.1111111111111111
-RMIN4000E,2025-02-17,Risk Management and Insurance,Terry College of Business,60,60,0,7,1.0
-SOCI1101E,2025-02-17,Introductory Sociology,Franklin College of Arts and Sciences,84,120,36,0,0.7
-SOCI3150E,2025-02-17,Criminal Punishment and Society,Franklin College of Arts and Sciences,40,45,5,0,0.8888888888888888
-SOCI3810E,2025-02-17,Criminology,Franklin College of Arts and Sciences,40,45,5,0,0.8888888888888888
-SOCI3840E,2025-02-17,Family Violence,Franklin College of Arts and Sciences,31,60,29,0,0.5166666666666667
-SOWK4392E,2025-02-17,"Social Work, Sports, and Athletes",School of Social Work,4,15,11,0,0.26666666666666666
-SOWK5390E,2025-02-17,Introduction to Military Social Work,School of Social Work,14,15,1,0,0.9333333333333333
-SPAN1001E,2025-02-17,Elementary Spanish I,Franklin College of Arts and Sciences,83,84,1,2,0.9880952380952381
-SPAN1002E,2025-02-17,Elementary Spanish II,Franklin College of Arts and Sciences,84,84,0,7,1.0
-SPAN1110E,2025-02-17,Accelerated Elementary Spanish,Franklin College of Arts and Sciences,56,56,0,4,1.0
-SPAN2001E,2025-02-17,Intermediate Spanish I,Franklin College of Arts and Sciences,252,252,0,22,1.0
-SPAN2002E,2025-02-17,Intermediate Spanish II,Franklin College of Arts and Sciences,38,56,18,0,0.6785714285714286
-SPAN3030E,2025-02-17,Texts in Global Contexts,Franklin College of Arts and Sciences,25,25,0,4,1.0
-SPAN3050E,2025-02-17,Introduction to Spanish Linguistics,Franklin College of Arts and Sciences,24,25,1,0,0.96
-STAT2000E,2025-02-17,Introductory Statistics,Franklin College of Arts and Sciences,270,300,30,0,0.9
-STAT3110E,2025-02-17,Introduction to Statistics for Life Sciences,Franklin College of Arts and Sciences,27,35,8,0,0.7714285714285715
-STAT4365E,2025-02-17,Modern Statistical Programming,Franklin College of Arts and Sciences,29,30,1,0,0.9666666666666667
-SWAH3001E,2025-02-17,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,12,70,58,0,0.17142857142857143
-THEA3020E,2025-02-17,Basic Dramatic Writing,Franklin College of Arts and Sciences,16,24,8,0,0.6666666666666666
-TXMI2100E,2025-02-17,Textiles for Consumers,College of Family and Consumer Sciences,8,40,32,0,0.2
-TXMI3210E,2025-02-17,Fundamentals of Fashion Merchandising,College of Family and Consumer Sciences,8,30,22,0,0.26666666666666666
-TXMI3530E,2025-02-17,Apparel Quality Analysis,College of Family and Consumer Sciences,26,40,14,0,0.65
-TXMI4290E,2025-02-17,History of Dress and Fashion:  Nineteenth Century to the Present,College of Family and Consumer Sciences,29,50,21,0,0.58
-TXMI5220E,2025-02-17,Fashion Product and Brand Management,College of Family and Consumer Sciences,15,45,30,0,0.3333333333333333
-TXMI5240E,2025-02-17,Retailing Apparel and Textiles,College of Family and Consumer Sciences,7,25,18,0,0.28
-TXMI5260E,2025-02-17,Case Studies in the Retail Industry,College of Family and Consumer Sciences,11,20,9,0,0.55
-UNIV1201E,2025-02-17,Learning for Success at the University,various,6,25,19,0,0.24
-UNIV1205E,2025-02-17,"Learning Online: Strategies, Skills, and Success",various,8,25,17,0,0.32
-UNIV2301E,2025-02-17,Transformative Learning Strategies,various,0,20,20,0,0.0
-UNIV2302E,2025-02-17,Success for Transfer Students,various,0,25,25,0,0.0
-VPHY3100E,2025-02-17,Elements of Physiology,College of Veterinary Medicine,257,300,43,0,0.8566666666666667
-VPHY4200E,2025-02-17,Physiologic Basis of Diseases,College of Veterinary Medicine,85,85,0,6,1.0
-WFED4350E,2025-02-17,Curriculum Planning in Workforce Education,College of Education,3,5,2,0,0.6
-WFED4360E,2025-02-17,Instructional Strategies in Workforce Education,College of Education,3,5,2,0,0.6
-WILD1100E,2025-02-17,Wildlife in America,Warnell School of Forestry and Natural Resources,20,100,80,0,0.2
-WMST1110E,2025-02-17,Multicultural Perspectives on Women in the United States,Franklin College of Arts and Sciences,43,43,0,0,1.0
+AAEC2580E,2025-02-24,Applied Microeconomic Principles,College of Agricultural and Environmental Sciences,13,25,12,0,0.52
+AAEC3020E,2025-02-24,Analytical and Computational Tools for Applied Economics,College of Agricultural and Environmental Sciences,14,25,11,0,0.56
+AAEC3980E,2025-02-24,Introduction to Agribusiness Management,College of Agricultural and Environmental Sciences,7,15,8,0,0.4666666666666667
+ACCT1160E,2025-02-24,Survey of Accounting,Terry College of Business,90,90,0,6,1.0
+ACCT2101E,2025-02-24,Principles of Accounting I,Terry College of Business,110,145,35,1,0.7586206896551724
+ACCT2102E,2025-02-24,Principles of Accounting II,Terry College of Business,80,80,0,8,1.0
+ADPR3100E,2025-02-24,Principles of Advertising,Grady College of Journalism and Mass Communication,38,40,2,0,0.95
+ADPR3550E,2025-02-24,Social Media Content and Production,Grady College of Journalism and Mass Communication,20,20,0,1,1.0
+ADPR3850E,2025-02-24,Public Relations,Grady College of Journalism and Mass Communication,36,40,4,0,0.9
+ADPR5930E,2025-02-24,"PR Ethics, Diverse Cultures, and Cross-Cultural Leadership",Grady College of Journalism and Mass Communication,8,10,2,0,0.8
+ADSC4350E,2025-02-24,Grazing Animal Production and Management,College of Agricultural and Environmental Sciences,15,20,5,0,0.75
+AFST2100E,2025-02-24,Introduction to Africa,Franklin College of Arts and Sciences,58,95,37,0,0.6105263157894737
+AFST3001E,2025-02-24,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,5,70,65,0,0.07142857142857142
+ALDR3820E,2025-02-24,Reflections on Fighting Hunger,College of Agricultural and Environmental Sciences,16,20,4,0,0.8
+ALDR4710E,2025-02-24,International Agricultural Development,College of Agricultural and Environmental Sciences,4,10,6,0,0.4
+ALDR4800E,2025-02-24,Grantseeking,College of Agricultural and Environmental Sciences,5,20,15,0,0.25
+AMSL1010E,2025-02-24,American Sign Language I,College of Education,75,75,0,19,1.0
+AMSL1020E,2025-02-24,American Sign Language II,College of Education,50,50,0,3,1.0
+AMSL2010E,2025-02-24,American Sign Language III,College of Education,51,50,-1,4,1.02
+ANTH1102E,2025-02-24,Introduction to Anthropology,Franklin College of Arts and Sciences,65,100,35,0,0.65
+ANTH3001E,2025-02-24,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,8,70,62,0,0.11428571428571428
+ANTH3150E,2025-02-24,Water Worlds,Franklin College of Arts and Sciences,13,37,24,0,0.35135135135135137
+ANTH3410E,2025-02-24,Contemporary Native America,Franklin College of Arts and Sciences,21,60,39,0,0.35
+ARGD2030E,2025-02-24,Introduction to Typography in Visual Communication,Franklin College of Arts and Sciences,27,45,18,0,0.6
+ARHI2300E,2025-02-24,Introduction to Art History: Prehistory to Renaissance,Franklin College of Arts and Sciences,57,75,18,0,0.76
+ARHI2400E,2025-02-24,Introduction to Art History: Renaissance to Contemporary,Franklin College of Arts and Sciences,31,75,44,0,0.41333333333333333
+ARST3660E,2025-02-24,CAD/CAM for Objects and Jewelry,Franklin College of Arts and Sciences,20,20,0,6,1.0
+ARTI3550E,2025-02-24,Introduction to Cognitive Science,Franklin College of Arts and Sciences,17,40,23,0,0.425
+ARTS2000E,2025-02-24,Art Appreciation,Franklin College of Arts and Sciences,61,75,14,0,0.8133333333333334
+ARTS2050E,2025-02-24,Cultural Diversity in American Art,Franklin College of Arts and Sciences,75,75,0,5,1.0
+ARTS2100E,2025-02-24,Strategic Visual Thinking,Franklin College of Arts and Sciences,56,75,19,0,0.7466666666666667
+ASTR1420E,2025-02-24,Life in the Universe,Franklin College of Arts and Sciences,10,45,35,0,0.2222222222222222
+ATSC1112E,2025-02-24,Introduction to Weather and Climate,Franklin College of Arts and Sciences,5,5,0,0,1.0
+ATSC4130E,2025-02-24,Tropical Meteorology and Climatology,Franklin College of Arts and Sciences,3,22,19,0,0.13636363636363635
+BCMB3100E,2025-02-24,Introductory Biochemistry and Molecular Biology,Franklin College of Arts and Sciences,191,221,30,14,0.8642533936651584
+BIOL1103E,2025-02-24,Concepts in Biology,Franklin College of Arts and Sciences,96,96,0,1,1.0
+BIOL1113E,2025-02-24,Concepts in Biology Laboratory – Online,Franklin College of Arts and Sciences,21,20,-1,5,1.05
+BIOS2010E,2025-02-24,Elementary Biostatistics,College of Public Health,152,160,8,1,0.95
+BIOS3000E,2025-02-24,Intermediate Biostatistics for Public Health Sciences,College of Public Health,40,40,0,1,1.0
+BUSN3000E,2025-02-24,Applied Statistics and Data Analysis for Business,Terry College of Business,60,60,0,15,1.0
+BUSN3020E,2025-02-24,Structured Query Language (SQL) Skills for Business Analytics,Terry College of Business,11,50,39,0,0.22
+BUSN3030E,2025-02-24,Python Programming Skills for Business Analytics I,Terry College of Business,27,50,23,0,0.54
+BUSN3040E,2025-02-24,R Programming Skills for Business Analytics I,Terry College of Business,29,50,21,0,0.58
+BUSN4000E,2025-02-24,Predictive Modeling and Optimization,Terry College of Business,183,185,2,9,0.9891891891891892
+BUSN4030E,2025-02-24,Python Programming Skills for Business Analytics II,Terry College of Business,7,50,43,0,0.14
+BUSN4040E,2025-02-24,R Programming Skills for Business Analytics II,Terry College of Business,17,50,33,0,0.34
+BUSN4910E,2025-02-24,Business Writing,Terry College of Business,11,20,9,0,0.55
+BUSN5000E,2025-02-24,Introduction to Data Science for Business and Economics,Terry College of Business,24,30,6,0,0.8
+CBIO3050E,2025-02-24,Medical Histology,Franklin College of Arts and Sciences,39,40,1,14,0.975
+CBIO3600E,2025-02-24,Developmental Biology,Franklin College of Arts and Sciences,48,80,32,0,0.6
+CHEM1210E,2025-02-24,Basics of Chemistry,Franklin College of Arts and Sciences,33,120,87,0,0.275
+CLAS1020E,2025-02-24,Classical Mythology,Franklin College of Arts and Sciences,111,130,19,0,0.8538461538461538
+CLAS1030E,2025-02-24,Medical Terminology,Franklin College of Arts and Sciences,229,280,51,0,0.8178571428571428
+CMLT3001E,2025-02-24,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,20,70,50,0,0.2857142857142857
+CMLT3210E,2025-02-24,Ecocriticism,Franklin College of Arts and Sciences,35,35,0,4,1.0
+CMLT3250E,2025-02-24,Children's Literature,Franklin College of Arts and Sciences,70,70,0,8,1.0
+CMSD5010E,2025-02-24,Clinical Observations in Speech-Language Pathology,College of Education,21,40,19,0,0.525
+COMM1500E,2025-02-24,Introduction to Interpersonal Communication,Franklin College of Arts and Sciences,150,150,0,7,1.0
+COMM2520E,2025-02-24,Introduction to Interviewing,Franklin College of Arts and Sciences,25,25,0,1,1.0
+COMM2600E,2025-02-24,Communicating and Relationships,Franklin College of Arts and Sciences,25,25,0,2,1.0
+COMM2700E,2025-02-24,Communicating in Digital Environments,Franklin College of Arts and Sciences,25,25,0,2,1.0
+COMM3200E,2025-02-24,Business and Professional Communication,Franklin College of Arts and Sciences,110,110,0,2,1.0
+COMM3300E,2025-02-24,Introduction to Rhetorical Criticism,Franklin College of Arts and Sciences,25,25,0,7,1.0
+COMM3320E,2025-02-24,Environmental Communication,Franklin College of Arts and Sciences,40,40,0,19,1.0
+CSCI1301E,2025-02-24,Introduction to Computing and Programming,Franklin College of Arts and Sciences,62,90,28,0,0.6888888888888889
+CSCI1730E,2025-02-24,Systems Programming,Franklin College of Arts and Sciences,140,140,0,14,1.0
+CSCI2610E,2025-02-24,Discrete Mathematics for Computer Science,Franklin College of Arts and Sciences,61,120,59,0,0.5083333333333333
+CSCI2670E,2025-02-24,Introduction to Theory of Computing,Franklin College of Arts and Sciences,47,60,13,0,0.7833333333333333
+CSCI3030E,2025-02-24,"Computing, Ethics, and Society",Franklin College of Arts and Sciences,229,240,11,0,0.9541666666666667
+CSCI3360E,2025-02-24,Data Science I,Franklin College of Arts and Sciences,60,60,0,6,1.0
+CSCI4050E,2025-02-24,Software Engineering,Franklin College of Arts and Sciences,80,91,11,9,0.8791208791208791
+CSCI4720E,2025-02-24,Computer Architecture and Organization,Franklin College of Arts and Sciences,160,160,0,11,1.0
+CSCI4760E,2025-02-24,Computer Networks,Franklin College of Arts and Sciences,120,120,0,21,1.0
+DANC2010E,2025-02-24,Dance Appreciation,Franklin College of Arts and Sciences,30,30,0,2,1.0
+EBUS5760E,2025-02-24,Consumer Financial Planning,Terry College of Business,4,4,0,0,1.0
+ECHD3020E,2025-02-24,Introduction to Counseling and Human Development Services,College of Education,28,30,2,0,0.9333333333333333
+ECHD3050E,2025-02-24,Career and Life Planning,College of Education,44,80,36,1,0.55
+ECHD3170E,2025-02-24,Drug and Alcohol Abuse Issues,College of Education,73,80,7,0,0.9125
+ECHD4020E,2025-02-24,Interpersonal Relationships,College of Education,23,30,7,0,0.7666666666666667
+ECOL1000E,2025-02-24,Ecological Basis of Environmental Issues,Odum School of Ecology,46,120,74,0,0.38333333333333336
+ECOL1100E,2025-02-24,Ecological Basis of Environmental Issues Laboratory,Odum School of Ecology,35,48,13,0,0.7291666666666666
+ECOL3530E,2025-02-24,Conservation Biology,Odum School of Ecology,21,35,14,0,0.6
+ECOL4540E,2025-02-24,Behavioral Ecology,Odum School of Ecology,11,35,24,0,0.3142857142857143
+ECON2105E,2025-02-24,Principles of Macroeconomics,Terry College of Business,184,200,16,0,0.92
+ECON2106E,2025-02-24,Principles of Microeconomics,Terry College of Business,119,200,81,0,0.595
+ECON2200E,2025-02-24,Economic Development of the United States,Terry College of Business,325,325,0,6,1.0
+ECON4020E,2025-02-24,Intermediate Macroeconomics,Terry College of Business,27,33,6,0,0.8181818181818182
+ECSE1100E,2025-02-24,Introduction to Electrical and Computer Systems Engineering,College of Engineering,38,45,7,0,0.8444444444444444
+EDES4280E,2025-02-24,Environmental Design Uses of Geographic Information Systems,College of Environment and Design,4,11,7,0,0.36363636363636365
+EDIT2000E,2025-02-24,Teaching and Learning with Technology,College of Education,28,40,12,1,0.7
+EDIT4170E,2025-02-24,Introduction to Instructional Design,College of Education,5,5,0,0,1.0
+EDIT5100E,2025-02-24,Assistive and Learning Technologies,College of Education,45,60,15,0,0.75
+EDSE2000E,2025-02-24,Survey of Special Education,College of Education,16,35,19,0,0.45714285714285713
+EDSE3050E,2025-02-24,Classroom and Behavior Management for Individuals with Disabilities,College of Education,4,5,1,0,0.8
+EDSE4020E,2025-02-24,Inclusion of Students with Special Needs: PreK-Grade 5,College of Education,3,5,2,0,0.6
+EDSE4030E,2025-02-24,Inclusion of Students with Special Needs: Grades 6-12,College of Education,18,32,14,0,0.5625
+EDSE5020E,2025-02-24,Assessment of Students with Dyslexia and Other Learning Disabilities,College of Education,6,10,4,0,0.6
+EDSE5120E,2025-02-24,Dyslexia and Other Learning Disabilities,College of Education,5,5,0,0,1.0
+EDSE5250E,2025-02-24,Teaching Writing to Students with Disabilities,College of Education,10,20,10,0,0.5
+EDSE5400E,2025-02-24,Collaboration Among Families and Professionals,College of Education,5,10,5,0,0.5
+EDSE5770E,2025-02-24,Practicum in Intensive Reading Intervention,College of Education,16,20,4,0,0.8
+EDUC2110E,2025-02-24,Investigating Critical and Contemporary Issues in Education,College of Education,18,30,12,0,0.6
+EDUC2120E,2025-02-24,Exploring Socio-Cultural Perspectives on Diversity,College of Education,16,60,44,0,0.26666666666666666
+EDUC2140E,2025-02-24,Foundations of Reading,College of Education,26,50,24,0,0.52
+EHSC3060E,2025-02-24,Introduction to Environmental Health Science,College of Public Health,49,50,1,0,0.98
+ELEE4230E,2025-02-24,Sensors and Transducers,College of Engineering,39,44,5,0,0.8863636363636364
+EMAT5001E,2025-02-24,Arithmetic and Problem Solving,College of Education,6,25,19,0,0.24
+EMST3012E,2025-02-24,The Peabody Archive and Genre Television,Grady College of Journalism and Mass Communication,24,25,1,0,0.96
+ENGL1101E,2025-02-24,English Composition I,Franklin College of Arts and Sciences,40,40,0,6,1.0
+ENGL1102E,2025-02-24,English Composition II,Franklin College of Arts and Sciences,336,340,4,10,0.9882352941176471
+ENGL2310E,2025-02-24,English Literature from the Beginnings to 1700,Franklin College of Arts and Sciences,25,25,0,4,1.0
+ENGL4837E,2025-02-24,Digital Storytelling,Franklin College of Arts and Sciences,25,25,0,3,1.0
+ENGR1120E,2025-02-24,Engineering Graphics and Design,College of Engineering,10,32,22,0,0.3125
+ENGR2090E,2025-02-24,Probability and Statistics for Engineers,College of Engineering,25,40,15,0,0.625
+ENGR2120E,2025-02-24,Engineering Statics,College of Engineering,41,75,34,0,0.5466666666666666
+ENGR2130E,2025-02-24,Dynamics,College of Engineering,50,50,0,6,1.0
+ENGR2140E,2025-02-24,Strength of Materials,College of Engineering,76,150,74,0,0.5066666666666667
+ENGR2170E,2025-02-24,Applied Circuit Analysis,College of Engineering,130,130,0,26,1.0
+ENGR3150E,2025-02-24,Heat Transfer,College of Engineering,50,50,0,11,1.0
+ENGR3160E,2025-02-24,Fluid Mechanics,College of Engineering,45,50,5,0,0.9
+ENGR4490E,2025-02-24,Renewable Energy Engineering,College of Engineering,14,40,26,0,0.35
+ENTO2010E,2025-02-24,Insects and the Environment,College of Agricultural and Environmental Sciences,31,50,19,0,0.62
+ENTO4770E,2025-02-24,Discover the Wonderful World of Plants and Pollinators and Your Place in It - Service Learning,College of Agricultural and Environmental Sciences,13,30,17,0,0.43333333333333335
+ENTR5500E,2025-02-24,Introduction to Entrepreneurship,Terry College of Business,20,20,0,3,1.0
+ENVM3060E,2025-02-24,Principles of Resource Economics,College of Agricultural and Environmental Sciences,24,50,26,0,0.48
+EPID4070E,2025-02-24,Fundamentals of Epidemiology,College of Education,0,50,50,0,0.0
+EPSY2130E,2025-02-24,Exploring Learning and Teaching,College of Education,29,75,46,0,0.38666666666666666
+EPSY4011E,2025-02-24,Foundations of Human Development for Education,College of Education,8,15,7,0,0.5333333333333333
+EPSY4061E,2025-02-24,Motivational Foundations for Education,College of Education,0,25,25,0,0.0
+EPSY4240E,2025-02-24,Abnormal Child Psychology,College of Education,21,50,29,0,0.42
+ESOC5020E,2025-02-24,Teaching History,College of Education,4,25,21,0,0.16
+ETAP5700E,2025-02-24,Sustainability Education: Promising Practices,College of Education,0,10,10,0,0.0
+FACS2000E,2025-02-24,Introduction to Family and Consumer Sciences,College of Family and Consumer Sciences,32,100,68,0,0.32
+FANR1100E,2025-02-24,Natural Resources Conservation,Warnell School of Forestry and Natural Resources,17,100,83,0,0.17
+FANR5620E,2025-02-24,GIS Applications in Natural Resources and Ecology,Warnell School of Forestry and Natural Resources,0,12,12,0,0.0
+FHCE2100E,2025-02-24,Introduction to Consumer Economics,College of Family and Consumer Sciences,67,100,33,0,0.67
+FHCE3100E,2025-02-24,Consumer Decision Making,College of Family and Consumer Sciences,87,100,13,0,0.87
+FHCE3150E,2025-02-24,Consumer Economics Theory,College of Family and Consumer Sciences,65,100,35,0,0.65
+FHCE3200E,2025-02-24,Introduction to Personal Finance,College of Family and Consumer Sciences,136,300,164,0,0.4533333333333333
+FHCE3300E,2025-02-24,Housing in Contemporary Society,College of Family and Consumer Sciences,87,100,13,0,0.87
+FHCE4270E,2025-02-24,Behavioral Economics and Financial Planning for Families,College of Family and Consumer Sciences,32,50,18,0,0.64
+FHCE4360E,2025-02-24,Rural Housing and Economic Development,College of Family and Consumer Sciences,19,40,21,0,0.475
+FHCE4900E,2025-02-24,"Seminar in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,22,85,63,0,0.25882352941176473
+FHCE5175E,2025-02-24,Poverty in America,College of Family and Consumer Sciences,65,100,35,0,0.65
+FHCE5250E,2025-02-24,Capstone in Financial Planning,College of Family and Consumer Sciences,19,25,6,0,0.76
+FINA3000E,2025-02-24,Financial Management,Terry College of Business,50,50,0,7,1.0
+FINA3001E,2025-02-24,Financial Management,Terry College of Business,60,60,0,27,1.0
+FINA4000E,2025-02-24,Financial Institutions and Markets,Terry College of Business,50,50,0,3,1.0
+FINA4050E,2025-02-24,Capitalism,Terry College of Business,30,30,0,18,1.0
+FINA4200E,2025-02-24,Corporate Finance Theory,Terry College of Business,17,25,8,0,0.68
+FINA4310E,2025-02-24,Survey of Investments,Terry College of Business,50,50,0,6,1.0
+FINA4920E,2025-02-24,Financial Modeling,Terry College of Business,37,50,13,0,0.74
+FORS5100E,2025-02-24,Forest Ecology,Warnell School of Forestry and Natural Resources,1,24,23,0,0.041666666666666664
+FREN2001E,2025-02-24,Intermediate French,Franklin College of Arts and Sciences,54,56,2,4,0.9642857142857143
+GENE3000E,2025-02-24,Evolutionary Biology,Franklin College of Arts and Sciences,45,50,5,0,0.9
+GENE3200E,2025-02-24,Genetics,Franklin College of Arts and Sciences,140,140,0,8,1.0
+GEOG1101E,2025-02-24,"Human Geography: People, Places, and Cultures",Franklin College of Arts and Sciences,215,215,0,9,1.0
+GEOG1112E,2025-02-24,Introduction to Weather and Climate,Franklin College of Arts and Sciences,25,25,0,0,1.0
+GEOG1113E,2025-02-24,Exploring Earth's Surface:  Landforms and Environments,Franklin College of Arts and Sciences,39,50,11,0,0.78
+GEOG1125E,2025-02-24,"Resources, Society, and the Environment",Franklin College of Arts and Sciences,19,60,41,0,0.31666666666666665
+GEOG4130E,2025-02-24,Tropical Meteorology and Climatology,Franklin College of Arts and Sciences,2,3,1,0,0.6666666666666666
+GEOG4370E,2025-02-24,Introduction to Geographic Information Science,Franklin College of Arts and Sciences,23,40,17,0,0.575
+GEOL1120E,2025-02-24,Environmental Geoscience,Franklin College of Arts and Sciences,14,125,111,0,0.112
+GEOL1121E,2025-02-24,Earth Processes and Environments,Franklin College of Arts and Sciences,20,175,155,0,0.11428571428571428
+GLOB3100E,2025-02-24,Introduction to Global Health,College of Public Health,25,25,0,7,1.0
+GLOB3200E,2025-02-24,"Global Health and the Links Among Food, Culture, and Disease",College of Public Health,19,25,6,0,0.76
+GRNT3000E,2025-02-24,Aspects of Aging,College of Public Health,25,25,0,1,1.0
+GRNT3400E,2025-02-24,Cognition and the Aging Brain,College of Public Health,25,25,0,0,1.0
+GRNT3700E,2025-02-24,Exploring Aging Through Film,College of Public Health,20,25,5,0,0.8
+HDFS2100E,2025-02-24,"Dating, Mating, Communicating: Relationships and Families",College of Family and Consumer Sciences,69,75,6,0,0.92
+HDFS2200E,2025-02-24,Introduction to Life Span Development,College of Family and Consumer Sciences,73,100,27,0,0.73
+HDFS2950E,2025-02-24,Introduction to Child Development,College of Family and Consumer Sciences,27,45,18,0,0.6
+HDFS3700E,2025-02-24,Adolescent Development - Service Learning,College of Family and Consumer Sciences,20,20,0,5,1.0
+HDFS3701E,2025-02-24,Adolescent Development,College of Family and Consumer Sciences,50,50,0,0,1.0
+HDFS3930E,2025-02-24,It’s Complicated: 21st-Century Intimate Relationships,College of Family and Consumer Sciences,35,65,30,0,0.5384615384615384
+HDFS4140E,2025-02-24,Medical Terminology for the Child Life Profession,College of Family and Consumer Sciences,6,10,4,0,0.6
+HDFS4830E,2025-02-24,"Grief, Loss, and Bereavement",College of Family and Consumer Sciences,16,35,19,0,0.45714285714285713
+HIST2111E,2025-02-24,American History to 1865,Franklin College of Arts and Sciences,180,180,0,60,1.0
+HIST2112E,2025-02-24,American History Since 1865,Franklin College of Arts and Sciences,660,660,0,62,1.0
+HORT2000E,2025-02-24,Horticulture Science Perspectives of Sustainable Plant Production,College of Agricultural and Environmental Sciences,52,100,48,0,0.52
+HORT3300E,2025-02-24,Organic Gardening,College of Agricultural and Environmental Sciences,36,75,39,0,0.48
+HORT4770E,2025-02-24,Discover the Wonderful World of Plants and Pollinators and Your Place in It - Service Learning,College of Agricultural and Environmental Sciences,7,40,33,0,0.175
+HPAM3500E,2025-02-24,Introduction to Healthcare Management,College of Public Health,10,25,15,0,0.4
+HPAM3600E,2025-02-24,Introduction to Health Policy,College of Public Health,50,50,0,11,1.0
+HPAM3650E,2025-02-24,Comparative Healthcare Systems,College of Public Health,13,25,12,0,0.52
+HPAM4300E,2025-02-24,Essentials of Health Care Administration,College of Public Health,3,25,22,0,0.12
+HPRB3750E,2025-02-24,Foundations of Injury Prevention,College of Public Health,15,30,15,0,0.5
+HPRB3850E,2025-02-24,Chronic Disease Prevention,College of Public Health,18,60,42,0,0.3
+HPRB5060E,2025-02-24,Educational Strategies in Human Sexuality,College of Public Health,12,25,13,0,0.48
+HPRB5210E,2025-02-24,The Effects of Drug Use and Abuse,College of Public Health,5,20,15,0,0.25
+HPRB5410E,2025-02-24,Professional Writing for Health Promotion,College of Public Health,2,30,28,0,0.06666666666666667
+INFO3000E,2025-02-24,Experiential Data Science Specialization – Intermediate Level,Franklin College of Arts and Sciences,16,20,4,0,0.8
+INTL1100E,2025-02-24,Introduction to Global Issues,School of Public and International Affairs,21,45,24,0,0.4666666666666667
+INTL3200E,2025-02-24,Introduction to International Relations,School of Public and International Affairs,39,90,51,0,0.43333333333333335
+INTL4004E,2025-02-24,Data Analytics for International Policy,School of Public and International Affairs,20,45,25,0,0.4444444444444444
+INTL4215E,2025-02-24,International Humanitarian Law,School of Public and International Affairs,45,45,0,2,1.0
+INTL4455E,2025-02-24,Violent Political Conflict,School of Public and International Affairs,26,45,19,0,0.5777777777777777
+INTL4666E,2025-02-24,The Politics of Cyber Security,School of Public and International Affairs,25,45,20,0,0.5555555555555556
+INTL4675E,2025-02-24,Music and Politics Around the World,School of Public and International Affairs,27,45,18,0,0.6
+ITAL2001E,2025-02-24,Intermediate Italian,Franklin College of Arts and Sciences,49,56,7,0,0.875
+ITAL2002E,2025-02-24,Intermediate Italian,Franklin College of Arts and Sciences,2,28,26,0,0.07142857142857142
+ITAL2500E,2025-02-24,Italian Culture,Franklin College of Arts and Sciences,33,56,23,0,0.5892857142857143
+JOUR3030E,2025-02-24,"Media, News, and Consumers",Grady College of Journalism and Mass Communication,8,50,42,0,0.16
+JOUR5320E,2025-02-24,Journalism Ethics and Diversity,Grady College of Journalism and Mass Communication,19,20,1,0,0.95
+JOUR5380E,2025-02-24,Data Gathering and Visualization,Grady College of Journalism and Mass Communication,6,20,14,0,0.3
+JRLC3600E,2025-02-24,Media Savvy Becoming Digitally Literate,Grady College of Journalism and Mass Communication,27,27,0,5,1.0
+JRLC3700E,2025-02-24,Photography and Storytelling: Communicating Visually,Grady College of Journalism and Mass Communication,7,25,18,0,0.28
+JRLC5040E,2025-02-24,Law of Mass Communication,Grady College of Journalism and Mass Communication,16,20,4,0,0.8
+KINS2010E,2025-02-24,Introduction to Kinesiology,College of Education,15,40,25,0,0.375
+KINS2500E,2025-02-24,Exercise is Medicine,College of Education,24,24,0,0,1.0
+KINS2501E,2025-02-24,Exercise is Medicine Lab Online,College of Education,24,24,0,2,1.0
+KINS3115E,2025-02-24,Structural Kinesiology,College of Education,24,24,0,14,1.0
+KINS3415E,2025-02-24,Philosophy and Ethics in Sport,College of Education,20,30,10,0,0.6666666666666666
+KINS3420E,2025-02-24,Managing the Legal Aspects of Sport,College of Education,30,30,0,0,1.0
+KINS3430E,2025-02-24,Introduction to Sport Management,College of Education,107,120,13,2,0.8916666666666667
+KINS3700E,2025-02-24,Applied Exercise Physiology,College of Education,22,50,28,0,0.44
+KINS3830E,2025-02-24,Study Design and Statistics in Kinesiology,College of Education,10,30,20,0,0.3333333333333333
+KINS4250E,2025-02-24,Introduction to Sports Analytics,College of Education,47,60,13,0,0.7833333333333333
+KINS4300E,2025-02-24,Exercise Epidemiology,College of Education,21,20,-1,0,1.05
+KINS4310E,2025-02-24,Exercise Prescription for Special Populations,College of Education,22,30,8,0,0.7333333333333333
+KINS4450E,2025-02-24,"Initiating Motivation for Change in Health, Exercise, and Sport",College of Education,31,35,4,0,0.8857142857142857
+KINS4520E,2025-02-24,Sport Finance,College of Education,22,25,3,0,0.88
+KINS4810E,2025-02-24,Sport Marketing,College of Education,43,55,12,0,0.7818181818181819
+KINS4820E,2025-02-24,Social Aspects of Sport,College of Education,37,60,23,0,0.6166666666666667
+KINS4830E,2025-02-24,Sport Policy and Governance,College of Education,23,70,47,0,0.32857142857142857
+KINS4840E,2025-02-24,Sport Event Management,College of Education,39,60,21,0,0.65
+KINS4850E,2025-02-24,"Sport Sales, Fundraising, and Revenue Generation",College of Education,9,25,16,0,0.36
+KINS5560E,2025-02-24,Economic and Policy Analysis in Sport,College of Education,27,25,-2,0,1.08
+KINS5930E,2025-02-24,Research Literature in Sport Coaching and Coaching Education,College of Education,8,18,10,0,0.4444444444444444
+LACS1000E,2025-02-24,Introduction to Latin America and the Caribbean,Latin and Caribbean Studies - Various,27,60,33,0,0.45
+LAND1500E,2025-02-24,Design and the Environment,College of Environment and Design,19,180,161,0,0.10555555555555556
+LAND2510E,2025-02-24,History of the Built Environment I: Landscape,College of Environment and Design,50,50,0,14,1.0
+LAND2520E,2025-02-24,History of the Built Environment II: Architecture,College of Environment and Design,12,30,18,0,0.4
+LAND4580E,2025-02-24,"Landscapes in Literature, the Arts, and Popular Culture",College of Environment and Design,7,30,23,0,0.23333333333333334
+LATN2050E,2025-02-24,Intensive Elementary Latin I,Franklin College of Arts and Sciences,6,50,44,0,0.12
+LATN2060E,2025-02-24,Intensive Elementary Latin II,Franklin College of Arts and Sciences,3,50,47,0,0.06
+LEGL2700E,2025-02-24,Legal and Regulatory Environment of Business,Terry College of Business,80,80,0,27,1.0
+LING2100E,2025-02-24,The Study of Language,Franklin College of Arts and Sciences,78,176,98,0,0.4431818181818182
+LLED4410E,2025-02-24,Adolescent Literature,College of Education,15,20,5,0,0.75
+LLED5040E,2025-02-24,Language and Culture in the Classroom,College of Education,15,30,15,0,0.5
+LLED5530E,2025-02-24,Introduction to Language Teaching,College of Education,3,12,9,0,0.25
+LLED5630E,2025-02-24,"ESOL, Grades P-12",College of Education,7,10,3,0,0.7
+LLED5730E,2025-02-24,First and Second Language Acquisition and Development,College of Education,17,30,13,0,0.5666666666666667
+MARK3000E,2025-02-24,Principles of Marketing,Terry College of Business,37,120,83,0,0.30833333333333335
+MARK3001E,2025-02-24,Principles of Marketing,Terry College of Business,65,65,0,8,1.0
+MARK4000E,2025-02-24,Marketing Research for Business Decisions,Terry College of Business,40,40,0,3,1.0
+MARK4100E,2025-02-24,Consumer Buyer Behavior,Terry College of Business,23,45,22,0,0.5111111111111111
+MARK4210E,2025-02-24,Professional Selling and Customer Relationship Management,Terry College of Business,11,25,14,0,0.44
+MARK4450E,2025-02-24,Social Media Marketing Strategy,Terry College of Business,23,25,2,0,0.92
+MARK4500E,2025-02-24,Services Marketing,Terry College of Business,16,30,14,0,0.5333333333333333
+MARK4600E,2025-02-24,Integrated Marketing and Brand Communication,Terry College of Business,20,35,15,0,0.5714285714285714
+MARK4650E,2025-02-24,Digital Marketing Analytics,Terry College of Business,10,30,20,0,0.3333333333333333
+MARK4700E,2025-02-24,International Marketing,Terry College of Business,13,30,17,0,0.43333333333333335
+MARK4780E,2025-02-24,Consumer Marketing and Brand Management,Terry College of Business,11,30,19,0,0.36666666666666664
+MARS1011E,2025-02-24,Introduction to the Marine Environment,Franklin College of Arts and Sciences,60,60,0,4,1.0
+MATH1113E,2025-02-24,Precalculus,Franklin College of Arts and Sciences,185,208,23,16,0.8894230769230769
+MATH2250E,2025-02-24,Calculus I for Science and Engineering,Franklin College of Arts and Sciences,196,216,20,7,0.9074074074074074
+MATH2260E,2025-02-24,Calculus II for Science and Engineering,Franklin College of Arts and Sciences,91,108,17,8,0.8425925925925926
+MCHE3300E,2025-02-24,Machine Design I,College of Engineering,41,50,9,0,0.82
+MGMT3000E,2025-02-24,Principles of Management,Terry College of Business,38,90,52,0,0.4222222222222222
+MGMT3001E,2025-02-24,Principles of Management,Terry College of Business,79,80,1,0,0.9875
+MGMT4000E,2025-02-24,Operations Management,Terry College of Business,49,60,11,0,0.8166666666666667
+MGMT5440E,2025-02-24,Business Ethics,Terry College of Business,41,50,9,0,0.82
+MGMT5970,2025-02-24,Organizational Change and Innovation Management,Terry College of Business,0,20,20,0,0.0
+MIBO2500E,2025-02-24,Microbiology and Health Care,Franklin College of Arts and Sciences,75,75,0,4,1.0
+MIBO3500E,2025-02-24,Introductory Microbiology,Franklin College of Arts and Sciences,185,185,0,8,1.0
+MIST2090E,2025-02-24,Introduction to Information Systems in Business,Terry College of Business,60,60,0,13,1.0
+MIST4600E,2025-02-24,Computer Programming in Business,Terry College of Business,33,33,0,27,1.0
+MIST4610E,2025-02-24,Data Management and Analytics,Terry College of Business,60,60,0,7,1.0
+MIST4620E,2025-02-24,Systems Analysis and Design,Terry College of Business,25,25,0,1,1.0
+MIST5750E,2025-02-24,Business Process Management,Terry College of Business,30,30,0,25,1.0
+MNML5237E,2025-02-24,Theory and Management of Nonprofit Organizations,School of Social Work,2,15,13,0,0.13333333333333333
+MNML5957E,2025-02-24,Grant Proposal Writing for Nonprofit Organizations,School of Social Work,1,15,14,0,0.06666666666666667
+MUSI2020E,2025-02-24,Introduction to Music,Franklin College of Arts and Sciences,12,60,48,0,0.2
+MUSI2040E,2025-02-24,History of Popular Music,Franklin College of Arts and Sciences,36,90,54,0,0.4
+MUSI2080E,2025-02-24,African American Music,Franklin College of Arts and Sciences,11,60,49,0,0.18333333333333332
+NMIX2010E,2025-02-24,Introduction to New Media,Grady College of Journalism and Mass Communication,25,100,75,0,0.25
+NMIX4010E,2025-02-24,Web Development,Grady College of Journalism and Mass Communication,0,40,40,0,0.0
+NMIX4011E,2025-02-24,New Media Design,Grady College of Journalism and Mass Communication,0,40,40,0,0.0
+NMIX4012E,2025-02-24,New Media Topics,Grady College of Journalism and Mass Communication,0,15,15,0,0.0
+NUTR2100E,2025-02-24,Fundamentals of Human Nutrition,College of Family and Consumer Sciences,62,150,88,0,0.41333333333333333
+NUTR4050E,2025-02-24,Optimal Nutrition for the Life Span,College of Family and Consumer Sciences,20,20,0,0,1.0
+PATH3020E,2025-02-24,Viruses: Biology and Impact,College of Agricultural and Environmental Sciences,34,40,6,0,0.85
+PBHL3100E,2025-02-24,Introduction to Public Health,College of Public Health,58,90,32,0,0.6444444444444445
+PEDB1950E,2025-02-24,Fitness for Life Walking,College of Education,34,60,26,0,0.5666666666666667
+PHIL2010E,2025-02-24,Introduction to Philosophy,Franklin College of Arts and Sciences,20,80,60,0,0.25
+PHIL2020E,2025-02-24,Logic and Critical Thinking,Franklin College of Arts and Sciences,29,40,11,0,0.725
+PHIL2030E,2025-02-24,Introduction to Ethics,Franklin College of Arts and Sciences,40,40,0,2,1.0
+PHIL2500E,2025-02-24,Symbolic Logic,Franklin College of Arts and Sciences,19,40,21,0,0.475
+PHIL3550E,2025-02-24,Introduction to Cognitive Science,Franklin College of Arts and Sciences,8,40,32,0,0.2
+PMCY2000E,2025-02-24,Emergency Preparedness: Will I Survive?,College of Pharmacy,1,50,49,0,0.02
+PMCY3000E,2025-02-24,Human Physiology,College of Pharmacy,53,100,47,0,0.53
+POLS1101E,2025-02-24,American Government,School of Public and International Affairs,824,1005,181,45,0.8199004975124378
+POLS3000E,2025-02-24,Introduction to Political Theory,School of Public and International Affairs,71,75,4,0,0.9466666666666667
+POLS3600E,2025-02-24,Criminal Justice Administration,School of Public and International Affairs,26,45,19,0,0.5777777777777777
+POLS4020E,2025-02-24,Political Philosophy: Hobbes to Nietzsche,School of Public and International Affairs,45,45,0,0,1.0
+POLS4071E,2025-02-24,Social Choice and Elections,School of Public and International Affairs,24,45,21,0,0.5333333333333333
+POLS4156E,2025-02-24,Online Political Research and Analysis,School of Public and International Affairs,21,45,24,0,0.4666666666666667
+POLS4400E,2025-02-24,Political Psychology,School of Public and International Affairs,42,45,3,0,0.9333333333333333
+POLS4420E,2025-02-24,Politics and Technology,School of Public and International Affairs,10,45,35,0,0.2222222222222222
+POLS4551E,2025-02-24,Political Propaganda and American Politics,School of Public and International Affairs,45,45,0,1,1.0
+POLS4620E,2025-02-24,The United States Congress: Process and Policy-Making,School of Public and International Affairs,22,45,23,0,0.4888888888888889
+POLS4645E,2025-02-24,Applied Civic Engagement,School of Public and International Affairs,36,60,24,0,0.6
+POLS4690E,2025-02-24,Religion and American Politics,School of Public and International Affairs,29,45,16,0,0.6444444444444445
+POLS4710E,2025-02-24,Constitutional Law: Rights and Liberties,School of Public and International Affairs,24,45,21,0,0.5333333333333333
+POLS4720E,2025-02-24,Criminal Procedure,School of Public and International Affairs,45,45,0,0,1.0
+POUL1010E,2025-02-24,Birds in Our Lives,College of Agricultural and Environmental Sciences,1,100,99,0,0.01
+PRTM1100E,2025-02-24,Introduction to Travel and Tourism,Warnell School of Forestry and Natural Resources,23,100,77,0,0.23
+PSYC1101E,2025-02-24,Elementary Psychology,Franklin College of Arts and Sciences,112,120,8,3,0.9333333333333333
+PSYC3230E,2025-02-24,Psychopathology,Franklin College of Arts and Sciences,115,120,5,5,0.9583333333333334
+PSYC3260E,2025-02-24,Human Sexuality,Franklin College of Arts and Sciences,47,50,3,0,0.94
+PSYC3550E,2025-02-24,Introduction to Cognitive Science,Franklin College of Arts and Sciences,15,40,25,0,0.375
+PSYC3810E,2025-02-24,Psychology of Health,Franklin College of Arts and Sciences,40,40,0,0,1.0
+PSYC3980E,2025-02-24,Research Design in Psychology,Franklin College of Arts and Sciences,30,30,0,6,1.0
+PSYC4100E,2025-02-24,Cognitive Psychology,Franklin College of Arts and Sciences,77,100,23,0,0.77
+PSYC4120E,2025-02-24,Sensation and Perception,Franklin College of Arts and Sciences,40,40,0,1,1.0
+PSYC4130E,2025-02-24,Physiological and Comparative Psychology,Franklin College of Arts and Sciences,60,60,0,1,1.0
+PSYC4140E,2025-02-24,Cognitive Neuroscience,Franklin College of Arts and Sciences,7,25,18,0,0.28
+PSYC4200E,2025-02-24,Social Psychology,Franklin College of Arts and Sciences,25,25,0,0,1.0
+PSYC4220E,2025-02-24,Developmental Psychology,Franklin College of Arts and Sciences,75,75,0,3,1.0
+PSYC4230E,2025-02-24,Psychology of the Workplace,Franklin College of Arts and Sciences,20,50,30,0,0.4
+REAL4000E,2025-02-24,Real Estate,Terry College of Business,50,50,0,5,1.0
+RELI1001E,2025-02-24,"Introduction to Judaism, Christianity, and Islam",Franklin College of Arts and Sciences,172,225,53,0,0.7644444444444445
+RELI1003E,2025-02-24,Introduction to Religious Thought,Franklin College of Arts and Sciences,45,45,0,2,1.0
+RELI1006E,2025-02-24,Religions of the World,Franklin College of Arts and Sciences,45,45,0,1,1.0
+RELI1007E,2025-02-24,Reading the Old Testament/Hebrew Bible,Franklin College of Arts and Sciences,12,45,33,0,0.26666666666666666
+RELI1009E,2025-02-24,Introduction to Indigenous Religions,Franklin College of Arts and Sciences,6,45,39,0,0.13333333333333333
+RMIN4000E,2025-02-24,Risk Management and Insurance,Terry College of Business,60,60,0,10,1.0
+SOCI1101E,2025-02-24,Introductory Sociology,Franklin College of Arts and Sciences,87,120,33,0,0.725
+SOCI3150E,2025-02-24,Criminal Punishment and Society,Franklin College of Arts and Sciences,41,45,4,0,0.9111111111111111
+SOCI3810E,2025-02-24,Criminology,Franklin College of Arts and Sciences,43,45,2,0,0.9555555555555556
+SOCI3840E,2025-02-24,Family Violence,Franklin College of Arts and Sciences,32,60,28,0,0.5333333333333333
+SOWK4392E,2025-02-24,"Social Work, Sports, and Athletes",School of Social Work,4,15,11,0,0.26666666666666666
+SOWK5390E,2025-02-24,Introduction to Military Social Work,School of Social Work,14,15,1,0,0.9333333333333333
+SPAN1001E,2025-02-24,Elementary Spanish I,Franklin College of Arts and Sciences,84,84,0,3,1.0
+SPAN1002E,2025-02-24,Elementary Spanish II,Franklin College of Arts and Sciences,84,84,0,9,1.0
+SPAN1110E,2025-02-24,Accelerated Elementary Spanish,Franklin College of Arts and Sciences,56,56,0,4,1.0
+SPAN2001E,2025-02-24,Intermediate Spanish I,Franklin College of Arts and Sciences,252,252,0,35,1.0
+SPAN2002E,2025-02-24,Intermediate Spanish II,Franklin College of Arts and Sciences,42,56,14,0,0.75
+SPAN3030E,2025-02-24,Texts in Global Contexts,Franklin College of Arts and Sciences,25,25,0,6,1.0
+SPAN3050E,2025-02-24,Introduction to Spanish Linguistics,Franklin College of Arts and Sciences,26,25,-1,0,1.04
+STAT2000E,2025-02-24,Introductory Statistics,Franklin College of Arts and Sciences,280,300,20,0,0.9333333333333333
+STAT3110E,2025-02-24,Introduction to Statistics for Life Sciences,Franklin College of Arts and Sciences,30,35,5,0,0.8571428571428571
+STAT4365E,2025-02-24,Modern Statistical Programming,Franklin College of Arts and Sciences,29,30,1,0,0.9666666666666667
+SWAH3001E,2025-02-24,Culture and Identity Linkages of the Swahili with the Outside World I,Franklin College of Arts and Sciences,12,70,58,0,0.17142857142857143
+THEA3020E,2025-02-24,Basic Dramatic Writing,Franklin College of Arts and Sciences,16,24,8,0,0.6666666666666666
+TXMI2100E,2025-02-24,Textiles for Consumers,College of Family and Consumer Sciences,9,40,31,0,0.225
+TXMI3210E,2025-02-24,Fundamentals of Fashion Merchandising,College of Family and Consumer Sciences,8,30,22,0,0.26666666666666666
+TXMI3530E,2025-02-24,Apparel Quality Analysis,College of Family and Consumer Sciences,26,40,14,0,0.65
+TXMI4290E,2025-02-24,History of Dress and Fashion:  Nineteenth Century to the Present,College of Family and Consumer Sciences,30,50,20,0,0.6
+TXMI5220E,2025-02-24,Fashion Product and Brand Management,College of Family and Consumer Sciences,15,45,30,0,0.3333333333333333
+TXMI5240E,2025-02-24,Retailing Apparel and Textiles,College of Family and Consumer Sciences,7,25,18,0,0.28
+TXMI5260E,2025-02-24,Case Studies in the Retail Industry,College of Family and Consumer Sciences,14,20,6,0,0.7
+UNIV1201E,2025-02-24,Learning for Success at the University,various,6,25,19,0,0.24
+UNIV1205E,2025-02-24,"Learning Online: Strategies, Skills, and Success",various,8,25,17,0,0.32
+UNIV2301E,2025-02-24,Transformative Learning Strategies,various,0,20,20,0,0.0
+UNIV2302E,2025-02-24,Success for Transfer Students,various,0,25,25,0,0.0
+VPHY3100E,2025-02-24,Elements of Physiology,College of Veterinary Medicine,261,300,39,0,0.87
+VPHY4200E,2025-02-24,Physiologic Basis of Diseases,College of Veterinary Medicine,85,85,0,10,1.0
+WFED4350E,2025-02-24,Curriculum Planning in Workforce Education,College of Education,3,5,2,0,0.6
+WFED4360E,2025-02-24,Instructional Strategies in Workforce Education,College of Education,4,5,1,0,0.8
+WILD1100E,2025-02-24,Wildlife in America,Warnell School of Forestry and Natural Resources,22,100,78,0,0.22
+WMST1110E,2025-02-24,Multicultural Perspectives on Women in the United States,Franklin College of Arts and Sciences,43,43,0,2,1.0
