@@ -1,293 +1,297 @@
 course,updated_date,course_long_title,college,actual_enrollment,maximum_enrollment,remaining_seats,waitlist,percent_full
-AAEC3910,2025-05-05,Internships,College of Agricultural and Environmental Sciences,22,25,3,0,0.88
-AAEC4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-ACCT2101,2025-05-05,Principles of Accounting I,Terry College of Business,37,45,8,0,0.8222222222222222
-ADPR5010,2025-05-05,Advertising Internship,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
-ADPR5011,2025-05-05,Public Relations Internship,Grady College of Journalism and Mass Communication,1,20,19,0,0.05
-ADPR5990,2025-05-05,Seminar in Advertising and Public Relations,Grady College of Journalism and Mass Communication,47,54,7,0,0.8703703703703703
-ADSC3700,2025-05-05,Special Problems in Animal and Dairy Science,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
-ADSC3910,2025-05-05,Internship in ADS I,College of Agricultural and Environmental Sciences,9,10,1,0,0.9
-ADSC3920,2025-05-05,Animal Science Internship II,College of Agricultural and Environmental Sciences,6,10,4,0,0.6
-ADSC4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,3,30,27,0,0.1
-ADSC4970,2025-05-05,Undergraduate Research in Animal and Dairy Science II,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
-AFAM4170,2025-05-05,Introduction to Black Psychology,Franklin College of Arts and Sciences,1,5,4,0,0.2
-AFAM4880,2025-05-05,Topics in African American Literature,Franklin College of Arts and Sciences,0,10,10,0,0.0
-ALDR3900S,2025-05-05,Leadership and Service,College of Agricultural and Environmental Sciences,17,25,8,0,0.68
-ANTH4261,2025-05-05,Museum of Natural History Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
-ARGD3010,2025-05-05,Foundations of Graphic Design,Franklin College of Arts and Sciences,18,18,0,0,1.0
-ARGD3080,2025-05-05,Internship in Graphic Design,Franklin College of Arts and Sciences,1,16,15,0,0.0625
-ARGD4060,2025-05-05,Design Center,Franklin College of Arts and Sciences,10,18,8,0,0.5555555555555556
-ARID4010,2025-05-05,Interior Design Internship,Franklin College of Arts and Sciences,14,20,6,0,0.7
-ARID4350,2025-05-05,Interior Design Practicum,Franklin College of Arts and Sciences,7,9,2,0,0.7777777777777778
-ARST2100,2025-05-05,Introduction to Painting and Visuality,Franklin College of Arts and Sciences,9,20,11,0,0.45
-ARST2500,2025-05-05,Introduction to Ceramics,Franklin College of Arts and Sciences,8,16,8,0,0.5
-ARST3140,2025-05-05,Painting Studio Concepts,Franklin College of Arts and Sciences,7,20,13,0,0.35
-ARST3500,2025-05-05,Intermediate Ceramics,Franklin College of Arts and Sciences,7,16,9,0,0.4375
-ARST4315,2025-05-05,Introduction to Book Arts,Franklin College of Arts and Sciences,11,18,7,0,0.6111111111111112
-ARST4330,2025-05-05,Printmaking: Special Topics I,Franklin College of Arts and Sciences,0,20,20,0,0.0
-ARST4370,2025-05-05,Advanced Book Studio,Franklin College of Arts and Sciences,3,18,15,0,0.16666666666666666
-ARST4915,2025-05-05,Thematic Inquiry in Contemporary Art,Franklin College of Arts and Sciences,19,20,1,0,0.95
-ARST4930,2025-05-05,Internship in Art,Franklin College of Arts and Sciences,3,11,8,0,0.2727272727272727
-ATSC3990,2025-05-05,Internship in Atmospheric Sciences,Franklin College of Arts and Sciences,1,1,0,0,1.0
-ATSC4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,1,0,0,1.0
-BCMB3100,2025-05-05,Introductory Biochemistry and Molecular Biology,Franklin College of Arts and Sciences,41,150,109,0,0.2733333333333333
-BCMB4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,6,33,27,0,0.18181818181818182
-BCMB4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,Franklin College of Arts and Sciences,5,18,13,0,0.2777777777777778
-BIOE4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Engineering,0,5,5,0,0.0
-BIOL1107,2025-05-05,Principles of Biology I,Franklin College of Arts and Sciences,25,50,25,0,0.5
-BIOL1107L,2025-05-05,Principles of Biology I Laboratory,Franklin College of Arts and Sciences,27,30,3,0,0.9
-BIOL1108,2025-05-05,Principles of Biology II,Franklin College of Arts and Sciences,35,50,15,0,0.7
-BIOL1108L,2025-05-05,Principles of Biology II Laboratory,Franklin College of Arts and Sciences,33,48,15,0,0.6875
-BIOL3110L,2025-05-05,Basic Skills in the Laboratory,Franklin College of Arts and Sciences,26,28,2,0,0.9285714285714286
-BIOL4261,2025-05-05,Museum of Natural History Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
-BIOL4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,7,8,1,0,0.875
-BIOL4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,Franklin College of Arts and Sciences,2,2,0,0,1.0
-BIOS2010,2025-05-05,Elementary Biostatistics,College of Public Health,14,45,31,0,0.3111111111111111
-BTEC3910,2025-05-05,Internship in Applied Biotechnology,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
-BTEC4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,1,0,0,1.0
-CBIO2200,2025-05-05,Anatomy and Physiology I,Franklin College of Arts and Sciences,38,40,2,0,0.95
-CBIO2200L,2025-05-05,Anatomy and Physiology I,Franklin College of Arts and Sciences,38,40,2,0,0.95
-CBIO2210,2025-05-05,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,0,1.0
-CBIO2210L,2025-05-05,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,2,1.0
-CBIO3200L,2025-05-05,Medical Anatomy,Franklin College of Arts and Sciences,19,20,1,0,0.95
-CBIO3400,2025-05-05,Cell Biology,Franklin College of Arts and Sciences,22,40,18,0,0.55
-CBIO4980R,2025-05-05,Faculty-Mentored Undergraduate Research III,Franklin College of Arts and Sciences,4,4,0,0,1.0
-CHEM1211,2025-05-05,General Chemistry I,Franklin College of Arts and Sciences,99,100,1,0,0.99
-CHEM1211D,2025-05-05,General Chemistry I,Franklin College of Arts and Sciences,98,180,82,0,0.5444444444444444
-CHEM1211L,2025-05-05,General Chemistry Laboratory I,Franklin College of Arts and Sciences,71,72,1,6,0.9861111111111112
-CHEM1212,2025-05-05,General Chemistry II,Franklin College of Arts and Sciences,90,150,60,0,0.6
-CHEM1212D,2025-05-05,General Chemistry II,Franklin College of Arts and Sciences,90,100,10,0,0.9
-CHEM1212L,2025-05-05,General Chemistry Laboratory II,Franklin College of Arts and Sciences,67,72,5,0,0.9305555555555556
-CHEM2211,2025-05-05,Modern Organic Chemistry I,Franklin College of Arts and Sciences,98,300,202,0,0.32666666666666666
-CHEM2211L,2025-05-05,Modern Organic Chemistry Laboratory I,Franklin College of Arts and Sciences,78,96,18,0,0.8125
-CHEM2212,2025-05-05,Modern Organic Chemistry II,Franklin College of Arts and Sciences,78,150,72,0,0.52
-CHEM2212L,2025-05-05,Modern Organic Chemistry Laboratory II,Franklin College of Arts and Sciences,66,72,6,0,0.9166666666666666
-CHEM4300,2025-05-05,Special Topics in Analytical Chemistry,Franklin College of Arts and Sciences,9,12,3,0,0.75
-CHEM4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,0,12,12,0,0.0
-CHEM4980R,2025-05-05,Faculty-Mentored Undergraduate Research III,Franklin College of Arts and Sciences,0,6,6,0,0.0
-CLAS4220,2025-05-05,Classical Epic Poetry,Franklin College of Arts and Sciences,3,30,27,0,0.1
-CMLT2400,2025-05-05,Asian-American Literature,Franklin College of Arts and Sciences,20,30,10,0,0.6666666666666666
-COFA3900,2025-05-05,Community Forestry and Arboriculture Internship,Unknown,2,100,98,0,0.02
-COMM1110,2025-05-05,Introduction to Public Speaking,Franklin College of Arts and Sciences,37,54,17,0,0.6851851851851852
-COMM3310,2025-05-05,Case Studies in Public Communication,Franklin College of Arts and Sciences,30,30,0,3,1.0
-COMM4910,2025-05-05,Internship in Communication,Franklin College of Arts and Sciences,17,17,0,0,1.0
-CRSS3910,2025-05-05,Crop Science Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
-CRSS3920,2025-05-05,Environmental Soil Science Internship,College of Agricultural and Environmental Sciences,1,20,19,0,0.05
-CRSS3930,2025-05-05,Turfgrass Management Internship,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
-CSCI1302,2025-05-05,Software Development,Franklin College of Arts and Sciences,56,70,14,0,0.8
-CSCI2720,2025-05-05,Data Structures,Franklin College of Arts and Sciences,16,48,32,0,0.3333333333333333
-CSCI4370,2025-05-05,Database Management,Franklin College of Arts and Sciences,26,27,1,0,0.9629629629629629
-CSCI4470,2025-05-05,Algorithms,Franklin College of Arts and Sciences,34,35,1,5,0.9714285714285714
-CSCI4950,2025-05-05,Directed Study in Computer Science,Franklin College of Arts and Sciences,0,330,330,0,0.0
-CSCI4960,2025-05-05,Faculty Mentored Research in Computer Science,Franklin College of Arts and Sciences,1,300,299,0,0.0033333333333333335
-CSCI4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,0,10,10,0,0.0
-CSCI5007,2025-05-05,Internship in Computer Science Business/Industry,Franklin College of Arts and Sciences,45,105,60,0,0.42857142857142855
-DANC4000,2025-05-05,Independent Study in Dance,Franklin College of Arts and Sciences,1,20,19,0,0.05
-DMAN4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Public Health,1,4,3,0,0.25
-ECHD4170,2025-05-05,Introduction to Black Psychology,College of Education,0,5,5,0,0.0
-ECHD4660,2025-05-05,U.S. Latino/a Mental Health:  An Introduction,College of Education,3,15,12,0,0.2
-ECOL4261,2025-05-05,Museum of Natural History Internship,Odum School of Ecology,0,5,5,0,0.0
-ECON2105,2025-05-05,Principles of Macroeconomics,Terry College of Business,8,30,22,0,0.26666666666666666
-ECON2106,2025-05-05,Principles of Microeconomics,Terry College of Business,4,30,26,0,0.13333333333333333
-ECON4010,2025-05-05,Intermediate Microeconomics,Terry College of Business,21,30,9,0,0.7
-ECON4800,2025-05-05,Internship and/or Cooperative Education,Terry College of Business,2,2,0,0,1.0
-ECSE2170,2025-05-05,Fundamentals of Circuit Analysis,College of Engineering,11,46,35,0,0.2391304347826087
-ECSE2170L,2025-05-05,Fundamentals of Circuit Analysis,College of Engineering,11,46,35,0,0.2391304347826087
-EDIT4000,2025-05-05,Special Problems in Instructional Technology,College of Education,0,10,10,0,0.0
-EDSE4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Education,1,5,4,0,0.2
-EDUC4460S,2025-05-05,Educational Experiences in Classroom and Community (Honors),College of Education,1,15,14,0,0.06666666666666667
-EETH4010,2025-05-05,Undergraduate Research,College of Environment and Design,0,10,10,0,0.0
-EHSC3700,2025-05-05,Undergraduate Research in Environmental Health Science,College of Public Health,0,225,225,0,0.0
-EHSC3910,2025-05-05,Internship in Environmental Health Science,College of Public Health,8,150,142,0,0.05333333333333334
-EHSC3950,2025-05-05,Health and Safety Training for Hazardous Waste Workers,College of Public Health,11,15,4,0,0.7333333333333333
-EHSC4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Public Health,0,80,80,0,0.0
-EMST4230,2025-05-05,Directing for the Screen,Grady College of Journalism and Mass Communication,4,20,16,0,0.2
-EMST5010,2025-05-05,Media Entertainment Industry Internship,Grady College of Journalism and Mass Communication,0,10,10,0,0.0
-ENGL1101,2025-05-05,English Composition I,Franklin College of Arts and Sciences,6,15,9,0,0.4
-ENGL1102,2025-05-05,English Composition II,Franklin College of Arts and Sciences,15,17,2,0,0.8823529411764706
-ENGL4695,2025-05-05,Topics in Postcolonial Literature,Franklin College of Arts and Sciences,4,10,6,0,0.4
-ENGL4880,2025-05-05,Topics in African American Literature,Franklin College of Arts and Sciences,3,25,22,0,0.12
-ENGL4896,2025-05-05,Comics and Graphic Narratives,Franklin College of Arts and Sciences,9,10,1,0,0.9
-ENGL4899,2025-05-05,Topics in Science Fiction,Franklin College of Arts and Sciences,9,10,1,0,0.9
-ENGR3920,2025-05-05,Cooperative Work Experience II,College of Engineering,10,25,15,0,0.4
-ENGR3930,2025-05-05,Internship in Engineering,College of Engineering,3,12,9,0,0.25
-ENVM3910,2025-05-05,Internships,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-EPSY4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Education,0,20,20,0,0.0
-EPSY4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,College of Education,0,20,20,0,0.0
-ESCI4440,2025-05-05,Science Teaching Methods in the Middle Grades,College of Education,0,25,25,0,0.0
-FANR4950,2025-05-05,Directed Studies in Natural Resources,Warnell School of Forestry and Natural Resources,0,20,20,0,0.0
-FANR4960R,2025-05-05,Faculty-Mentored Undergraduate Research in Natural Resources I,Warnell School of Forestry and Natural Resources,1,10,9,0,0.1
-FANR5950,2025-05-05,Special Topics in Forestry and Natural Resources,Warnell School of Forestry and Natural Resources,0,20,20,0,0.0
-FCID5015,2025-05-05,Museum Internship,Franklin College of Arts and Sciences,4,10,6,0,0.4
-FDST3910,2025-05-05,Food Science Internship,College of Agricultural and Environmental Sciences,4,5,1,0,0.8
-FDST4800,2025-05-05,Special Problems in Food Science,College of Agricultural and Environmental Sciences,0,1,1,0,0.0
-FDST4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,1,0,0,1.0
-FHCE4900,2025-05-05,"Seminar in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,1,5,4,0,0.2
-FHCE5910,2025-05-05,"Financial Planning,  Housing and Consumer Economics Internship",College of Family and Consumer Sciences,3,10,7,0,0.3
-FHCE5950,2025-05-05,"Research Internship in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,0,5,5,0,0.0
-FHCE5960,2025-05-05,"Quantitative Internship in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,0,5,5,0,0.0
-FINA3000,2025-05-05,Financial Management,Terry College of Business,11,15,4,0,0.7333333333333333
-FINA3001,2025-05-05,Financial Management,Terry College of Business,15,15,0,0,1.0
-FINA4210,2025-05-05,Applied Corporate Finance,Terry College of Business,21,30,9,0,0.7
-FISH3900,2025-05-05,Fisheries Internship,Warnell School of Forestry and Natural Resources,4,300,296,0,0.013333333333333334
-FORS3900,2025-05-05,Forestry Internship,Warnell School of Forestry and Natural Resources,1,100,99,0,0.01
-GENE4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,2,2,0,0,1.0
-GEOG1101,2025-05-05,"Human Geography: People, Places, and Cultures",Franklin College of Arts and Sciences,13,30,17,0,0.43333333333333335
-GEOG4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,4,3,0,0.25
-GEOL4261,2025-05-05,Museum of Natural History Internship,Franklin College of Arts and Sciences,1,1,0,0,1.0
-GEOL4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,1,0,0,1.0
-GISC3900,2025-05-05,Geospatial Information Science Internship,Unknown,0,300,300,0,0.0
-GRMN2990,2025-05-05,German-English Conversation Partnership,Franklin College of Arts and Sciences,0,20,20,0,0.0
-GRMN3500,2025-05-05,German for Reading Knowledge,Franklin College of Arts and Sciences,10,15,5,0,0.6666666666666666
-HDFS5910,2025-05-05,Applied Community Internship in Human Development and Family Science,College of Family and Consumer Sciences,12,20,8,0,0.6
-HFIM3910,2025-05-05,Hospitality Management Internship,College of Agricultural and Environmental Sciences,7,25,18,0,0.28
-HFIM3912,2025-05-05,Food and Beverage Management Internship,College of Agricultural and Environmental Sciences,9,25,16,0,0.36
-HFIM3913,2025-05-05,Facilities Management Internship,College of Agricultural and Environmental Sciences,5,25,20,0,0.2
-HFIM3914,2025-05-05,Hotel and Lodging Management Internship,College of Agricultural and Environmental Sciences,3,25,22,0,0.12
-HIST2111,2025-05-05,American History to 1865,Franklin College of Arts and Sciences,29,30,1,0,0.9666666666666667
-HIST2112,2025-05-05,American History Since 1865,Franklin College of Arts and Sciences,31,60,29,0,0.5166666666666667
-HIST3340,2025-05-05,The Age of Renaissance and Reformation,Franklin College of Arts and Sciences,19,30,11,0,0.6333333333333333
-HONS4800H,2025-05-05,Honors Capstone Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
-HONS4801H,2025-05-05,Honors Internship (Non-Capstone),Franklin College of Arts and Sciences,1,1,0,0,1.0
-HORT3910,2025-05-05,Horticulture Internship,College of Agricultural and Environmental Sciences,8,15,7,0,0.5333333333333333
-HORT3920,2025-05-05,UGArden Internship,College of Agricultural and Environmental Sciences,6,10,4,0,0.6
-HORT3930,2025-05-05,Trial Garden Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-HORT3940S,2025-05-05,Botanical Garden Internship,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
-HORT4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,2,1,0,0.5
-HPAM4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Public Health,1,3,2,0,0.3333333333333333
-HPRB3020S,2025-05-05,Foundations of Health Promotion Professional Practice and Service,College of Public Health,0,50,50,0,0.0
-HPRB4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Public Health,0,5,5,0,0.0
-HPRB4980R,2025-05-05,Faculty-Mentored Undergraduate Research III,College of Public Health,0,5,5,0,0.0
-IDIS4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,College of Veterinary Medicine,1,1,0,0,1.0
-IDIS5400,2025-05-05,Studies in Advanced Clinical Parasitology,College of Veterinary Medicine,3,15,12,0,0.2
-INTL4720,2025-05-05,International Affairs Internship,School of Public and International Affairs,1,10,9,0,0.1
-INTL4721,2025-05-05,International Affairs Internship Research,School of Public and International Affairs,2,10,8,0,0.2
-INTL4722,2025-05-05,International Affairs Internship Analytical Essays,School of Public and International Affairs,3,10,7,0,0.3
-JOUR5010,2025-05-05,Media Internship,Grady College of Journalism and Mass Communication,1,10,9,0,0.1
-JURI5173S,2025-05-05,Summer Criminal Defense Practicum I Hours,School of Law,4,12,8,0,0.3333333333333333
-JURI5190,2025-05-05,Supervised Research,School of Law,2,3,1,0,0.6666666666666666
-JURI5510,2025-05-05,Independent Project,School of Law,2,4,2,0,0.5
-JURI5761S,2025-05-05,Child Endangerment and Sexual Exploitation,School of Law,0,8,8,0,0.0
-JURI5762S,2025-05-05,Child Endangerment and Sexual Exploitation Clinic Hours,School of Law,0,8,8,0,0.0
-JURI5764S,2025-05-05,Corporate Counsel Externship  Summer,School of Law,1,10,9,0,0.1
-JURI5966S,2025-05-05,Summer Externship - Service Learning,School of Law,6,25,19,0,0.24
-JURI5977S,2025-05-05,Veterans Legal Clinic,School of Law,2,10,8,0,0.2
-JURI5978S,2025-05-05,Veterans Legal Clinic Hours,School of Law,2,10,8,0,0.2
-KINS3450S,2025-05-05,Practicum in Fitness and Conditioning,College of Education,9,9,0,0,1.0
-KINS3480,2025-05-05,Practicum in Kinesiology Research,College of Education,1,90,89,0,0.011111111111111112
-KINS4750S,2025-05-05,Service Learning in Kinesiology,College of Education,6,18,12,0,0.3333333333333333
-LAMS5400,2025-05-05,Large Animal Advanced Clinical Anesthesia,College of Veterinary Medicine,10,15,5,0,0.6666666666666666
-LAMS5415,2025-05-05,Large Animal Internal Medicine,College of Veterinary Medicine,36,50,14,0,0.72
-LAMS5420,2025-05-05,Large Animal Surgery,College of Veterinary Medicine,24,40,16,0,0.6
-LAMS5425S,2025-05-05,Large Animal Farm Practice,College of Veterinary Medicine,14,30,16,0,0.4666666666666667
-LAMS5435,2025-05-05,General Theriogenology,College of Veterinary Medicine,18,24,6,0,0.75
-LAMS5465,2025-05-05,Large Animal Emergency and Critical Care,College of Veterinary Medicine,15,24,9,0,0.625
-LAMS5900,2025-05-05,Studies in Clinical Large Animal Medicine,College of Veterinary Medicine,3,3,0,0,1.0
-LAND1500,2025-05-05,Design and the Environment,College of Environment and Design,0,30,30,0,0.0
-LAND2020,2025-05-05,Landscape Architecture Design Studio II,College of Environment and Design,23,24,1,0,0.9583333333333334
-LAND2220,2025-05-05,Design Communication II,College of Environment and Design,20,40,20,0,0.5
-LATN4050,2025-05-05,Roman Epistles,Franklin College of Arts and Sciences,2,15,13,0,0.13333333333333333
-LING4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,2,1,0,0.5
-MATH1113,2025-05-05,Precalculus,Franklin College of Arts and Sciences,33,64,31,0,0.515625
-MATH2250,2025-05-05,Calculus I for Science and Engineering,Franklin College of Arts and Sciences,34,36,2,0,0.9444444444444444
-MATH2260,2025-05-05,Calculus II for Science and Engineering,Franklin College of Arts and Sciences,32,36,4,0,0.8888888888888888
-MATH2500,2025-05-05,Accelerated Calculus III for Engineering Students,Franklin College of Arts and Sciences,34,36,2,4,0.9444444444444444
-MATH2700,2025-05-05,Elementary Differential Equations,Franklin College of Arts and Sciences,36,36,0,1,1.0
-MATH3300,2025-05-05,Applied Linear Algebra,Franklin College of Arts and Sciences,29,32,3,0,0.90625
-MATH4801,2025-05-05,Mathematics Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
-MCHE4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Engineering,1,5,4,0,0.2
-MIBO2500L,2025-05-05,Microbiology and Health Care Laboratory,Franklin College of Arts and Sciences,32,40,8,0,0.8
-MIBO3500L,2025-05-05,Introductory Microbiology Laboratory I,Franklin College of Arts and Sciences,40,40,0,2,1.0
-MIBO4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,5,5,0,0,1.0
-MIBO4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,Franklin College of Arts and Sciences,1,1,0,0,1.0
-MIST4801,2025-05-05,Internship in Data Analytics,Terry College of Business,16,30,14,0,0.5333333333333333
-MIST4802,2025-05-05,Internship in Information Security,Terry College of Business,10,30,20,0,0.3333333333333333
-MUSI4022,2025-05-05,Summer Music Therapy Practicum,Franklin College of Arts and Sciences,2,10,8,0,0.2
-MUSI4023,2025-05-05,Music Therapy Internship,Franklin College of Arts and Sciences,3,10,7,0,0.3
-NUTR3010,2025-05-05,Special Problems in Nutritional Sciences,College of Family and Consumer Sciences,1,2,1,0,0.5
-NUTR5800,2025-05-05,Peer Nutrition Education,College of Family and Consumer Sciences,8,10,2,0,0.8
-NUTR5910,2025-05-05,Dietetics Practicum,College of Family and Consumer Sciences,2,12,10,0,0.16666666666666666
-PATH3910,2025-05-05,Plant Pathology Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
-PATH4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,4,4,0,0.0
-PBGG4960,2025-05-05,"Research Experience in Plant Breeding, Genetics, and Genomics",College of Agricultural and Environmental Sciences,0,3,3,0,0.0
-PBGG4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,4,8,4,0,0.5
-PBIO4261,2025-05-05,Museum of Natural History Internship,Franklin College of Arts and Sciences,3,5,2,0,0.6
-PBIO4940,2025-05-05,Internship in Plant Biology,Franklin College of Arts and Sciences,1,1,0,0,1.0
-PBIO4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,2,2,0,0,1.0
-PEDB1010,2025-05-05,Adapted Physical Education,College of Education,5,50,45,0,0.1
-PEDB1120,2025-05-05,Beginning Golf,College of Education,77,77,0,5,1.0
-PEDB1350,2025-05-05,Beginning Tennis,College of Education,35,72,37,0,0.4861111111111111
-PEDB1380,2025-05-05,Beginning Volleyball,College of Education,24,35,11,0,0.6857142857142857
-PEDB1400,2025-05-05,Introduction to Weight Training,College of Education,103,245,142,0,0.4204081632653061
-PEDB1920,2025-05-05,Fitness for Life Body Conditioning,College of Education,2,34,32,0,0.058823529411764705
-PEDB1950,2025-05-05,Fitness for Life Walking,College of Education,95,140,45,0,0.6785714285714286
-PEDB1990,2025-05-05,Directed Study,College of Education,0,30,30,0,0.0
-PHRM5210,2025-05-05,Special Topics in Pharmacy,College of Pharmacy,1,2,1,0,0.5
-PHYS1111,2025-05-05,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,60,60,0,0,1.0
-PHYS1111L,2025-05-05,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,60,60,0,0,1.0
-PHYS1112,2025-05-05,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,59,60,1,0,0.9833333333333333
-PHYS1112L,2025-05-05,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,59,60,1,0,0.9833333333333333
-PHYS1211,2025-05-05,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,40,40,0,0,1.0
-PHYS1211L,2025-05-05,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,40,40,0,0,1.0
-PHYS1212,2025-05-05,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,37,40,3,0,0.925
-PHYS1212L,2025-05-05,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,37,40,3,0,0.925
-PMCY4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Pharmacy,3,3,0,0,1.0
-PMCY4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,College of Pharmacy,0,2,2,0,0.0
-POLS1101,2025-05-05,American Government,School of Public and International Affairs,29,45,16,0,0.6444444444444445
-POLS4960,2025-05-05,Directed Readings and/or Projects,School of Public and International Affairs,1,1,0,0,1.0
-POLS5500,2025-05-05,Criminal Justice Internship,School of Public and International Affairs,3,20,17,0,0.15
-POLS5510,2025-05-05,Criminal Justice Internship,School of Public and International Affairs,3,20,17,0,0.15
-POLS5520,2025-05-05,Criminal Justice Internship,School of Public and International Affairs,3,20,17,0,0.15
-POPH5400,2025-05-05,Avian Medicine Clinical Rotation,College of Veterinary Medicine,2,10,8,0,0.2
-POPH5445,2025-05-05,Food Animal Practice,College of Veterinary Medicine,6,10,4,0,0.6
-POPH5900,2025-05-05,Studies in Population Health,College of Veterinary Medicine,1,1,0,0,1.0
-POUL3910,2025-05-05,Internship in Poultry Science,College of Agricultural and Environmental Sciences,14,25,11,0,0.56
-POUL4980R,2025-05-05,Faculty-Mentored Undergraduate Research III,College of Agricultural and Environmental Sciences,1,10,9,0,0.1
-PRTM3900,2025-05-05,"Parks, Recreation, and Tourism Management Internship",Warnell School of Forestry and Natural Resources,1,300,299,0,0.0033333333333333335
-PSYC3980,2025-05-05,Research Design in Psychology,Franklin College of Arts and Sciences,21,25,4,0,0.84
-PSYC4170,2025-05-05,Introduction to Black Psychology,Franklin College of Arts and Sciences,2,5,3,0,0.4
-PSYC4800,2025-05-05,Special Problems,Franklin College of Arts and Sciences,4,20,16,0,0.2
-RBIO4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,15,14,0,0.06666666666666667
-RBIO4970R,2025-05-05,Faculty-Mentored Undergraduate Research II,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
-REAL4800,2025-05-05,Internship in Real Estate,Terry College of Business,1,5,4,0,0.2
-RELI4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,0,1,1,0,0.0
-SAMS5405,2025-05-05,Small Animal Clinical Anesthesia,College of Veterinary Medicine,45,60,15,0,0.75
-SAMS5415,2025-05-05,"Zoological Medicine (Exotic Pets, Wildlife, and Zoo)",College of Veterinary Medicine,18,20,2,0,0.9
-SAMS5430,2025-05-05,Small Animal Orthopedic Surgery,College of Veterinary Medicine,26,35,9,0,0.7428571428571429
-SAMS5435,2025-05-05,Small Animal Dermatology Clinical Rotation,College of Veterinary Medicine,30,35,5,0,0.8571428571428571
-SAMS5440,2025-05-05,Small Animal Oncology Clinical Rotation,College of Veterinary Medicine,24,30,6,0,0.8
-SAMS5445,2025-05-05,Clinical Radiology,College of Veterinary Medicine,45,50,5,0,0.9
-SAMS5450,2025-05-05,Small Animal General Surgery,College of Veterinary Medicine,33,40,7,0,0.825
-SAMS5455,2025-05-05,Small Animal Cardiology Rotation,College of Veterinary Medicine,25,30,5,0,0.8333333333333334
-SAMS5460,2025-05-05,Small Animal Ophthalmology,College of Veterinary Medicine,34,40,6,0,0.85
-SAMS5465,2025-05-05,Small Animal Clinical Neurology/Neurosurgery,College of Veterinary Medicine,30,40,10,0,0.75
-SAMS5475,2025-05-05,Small Animal Community Practice,College of Veterinary Medicine,44,60,16,0,0.7333333333333333
-SAMS5485,2025-05-05,Small Animal Internal Medicine,College of Veterinary Medicine,47,60,13,0,0.7833333333333333
-SAMS5490,2025-05-05,Emergency and Critical Care,College of Veterinary Medicine,40,60,20,0,0.6666666666666666
-SAMS5900,2025-05-05,Studies in Clinical Small Animal Medicine,College of Veterinary Medicine,3,3,0,0,1.0
-SOCI5500,2025-05-05,Criminal Justice Internship,Franklin College of Arts and Sciences,5,10,5,0,0.5
-SOCI5510,2025-05-05,Criminal Justice Internship,Franklin College of Arts and Sciences,5,10,5,0,0.5
-SOCI5520,2025-05-05,Criminal Justice Internship,Franklin College of Arts and Sciences,4,10,6,0,0.4
-SPTM5900,2025-05-05,Sports Media Capstone,Grady College of Journalism and Mass Communication,5,20,15,0,0.25
-STAT4220,2025-05-05,Applied Experimental Designs,Franklin College of Arts and Sciences,12,30,18,0,0.4
-STAT4230,2025-05-05,Applied Regression Analysis,Franklin College of Arts and Sciences,11,20,9,0,0.55
-STAT5700,2025-05-05,Internship in Statistics,Franklin College of Arts and Sciences,1,1,0,0,1.0
-TXMI3910,2025-05-05,Practicum in Fashion Merchandising,College of Family and Consumer Sciences,0,10,10,0,0.0
-TXMI4960R,2025-05-05,Faculty-Mentored Undergraduate Research I,College of Family and Consumer Sciences,0,5,5,0,0.0
-TXMI5720,2025-05-05,Social Entrepreneurship and Product Development in Ghana,College of Family and Consumer Sciences,0,10,10,0,0.0
-TXMI5910,2025-05-05,"Textiles, Merchandising and Interiors Internship",College of Family and Consumer Sciences,3,100,97,0,0.03
-UNIV1105,2025-05-05,Introducing English Composition,various,0,24,24,0,0.0
-UNIV1108,2025-05-05,Essentials of Math Modeling,various,9,24,15,0,0.375
-UNIV1201,2025-05-05,Learning for Success at the University,various,0,60,60,0,0.0
-UNIV2900,2025-05-05,Special Topics in Learning and Success,various,0,24,24,0,0.0
-VETM5650,2025-05-05,Practice Management,College of Veterinary Medicine,13,30,17,0,0.43333333333333335
-VETM5900,2025-05-05,Studies in Clinical Veterinary Medicine,College of Veterinary Medicine,25,500,475,0,0.05
-VPAT3960S,2025-05-05,One Health Capstone,College of Veterinary Medicine,0,5,5,0,0.0
-VPAT5400,2025-05-05,Diagnostic Pathology,College of Veterinary Medicine,46,60,14,0,0.7666666666666667
-VPAT5401,2025-05-05,Anatomic Pathology Clerkship,College of Veterinary Medicine,1,40,39,0,0.025
-VPAT5900,2025-05-05,Studies in Pathology,College of Veterinary Medicine,1,1,0,0,1.0
-VPHY3107L,2025-05-05,Integrative Concepts in Physiology Laboratory,College of Veterinary Medicine,8,30,22,0,0.26666666666666666
-WASR3900,2025-05-05,Water and Soil Resources Internship,Warnell School of Forestry and Natural Resources,0,300,300,0,0.0
-WILD3900,2025-05-05,Wildlife Internship,Warnell School of Forestry and Natural Resources,10,300,290,0,0.03333333333333333
-WMST3270S,2025-05-05,Gendered Politics of Food,Franklin College of Arts and Sciences,8,12,4,0,0.6666666666666666
-WMST4950,2025-05-05,Directed Studies in Women's Studies,Franklin College of Arts and Sciences,1,1,0,0,1.0
+AAEC3910,2025-05-11,Internships,College of Agricultural and Environmental Sciences,25,25,0,0,1.0
+AAEC4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+ACCT2101,2025-05-11,Principles of Accounting I,Terry College of Business,31,45,14,0,0.6888888888888889
+ADPR5010,2025-05-11,Advertising Internship,Grady College of Journalism and Mass Communication,0,20,20,0,0.0
+ADPR5011,2025-05-11,Public Relations Internship,Grady College of Journalism and Mass Communication,1,20,19,0,0.05
+ADPR5990,2025-05-11,Seminar in Advertising and Public Relations,Grady College of Journalism and Mass Communication,46,54,8,0,0.8518518518518519
+ADSC3700,2025-05-11,Special Problems in Animal and Dairy Science,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
+ADSC3910,2025-05-11,Internship in ADS I,College of Agricultural and Environmental Sciences,10,10,0,0,1.0
+ADSC3920,2025-05-11,Animal Science Internship II,College of Agricultural and Environmental Sciences,6,10,4,0,0.6
+ADSC4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,3,30,27,0,0.1
+ADSC4970,2025-05-11,Undergraduate Research in Animal and Dairy Science II,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
+AFAM4170,2025-05-11,Introduction to Black Psychology,Franklin College of Arts and Sciences,1,5,4,0,0.2
+AFAM4880,2025-05-11,Topics in African American Literature,Franklin College of Arts and Sciences,0,10,10,0,0.0
+ALDR3900S,2025-05-11,Leadership and Service,College of Agricultural and Environmental Sciences,18,25,7,0,0.72
+ANTH4261,2025-05-11,Museum of Natural History Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
+ARGD3010,2025-05-11,Foundations of Graphic Design,Franklin College of Arts and Sciences,18,18,0,1,1.0
+ARGD3080,2025-05-11,Internship in Graphic Design,Franklin College of Arts and Sciences,1,16,15,0,0.0625
+ARGD4060,2025-05-11,Design Center,Franklin College of Arts and Sciences,10,18,8,0,0.5555555555555556
+ARID4010,2025-05-11,Interior Design Internship,Franklin College of Arts and Sciences,17,24,7,0,0.7083333333333334
+ARID4350,2025-05-11,Interior Design Practicum,Franklin College of Arts and Sciences,7,9,2,0,0.7777777777777778
+ARST2100,2025-05-11,Introduction to Painting and Visuality,Franklin College of Arts and Sciences,9,20,11,0,0.45
+ARST2500,2025-05-11,Introduction to Ceramics,Franklin College of Arts and Sciences,8,16,8,0,0.5
+ARST3140,2025-05-11,Painting Studio Concepts,Franklin College of Arts and Sciences,7,20,13,0,0.35
+ARST3500,2025-05-11,Intermediate Ceramics,Franklin College of Arts and Sciences,8,16,8,0,0.5
+ARST4315,2025-05-11,Introduction to Book Arts,Franklin College of Arts and Sciences,11,18,7,0,0.6111111111111112
+ARST4330,2025-05-11,Printmaking: Special Topics I,Franklin College of Arts and Sciences,0,20,20,0,0.0
+ARST4370,2025-05-11,Advanced Book Studio,Franklin College of Arts and Sciences,3,18,15,0,0.16666666666666666
+ARST4915,2025-05-11,Thematic Inquiry in Contemporary Art,Franklin College of Arts and Sciences,19,20,1,0,0.95
+ARST4930,2025-05-11,Internship in Art,Franklin College of Arts and Sciences,3,11,8,0,0.2727272727272727
+ATSC3990,2025-05-11,Internship in Atmospheric Sciences,Franklin College of Arts and Sciences,3,3,0,0,1.0
+ATSC4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,1,0,0,1.0
+BCMB3100,2025-05-11,Introductory Biochemistry and Molecular Biology,Franklin College of Arts and Sciences,36,150,114,0,0.24
+BCMB4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,7,38,31,0,0.18421052631578946
+BCMB4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,Franklin College of Arts and Sciences,5,18,13,0,0.2777777777777778
+BIOE4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Engineering,1,10,9,0,0.1
+BIOL1107,2025-05-11,Principles of Biology I,Franklin College of Arts and Sciences,27,50,23,0,0.54
+BIOL1107L,2025-05-11,Principles of Biology I Laboratory,Franklin College of Arts and Sciences,29,30,1,2,0.9666666666666667
+BIOL1108,2025-05-11,Principles of Biology II,Franklin College of Arts and Sciences,34,50,16,0,0.68
+BIOL1108L,2025-05-11,Principles of Biology II Laboratory,Franklin College of Arts and Sciences,31,48,17,0,0.6458333333333334
+BIOL3110L,2025-05-11,Basic Skills in the Laboratory,Franklin College of Arts and Sciences,25,28,3,0,0.8928571428571429
+BIOL4261,2025-05-11,Museum of Natural History Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
+BIOL4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,8,11,3,0,0.7272727272727273
+BIOL4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,Franklin College of Arts and Sciences,3,3,0,0,1.0
+BIOS2010,2025-05-11,Elementary Biostatistics,College of Public Health,14,45,31,0,0.3111111111111111
+BMSC4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Veterinary Medicine,0,3,3,0,0.0
+BTEC3910,2025-05-11,Internship in Applied Biotechnology,College of Agricultural and Environmental Sciences,2,5,3,0,0.4
+BTEC4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,2,2,0,0,1.0
+CBIO2200,2025-05-11,Anatomy and Physiology I,Franklin College of Arts and Sciences,39,40,1,0,0.975
+CBIO2200L,2025-05-11,Anatomy and Physiology I,Franklin College of Arts and Sciences,39,40,1,0,0.975
+CBIO2210,2025-05-11,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,0,1.0
+CBIO2210L,2025-05-11,Anatomy and Physiology II,Franklin College of Arts and Sciences,40,40,0,2,1.0
+CBIO3200L,2025-05-11,Medical Anatomy,Franklin College of Arts and Sciences,19,20,1,0,0.95
+CBIO3400,2025-05-11,Cell Biology,Franklin College of Arts and Sciences,26,40,14,0,0.65
+CBIO4980R,2025-05-11,Faculty-Mentored Undergraduate Research III,Franklin College of Arts and Sciences,4,4,0,0,1.0
+CHEM1211,2025-05-11,General Chemistry I,Franklin College of Arts and Sciences,100,105,5,0,0.9523809523809523
+CHEM1211D,2025-05-11,General Chemistry I,Franklin College of Arts and Sciences,100,180,80,0,0.5555555555555556
+CHEM1211L,2025-05-11,General Chemistry Laboratory I,Franklin College of Arts and Sciences,72,72,0,1,1.0
+CHEM1212,2025-05-11,General Chemistry II,Franklin College of Arts and Sciences,86,150,64,0,0.5733333333333334
+CHEM1212D,2025-05-11,General Chemistry II,Franklin College of Arts and Sciences,86,100,14,0,0.86
+CHEM1212L,2025-05-11,General Chemistry Laboratory II,Franklin College of Arts and Sciences,65,72,7,0,0.9027777777777778
+CHEM2211,2025-05-11,Modern Organic Chemistry I,Franklin College of Arts and Sciences,98,300,202,0,0.32666666666666666
+CHEM2211L,2025-05-11,Modern Organic Chemistry Laboratory I,Franklin College of Arts and Sciences,76,96,20,0,0.7916666666666666
+CHEM2212,2025-05-11,Modern Organic Chemistry II,Franklin College of Arts and Sciences,79,150,71,0,0.5266666666666666
+CHEM2212L,2025-05-11,Modern Organic Chemistry Laboratory II,Franklin College of Arts and Sciences,65,72,7,0,0.9027777777777778
+CHEM4300,2025-05-11,Special Topics in Analytical Chemistry,Franklin College of Arts and Sciences,9,12,3,0,0.75
+CHEM4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,0,12,12,0,0.0
+CHEM4980R,2025-05-11,Faculty-Mentored Undergraduate Research III,Franklin College of Arts and Sciences,0,6,6,0,0.0
+CLAS4220,2025-05-11,Classical Epic Poetry,Franklin College of Arts and Sciences,3,30,27,0,0.1
+CMLT2400,2025-05-11,Asian-American Literature,Franklin College of Arts and Sciences,21,30,9,0,0.7
+COFA3900,2025-05-11,Community Forestry and Arboriculture Internship,Unknown,2,100,98,0,0.02
+COMM1110,2025-05-11,Introduction to Public Speaking,Franklin College of Arts and Sciences,35,54,19,0,0.6481481481481481
+COMM3310,2025-05-11,Case Studies in Public Communication,Franklin College of Arts and Sciences,30,30,0,6,1.0
+COMM4910,2025-05-11,Internship in Communication,Franklin College of Arts and Sciences,19,19,0,0,1.0
+CRSS3910,2025-05-11,Crop Science Internship,College of Agricultural and Environmental Sciences,0,25,25,0,0.0
+CRSS3920,2025-05-11,Environmental Soil Science Internship,College of Agricultural and Environmental Sciences,2,20,18,0,0.1
+CRSS3930,2025-05-11,Turfgrass Management Internship,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
+CSCI1302,2025-05-11,Software Development,Franklin College of Arts and Sciences,59,70,11,0,0.8428571428571429
+CSCI2720,2025-05-11,Data Structures,Franklin College of Arts and Sciences,6,48,42,0,0.125
+CSCI4370,2025-05-11,Database Management,Franklin College of Arts and Sciences,22,27,5,0,0.8148148148148148
+CSCI4470,2025-05-11,Algorithms,Franklin College of Arts and Sciences,35,35,0,0,1.0
+CSCI4950,2025-05-11,Directed Study in Computer Science,Franklin College of Arts and Sciences,1,330,329,0,0.0030303030303030303
+CSCI4960,2025-05-11,Faculty Mentored Research in Computer Science,Franklin College of Arts and Sciences,1,300,299,0,0.0033333333333333335
+CSCI4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,0,10,10,0,0.0
+CSCI5007,2025-05-11,Internship in Computer Science Business/Industry,Franklin College of Arts and Sciences,53,105,52,0,0.5047619047619047
+CSEE4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,5,4,0,0.2
+DANC4000,2025-05-11,Independent Study in Dance,Franklin College of Arts and Sciences,1,20,19,0,0.05
+DMAN4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Public Health,1,4,3,0,0.25
+ECHD4170,2025-05-11,Introduction to Black Psychology,College of Education,0,5,5,0,0.0
+ECHD4660,2025-05-11,U.S. Latino/a Mental Health:  An Introduction,College of Education,3,15,12,0,0.2
+ECOL4261,2025-05-11,Museum of Natural History Internship,Odum School of Ecology,0,5,5,0,0.0
+ECON2105,2025-05-11,Principles of Macroeconomics,Terry College of Business,9,30,21,0,0.3
+ECON2106,2025-05-11,Principles of Microeconomics,Terry College of Business,5,30,25,0,0.16666666666666666
+ECON4010,2025-05-11,Intermediate Microeconomics,Terry College of Business,21,30,9,0,0.7
+ECON4800,2025-05-11,Internship and/or Cooperative Education,Terry College of Business,3,3,0,0,1.0
+ECSE2170,2025-05-11,Fundamentals of Circuit Analysis,College of Engineering,12,46,34,0,0.2608695652173913
+ECSE2170L,2025-05-11,Fundamentals of Circuit Analysis,College of Engineering,12,46,34,0,0.2608695652173913
+EDIT4000,2025-05-11,Special Problems in Instructional Technology,College of Education,1,10,9,0,0.1
+EDSE4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Education,1,5,4,0,0.2
+EDUC4460S,2025-05-11,Educational Experiences in Classroom and Community (Honors),College of Education,1,15,14,0,0.06666666666666667
+EETH4010,2025-05-11,Undergraduate Research,College of Environment and Design,0,10,10,0,0.0
+EHSC3700,2025-05-11,Undergraduate Research in Environmental Health Science,College of Public Health,0,225,225,0,0.0
+EHSC3910,2025-05-11,Internship in Environmental Health Science,College of Public Health,8,150,142,0,0.05333333333333334
+EHSC3950,2025-05-11,Health and Safety Training for Hazardous Waste Workers,College of Public Health,11,15,4,0,0.7333333333333333
+EHSC4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Public Health,0,80,80,0,0.0
+EMST5010,2025-05-11,Media Entertainment Industry Internship,Grady College of Journalism and Mass Communication,0,10,10,0,0.0
+ENGL1101,2025-05-11,English Composition I,Franklin College of Arts and Sciences,7,15,8,0,0.4666666666666667
+ENGL1102,2025-05-11,English Composition II,Franklin College of Arts and Sciences,15,17,2,0,0.8823529411764706
+ENGL4695,2025-05-11,Topics in Postcolonial Literature,Franklin College of Arts and Sciences,3,10,7,0,0.3
+ENGL4880,2025-05-11,Topics in African American Literature,Franklin College of Arts and Sciences,3,25,22,0,0.12
+ENGL4896,2025-05-11,Comics and Graphic Narratives,Franklin College of Arts and Sciences,8,10,2,0,0.8
+ENGL4899,2025-05-11,Topics in Science Fiction,Franklin College of Arts and Sciences,8,10,2,0,0.8
+ENGR3920,2025-05-11,Cooperative Work Experience II,College of Engineering,10,25,15,0,0.4
+ENGR3930,2025-05-11,Internship in Engineering,College of Engineering,3,12,9,0,0.25
+ENVM3910,2025-05-11,Internships,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+EPSY4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Education,0,20,20,0,0.0
+EPSY4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,College of Education,0,20,20,0,0.0
+ESCI4440,2025-05-11,Science Teaching Methods in the Middle Grades,College of Education,0,25,25,0,0.0
+FANR4950,2025-05-11,Directed Studies in Natural Resources,Warnell School of Forestry and Natural Resources,0,20,20,0,0.0
+FANR4960R,2025-05-11,Faculty-Mentored Undergraduate Research in Natural Resources I,Warnell School of Forestry and Natural Resources,1,10,9,0,0.1
+FANR5950,2025-05-11,Special Topics in Forestry and Natural Resources,Warnell School of Forestry and Natural Resources,0,20,20,0,0.0
+FCID5015,2025-05-11,Museum Internship,Franklin College of Arts and Sciences,4,10,6,0,0.4
+FDST3910,2025-05-11,Food Science Internship,College of Agricultural and Environmental Sciences,4,5,1,0,0.8
+FDST4800,2025-05-11,Special Problems in Food Science,College of Agricultural and Environmental Sciences,0,1,1,0,0.0
+FDST4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,1,0,0,1.0
+FHCE4900,2025-05-11,"Seminar in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,1,5,4,0,0.2
+FHCE5910,2025-05-11,"Financial Planning,  Housing and Consumer Economics Internship",College of Family and Consumer Sciences,6,10,4,0,0.6
+FHCE5950,2025-05-11,"Research Internship in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,0,5,5,0,0.0
+FHCE5960,2025-05-11,"Quantitative Internship in Financial Planning, Housing and Consumer Economics",College of Family and Consumer Sciences,0,5,5,0,0.0
+FINA3000,2025-05-11,Financial Management,Terry College of Business,10,15,5,0,0.6666666666666666
+FINA3001,2025-05-11,Financial Management,Terry College of Business,13,25,12,0,0.52
+FINA4210,2025-05-11,Applied Corporate Finance,Terry College of Business,22,30,8,0,0.7333333333333333
+FISH3900,2025-05-11,Fisheries Internship,Warnell School of Forestry and Natural Resources,4,300,296,0,0.013333333333333334
+FORS3900,2025-05-11,Forestry Internship,Warnell School of Forestry and Natural Resources,2,100,98,0,0.02
+GENE4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,2,2,0,0,1.0
+GENE4980R,2025-05-11,Faculty-Mentored Undergraduate Research III,Franklin College of Arts and Sciences,1,1,0,0,1.0
+GEOG1101,2025-05-11,"Human Geography: People, Places, and Cultures",Franklin College of Arts and Sciences,14,30,16,0,0.4666666666666667
+GEOG4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,4,3,0,0.25
+GEOL4261,2025-05-11,Museum of Natural History Internship,Franklin College of Arts and Sciences,1,1,0,0,1.0
+GEOL4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,1,0,0,1.0
+GISC3900,2025-05-11,Geospatial Information Science Internship,Unknown,0,300,300,0,0.0
+GRMN2990,2025-05-11,German-English Conversation Partnership,Franklin College of Arts and Sciences,0,20,20,0,0.0
+GRMN3500,2025-05-11,German for Reading Knowledge,Franklin College of Arts and Sciences,10,15,5,0,0.6666666666666666
+HDFS5910,2025-05-11,Applied Community Internship in Human Development and Family Science,College of Family and Consumer Sciences,14,20,6,0,0.7
+HFIM3910,2025-05-11,Hospitality Management Internship,College of Agricultural and Environmental Sciences,7,25,18,0,0.28
+HFIM3912,2025-05-11,Food and Beverage Management Internship,College of Agricultural and Environmental Sciences,10,25,15,0,0.4
+HFIM3913,2025-05-11,Facilities Management Internship,College of Agricultural and Environmental Sciences,5,25,20,0,0.2
+HFIM3914,2025-05-11,Hotel and Lodging Management Internship,College of Agricultural and Environmental Sciences,3,25,22,0,0.12
+HIST2111,2025-05-11,American History to 1865,Franklin College of Arts and Sciences,30,30,0,2,1.0
+HIST2112,2025-05-11,American History Since 1865,Franklin College of Arts and Sciences,22,30,8,0,0.7333333333333333
+HIST3340,2025-05-11,The Age of Renaissance and Reformation,Franklin College of Arts and Sciences,21,30,9,0,0.7
+HONS4800H,2025-05-11,Honors Capstone Internship,Franklin College of Arts and Sciences,1,1,0,0,1.0
+HONS4801H,2025-05-11,Honors Internship (Non-Capstone),Franklin College of Arts and Sciences,2,2,0,0,1.0
+HORT3910,2025-05-11,Horticulture Internship,College of Agricultural and Environmental Sciences,8,15,7,0,0.5333333333333333
+HORT3920,2025-05-11,UGArden Internship,College of Agricultural and Environmental Sciences,6,10,4,0,0.6
+HORT3930,2025-05-11,Trial Garden Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+HORT3940S,2025-05-11,Botanical Garden Internship,College of Agricultural and Environmental Sciences,0,10,10,0,0.0
+HORT4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,2,1,0,0.5
+HPAM4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Public Health,1,3,2,0,0.3333333333333333
+HPRB3020S,2025-05-11,Foundations of Health Promotion Professional Practice and Service,College of Public Health,0,50,50,0,0.0
+HPRB4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Public Health,0,5,5,0,0.0
+HPRB4980R,2025-05-11,Faculty-Mentored Undergraduate Research III,College of Public Health,0,5,5,0,0.0
+IDIS4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,College of Veterinary Medicine,1,1,0,0,1.0
+IDIS5400,2025-05-11,Studies in Advanced Clinical Parasitology,College of Veterinary Medicine,3,15,12,0,0.2
+INTL4720,2025-05-11,International Affairs Internship,School of Public and International Affairs,1,10,9,0,0.1
+INTL4721,2025-05-11,International Affairs Internship Research,School of Public and International Affairs,1,10,9,0,0.1
+INTL4722,2025-05-11,International Affairs Internship Analytical Essays,School of Public and International Affairs,2,10,8,0,0.2
+JOUR5010,2025-05-11,Media Internship,Grady College of Journalism and Mass Communication,1,10,9,0,0.1
+JURI5173S,2025-05-11,Summer Criminal Defense Practicum I Hours,School of Law,4,12,8,0,0.3333333333333333
+JURI5190,2025-05-11,Supervised Research,School of Law,2,3,1,0,0.6666666666666666
+JURI5510,2025-05-11,Independent Project,School of Law,2,4,2,0,0.5
+JURI5761S,2025-05-11,Child Endangerment and Sexual Exploitation,School of Law,0,8,8,0,0.0
+JURI5762S,2025-05-11,Child Endangerment and Sexual Exploitation Clinic Hours,School of Law,0,8,8,0,0.0
+JURI5764S,2025-05-11,Corporate Counsel Externship  Summer,School of Law,3,10,7,0,0.3
+JURI5966S,2025-05-11,Summer Externship - Service Learning,School of Law,10,25,15,0,0.4
+JURI5977S,2025-05-11,Veterans Legal Clinic,School of Law,2,10,8,0,0.2
+JURI5978S,2025-05-11,Veterans Legal Clinic Hours,School of Law,2,10,8,0,0.2
+KINS3450S,2025-05-11,Practicum in Fitness and Conditioning,College of Education,9,9,0,0,1.0
+KINS3480,2025-05-11,Practicum in Kinesiology Research,College of Education,1,90,89,0,0.011111111111111112
+KINS4750S,2025-05-11,Service Learning in Kinesiology,College of Education,6,18,12,0,0.3333333333333333
+LAMS5400,2025-05-11,Large Animal Advanced Clinical Anesthesia,College of Veterinary Medicine,10,15,5,0,0.6666666666666666
+LAMS5415,2025-05-11,Large Animal Internal Medicine,College of Veterinary Medicine,36,50,14,0,0.72
+LAMS5420,2025-05-11,Large Animal Surgery,College of Veterinary Medicine,24,40,16,0,0.6
+LAMS5425S,2025-05-11,Large Animal Farm Practice,College of Veterinary Medicine,14,30,16,0,0.4666666666666667
+LAMS5435,2025-05-11,General Theriogenology,College of Veterinary Medicine,18,24,6,0,0.75
+LAMS5465,2025-05-11,Large Animal Emergency and Critical Care,College of Veterinary Medicine,15,24,9,0,0.625
+LAMS5900,2025-05-11,Studies in Clinical Large Animal Medicine,College of Veterinary Medicine,3,3,0,0,1.0
+LAND1500,2025-05-11,Design and the Environment,College of Environment and Design,0,30,30,0,0.0
+LAND2020,2025-05-11,Landscape Architecture Design Studio II,College of Environment and Design,23,24,1,0,0.9583333333333334
+LAND2220,2025-05-11,Design Communication II,College of Environment and Design,21,40,19,0,0.525
+LATN4050,2025-05-11,Roman Epistles,Franklin College of Arts and Sciences,3,15,12,0,0.2
+LING4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,1,2,1,0,0.5
+MATH1113,2025-05-11,Precalculus,Franklin College of Arts and Sciences,32,64,32,0,0.5
+MATH2250,2025-05-11,Calculus I for Science and Engineering,Franklin College of Arts and Sciences,32,36,4,0,0.8888888888888888
+MATH2260,2025-05-11,Calculus II for Science and Engineering,Franklin College of Arts and Sciences,30,36,6,0,0.8333333333333334
+MATH2500,2025-05-11,Accelerated Calculus III for Engineering Students,Franklin College of Arts and Sciences,35,36,1,0,0.9722222222222222
+MATH2700,2025-05-11,Elementary Differential Equations,Franklin College of Arts and Sciences,35,36,1,3,0.9722222222222222
+MATH3300,2025-05-11,Applied Linear Algebra,Franklin College of Arts and Sciences,26,32,6,0,0.8125
+MATH4801,2025-05-11,Mathematics Internship,Franklin College of Arts and Sciences,0,1,1,0,0.0
+MCHE4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Engineering,1,5,4,0,0.2
+MIBO2500L,2025-05-11,Microbiology and Health Care Laboratory,Franklin College of Arts and Sciences,32,40,8,0,0.8
+MIBO3500L,2025-05-11,Introductory Microbiology Laboratory I,Franklin College of Arts and Sciences,40,40,0,1,1.0
+MIBO4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,5,5,0,0,1.0
+MIBO4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,Franklin College of Arts and Sciences,1,1,0,0,1.0
+MIST4801,2025-05-11,Internship in Data Analytics,Terry College of Business,18,30,12,0,0.6
+MIST4802,2025-05-11,Internship in Information Security,Terry College of Business,10,30,20,0,0.3333333333333333
+MUSI4022,2025-05-11,Summer Music Therapy Practicum,Franklin College of Arts and Sciences,2,10,8,0,0.2
+MUSI4023,2025-05-11,Music Therapy Internship,Franklin College of Arts and Sciences,4,10,6,0,0.4
+NUTR3010,2025-05-11,Special Problems in Nutritional Sciences,College of Family and Consumer Sciences,3,7,4,0,0.42857142857142855
+NUTR4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Family and Consumer Sciences,1,5,4,0,0.2
+NUTR5800,2025-05-11,Peer Nutrition Education,College of Family and Consumer Sciences,8,10,2,0,0.8
+NUTR5910,2025-05-11,Dietetics Practicum,College of Family and Consumer Sciences,2,12,10,0,0.16666666666666666
+PATH3910,2025-05-11,Plant Pathology Internship,College of Agricultural and Environmental Sciences,0,5,5,0,0.0
+PATH4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,0,4,4,0,0.0
+PBGG4960,2025-05-11,"Research Experience in Plant Breeding, Genetics, and Genomics",College of Agricultural and Environmental Sciences,0,3,3,0,0.0
+PBGG4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,5,8,3,0,0.625
+PBIO4261,2025-05-11,Museum of Natural History Internship,Franklin College of Arts and Sciences,3,5,2,0,0.6
+PBIO4940,2025-05-11,Internship in Plant Biology,Franklin College of Arts and Sciences,1,1,0,0,1.0
+PBIO4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,2,2,0,0,1.0
+PEDB1010,2025-05-11,Adapted Physical Education,College of Education,6,50,44,0,0.12
+PEDB1120,2025-05-11,Beginning Golf,College of Education,75,77,2,6,0.974025974025974
+PEDB1350,2025-05-11,Beginning Tennis,College of Education,34,72,38,0,0.4722222222222222
+PEDB1380,2025-05-11,Beginning Volleyball,College of Education,22,35,13,0,0.6285714285714286
+PEDB1400,2025-05-11,Introduction to Weight Training,College of Education,102,245,143,0,0.4163265306122449
+PEDB1950,2025-05-11,Fitness for Life Walking,College of Education,97,140,43,0,0.6928571428571428
+PEDB1990,2025-05-11,Directed Study,College of Education,0,30,30,0,0.0
+PHRM5210,2025-05-11,Special Topics in Pharmacy,College of Pharmacy,1,2,1,0,0.5
+PHYS1111,2025-05-11,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,60,60,0,0,1.0
+PHYS1111L,2025-05-11,"Introductory Physics-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,60,60,0,1,1.0
+PHYS1112,2025-05-11,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,59,60,1,0,0.9833333333333333
+PHYS1112L,2025-05-11,"Introductory Physics-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,59,60,1,0,0.9833333333333333
+PHYS1211,2025-05-11,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,38,40,2,0,0.95
+PHYS1211L,2025-05-11,"Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics",Franklin College of Arts and Sciences,38,40,2,0,0.95
+PHYS1212,2025-05-11,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,39,40,1,0,0.975
+PHYS1212L,2025-05-11,"Principles of Physics for Scientists and Engineers-Electricity and Magnetism, Optics, Modern Physics",Franklin College of Arts and Sciences,39,40,1,0,0.975
+PMCY4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Pharmacy,3,3,0,0,1.0
+PMCY4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,College of Pharmacy,1,4,3,0,0.25
+POLS1101,2025-05-11,American Government,School of Public and International Affairs,28,45,17,0,0.6222222222222222
+POLS4960,2025-05-11,Directed Readings and/or Projects,School of Public and International Affairs,1,1,0,0,1.0
+POLS5500,2025-05-11,Criminal Justice Internship,School of Public and International Affairs,5,20,15,0,0.25
+POLS5510,2025-05-11,Criminal Justice Internship,School of Public and International Affairs,5,20,15,0,0.25
+POLS5520,2025-05-11,Criminal Justice Internship,School of Public and International Affairs,6,20,14,0,0.3
+POPH5400,2025-05-11,Avian Medicine Clinical Rotation,College of Veterinary Medicine,2,10,8,0,0.2
+POPH5445,2025-05-11,Food Animal Practice,College of Veterinary Medicine,6,10,4,0,0.6
+POPH5900,2025-05-11,Studies in Population Health,College of Veterinary Medicine,1,1,0,0,1.0
+POUL3910,2025-05-11,Internship in Poultry Science,College of Agricultural and Environmental Sciences,14,25,11,0,0.56
+POUL4980R,2025-05-11,Faculty-Mentored Undergraduate Research III,College of Agricultural and Environmental Sciences,1,10,9,0,0.1
+PRTM3900,2025-05-11,"Parks, Recreation, and Tourism Management Internship",Warnell School of Forestry and Natural Resources,1,300,299,0,0.0033333333333333335
+PSYC3980,2025-05-11,Research Design in Psychology,Franklin College of Arts and Sciences,20,25,5,0,0.8
+PSYC4170,2025-05-11,Introduction to Black Psychology,Franklin College of Arts and Sciences,3,5,2,0,0.6
+PSYC4800,2025-05-11,Special Problems,Franklin College of Arts and Sciences,4,20,16,0,0.2
+RBIO4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Agricultural and Environmental Sciences,1,15,14,0,0.06666666666666667
+RBIO4970R,2025-05-11,Faculty-Mentored Undergraduate Research II,College of Agricultural and Environmental Sciences,1,5,4,0,0.2
+REAL4800,2025-05-11,Internship in Real Estate,Terry College of Business,2,5,3,0,0.4
+RELI4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,Franklin College of Arts and Sciences,0,1,1,0,0.0
+SAMS4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Veterinary Medicine,1,3,2,0,0.3333333333333333
+SAMS5405,2025-05-11,Small Animal Clinical Anesthesia,College of Veterinary Medicine,45,60,15,0,0.75
+SAMS5415,2025-05-11,"Zoological Medicine (Exotic Pets, Wildlife, and Zoo)",College of Veterinary Medicine,18,20,2,0,0.9
+SAMS5430,2025-05-11,Small Animal Orthopedic Surgery,College of Veterinary Medicine,26,35,9,0,0.7428571428571429
+SAMS5435,2025-05-11,Small Animal Dermatology Clinical Rotation,College of Veterinary Medicine,30,35,5,0,0.8571428571428571
+SAMS5440,2025-05-11,Small Animal Oncology Clinical Rotation,College of Veterinary Medicine,24,30,6,0,0.8
+SAMS5445,2025-05-11,Clinical Radiology,College of Veterinary Medicine,45,50,5,0,0.9
+SAMS5450,2025-05-11,Small Animal General Surgery,College of Veterinary Medicine,33,40,7,0,0.825
+SAMS5455,2025-05-11,Small Animal Cardiology Rotation,College of Veterinary Medicine,25,30,5,0,0.8333333333333334
+SAMS5460,2025-05-11,Small Animal Ophthalmology,College of Veterinary Medicine,34,40,6,0,0.85
+SAMS5465,2025-05-11,Small Animal Clinical Neurology/Neurosurgery,College of Veterinary Medicine,30,40,10,0,0.75
+SAMS5475,2025-05-11,Small Animal Community Practice,College of Veterinary Medicine,44,60,16,0,0.7333333333333333
+SAMS5485,2025-05-11,Small Animal Internal Medicine,College of Veterinary Medicine,47,60,13,0,0.7833333333333333
+SAMS5490,2025-05-11,Emergency and Critical Care,College of Veterinary Medicine,40,60,20,0,0.6666666666666666
+SAMS5900,2025-05-11,Studies in Clinical Small Animal Medicine,College of Veterinary Medicine,3,3,0,0,1.0
+SOCI5500,2025-05-11,Criminal Justice Internship,Franklin College of Arts and Sciences,5,10,5,0,0.5
+SOCI5510,2025-05-11,Criminal Justice Internship,Franklin College of Arts and Sciences,5,10,5,0,0.5
+SOCI5520,2025-05-11,Criminal Justice Internship,Franklin College of Arts and Sciences,4,10,6,0,0.4
+SPTM5900,2025-05-11,Sports Media Capstone,Grady College of Journalism and Mass Communication,8,20,12,0,0.4
+STAT4220,2025-05-11,Applied Experimental Designs,Franklin College of Arts and Sciences,13,30,17,0,0.43333333333333335
+STAT4230,2025-05-11,Applied Regression Analysis,Franklin College of Arts and Sciences,12,20,8,0,0.6
+STAT5700,2025-05-11,Internship in Statistics,Franklin College of Arts and Sciences,1,1,0,0,1.0
+TXMI3910,2025-05-11,Practicum in Fashion Merchandising,College of Family and Consumer Sciences,0,10,10,0,0.0
+TXMI4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Family and Consumer Sciences,1,5,4,0,0.2
+TXMI5720,2025-05-11,Social Entrepreneurship and Product Development in Ghana,College of Family and Consumer Sciences,0,10,10,0,0.0
+TXMI5910,2025-05-11,"Textiles, Merchandising and Interiors Internship",College of Family and Consumer Sciences,9,100,91,0,0.09
+UNIV1105,2025-05-11,Introducing English Composition,various,0,24,24,0,0.0
+UNIV1108,2025-05-11,Essentials of Math Modeling,various,9,24,15,0,0.375
+UNIV1201,2025-05-11,Learning for Success at the University,various,0,60,60,0,0.0
+UNIV2900,2025-05-11,Special Topics in Learning and Success,various,0,24,24,0,0.0
+VETM5650,2025-05-11,Practice Management,College of Veterinary Medicine,13,30,17,0,0.43333333333333335
+VETM5900,2025-05-11,Studies in Clinical Veterinary Medicine,College of Veterinary Medicine,26,500,474,0,0.052
+VPAT3960S,2025-05-11,One Health Capstone,College of Veterinary Medicine,0,5,5,0,0.0
+VPAT5400,2025-05-11,Diagnostic Pathology,College of Veterinary Medicine,46,60,14,0,0.7666666666666667
+VPAT5401,2025-05-11,Anatomic Pathology Clerkship,College of Veterinary Medicine,1,40,39,0,0.025
+VPAT5900,2025-05-11,Studies in Pathology,College of Veterinary Medicine,1,1,0,0,1.0
+VPHY3107L,2025-05-11,Integrative Concepts in Physiology Laboratory,College of Veterinary Medicine,7,30,23,0,0.23333333333333334
+VPHY4960R,2025-05-11,Faculty-Mentored Undergraduate Research I,College of Veterinary Medicine,1,1,0,0,1.0
+WASR3900,2025-05-11,Water and Soil Resources Internship,Warnell School of Forestry and Natural Resources,0,300,300,0,0.0
+WILD3900,2025-05-11,Wildlife Internship,Warnell School of Forestry and Natural Resources,11,300,289,0,0.03666666666666667
+WMST3270S,2025-05-11,Gendered Politics of Food,Franklin College of Arts and Sciences,8,12,4,0,0.6666666666666666
+WMST4950,2025-05-11,Directed Studies in Women's Studies,Franklin College of Arts and Sciences,1,1,0,0,1.0

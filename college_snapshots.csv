@@ -24,6 +24,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Agricultural and Environmental Sciences,382,104,2,0
 2025-04-28,College of Agricultural and Environmental Sciences,386,121,2,0
 2025-05-05,College of Agricultural and Environmental Sciences,406,128,4,0
+2025-05-11,College of Agricultural and Environmental Sciences,405,138,4,0
 2024-11-11,Terry College of Business,287,4,0,0
 2024-11-18,Terry College of Business,1041,31,31,0
 2024-11-25,Terry College of Business,1555,39,59,0
@@ -49,6 +50,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,Terry College of Business,3600,138,228,0
 2025-04-28,Terry College of Business,3656,143,240,0
 2025-05-05,Terry College of Business,3680,146,227,0
+2025-05-11,Terry College of Business,3761,144,143,0
 2024-11-11,Grady College of Journalism and Mass Communication,17,0,0,0
 2024-11-18,Grady College of Journalism and Mass Communication,86,0,0,0
 2024-11-25,Grady College of Journalism and Mass Communication,127,0,1,0
@@ -74,6 +76,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,Grady College of Journalism and Mass Communication,303,16,1,0
 2025-04-28,Grady College of Journalism and Mass Communication,311,55,3,0
 2025-05-05,Grady College of Journalism and Mass Communication,309,58,6,0
+2025-05-11,Grady College of Journalism and Mass Communication,310,56,3,0
 2024-11-11,Franklin College of Arts and Sciences,775,192,0,0
 2024-11-18,Franklin College of Arts and Sciences,3063,769,143,3
 2024-11-25,Franklin College of Arts and Sciences,5012,1317,276,7
@@ -99,6 +102,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,Franklin College of Arts and Sciences,9451,2567,636,21
 2025-04-28,Franklin College of Arts and Sciences,9505,2600,719,25
 2025-05-05,Franklin College of Arts and Sciences,9663,2572,624,23
+2025-05-11,Franklin College of Arts and Sciences,9709,2567,533,19
 2024-11-11,College of Education,139,7,0,0
 2024-11-18,College of Education,615,99,13,0
 2024-11-25,College of Education,872,163,19,0
@@ -124,6 +128,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Education,1647,350,39,3
 2025-04-28,College of Education,1676,358,49,5
 2025-05-05,College of Education,1692,362,42,5
+2025-05-11,College of Education,1675,358,33,6
 2024-11-11,College of Public Health,56,2,0,0
 2024-11-18,College of Public Health,228,13,0,0
 2024-11-25,College of Public Health,359,21,1,0
@@ -149,6 +154,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Public Health,619,35,46,0
 2025-04-28,College of Public Health,631,36,59,0
 2025-05-05,College of Public Health,623,35,65,0
+2025-05-11,College of Public Health,629,35,36,0
 2024-11-11,Odum School of Ecology,7,0,0,0
 2024-11-18,Odum School of Ecology,31,0,0,0
 2024-11-25,Odum School of Ecology,58,0,0,0
@@ -174,6 +180,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,Odum School of Ecology,166,0,0,0
 2025-04-28,Odum School of Ecology,173,0,0,0
 2025-05-05,Odum School of Ecology,171,0,0,0
+2025-05-11,Odum School of Ecology,179,0,0,0
 2024-11-11,College of Engineering,39,11,0,0
 2024-11-18,College of Engineering,251,43,11,0
 2024-11-25,College of Engineering,332,60,17,0
@@ -199,6 +206,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Engineering,882,34,51,0
 2025-04-28,College of Engineering,887,33,67,0
 2025-05-05,College of Engineering,928,36,44,0
+2025-05-11,College of Engineering,942,39,34,0
 2024-11-11,College of Environment and Design,8,0,0,0
 2024-11-18,College of Environment and Design,30,0,0,0
 2024-11-25,College of Environment and Design,70,18,1,0
@@ -224,6 +232,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Environment and Design,141,41,1,0
 2025-04-28,College of Environment and Design,144,41,7,0
 2025-05-05,College of Environment and Design,143,43,9,0
+2025-05-11,College of Environment and Design,147,44,9,0
 2024-11-11,College of Family and Consumer Sciences,99,0,0,0
 2024-11-18,College of Family and Consumer Sciences,457,0,1,0
 2024-11-25,College of Family and Consumer Sciences,668,0,4,0
@@ -249,6 +258,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Family and Consumer Sciences,1616,23,23,0
 2025-04-28,College of Family and Consumer Sciences,1648,26,29,0
 2025-05-05,College of Family and Consumer Sciences,1663,30,19,0
+2025-05-11,College of Family and Consumer Sciences,1686,45,18,0
 2024-11-11,Warnell School of Forestry and Natural Resources,6,0,0,0
 2024-11-18,Warnell School of Forestry and Natural Resources,21,0,0,0
 2024-11-25,Warnell School of Forestry and Natural Resources,34,0,0,0
@@ -274,6 +284,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,Warnell School of Forestry and Natural Resources,111,12,0,0
 2025-04-28,Warnell School of Forestry and Natural Resources,114,16,0,0
 2025-05-05,Warnell School of Forestry and Natural Resources,119,17,0,0
+2025-05-11,Warnell School of Forestry and Natural Resources,127,19,0,0
 2024-11-11,School of Public and International Affairs,115,2,0,0
 2024-11-18,School of Public and International Affairs,407,6,4,0
 2024-11-25,School of Public and International Affairs,896,16,18,0
@@ -299,6 +310,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,School of Public and International Affairs,1854,46,35,0
 2025-04-28,School of Public and International Affairs,1894,45,26,0
 2025-05-05,School of Public and International Affairs,1903,45,20,0
+2025-05-11,School of Public and International Affairs,1910,49,16,0
 2024-11-11,Latin and Caribbean Studies - Various,1,0,0,0
 2024-11-18,Latin and Caribbean Studies - Various,9,0,0,0
 2024-11-25,Latin and Caribbean Studies - Various,13,0,0,0
@@ -324,6 +336,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,Latin and Caribbean Studies - Various,59,0,0,0
 2025-04-28,Latin and Caribbean Studies - Various,59,0,1,0
 2025-05-05,Latin and Caribbean Studies - Various,59,0,1,0
+2025-05-11,Latin and Caribbean Studies - Various,59,0,0,0
 2024-11-11,School of Social Work,1,0,0,0
 2024-11-18,School of Social Work,10,0,0,0
 2024-11-25,School of Social Work,16,0,0,0
@@ -349,6 +362,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,School of Social Work,27,0,0,0
 2025-04-28,School of Social Work,29,0,0,0
 2025-05-05,School of Social Work,30,0,0,0
+2025-05-11,School of Social Work,29,0,0,0
 2024-11-11,College of Pharmacy,1,0,0,0
 2024-11-18,College of Pharmacy,19,0,0,0
 2024-11-25,College of Pharmacy,29,0,0,0
@@ -374,6 +388,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Pharmacy,69,3,0,0
 2025-04-28,College of Pharmacy,70,3,0,0
 2025-05-05,College of Pharmacy,68,4,0,0
+2025-05-11,College of Pharmacy,67,5,0,0
 2024-11-11,College of Veterinary Medicine,43,0,0,0
 2024-11-18,College of Veterinary Medicine,159,0,0,0
 2024-11-25,College of Veterinary Medicine,256,0,0,0
@@ -399,6 +414,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,College of Veterinary Medicine,488,651,0,0
 2025-04-28,College of Veterinary Medicine,495,671,0,0
 2025-05-05,College of Veterinary Medicine,485,671,0,0
+2025-05-11,College of Veterinary Medicine,479,673,0,0
 2024-11-11,various,0,0,0,0
 2024-11-18,various,0,0,0,0
 2024-11-25,various,0,0,0,0
@@ -424,6 +440,7 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,various,23,10,0,0
 2025-04-28,various,23,9,0,0
 2025-05-05,various,24,9,0,0
+2025-05-11,various,33,9,0,0
 2024-11-11,School of Law,0,0,0,0
 2024-11-18,School of Law,0,0,0,0
 2024-11-25,School of Law,0,0,0,0
@@ -449,3 +466,4 @@ snapshot_date,College,Online Enrollment,Athens Enrollment,Online Waitlist,Athens
 2025-04-21,School of Law,38,8,4,0
 2025-04-28,School of Law,45,16,0,0
 2025-05-05,School of Law,47,19,0,0
+2025-05-11,School of Law,53,25,0,0
